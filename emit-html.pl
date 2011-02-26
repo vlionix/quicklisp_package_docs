@@ -3,7 +3,8 @@ my @arr = <$fh>;
 close $fh;
 
 open( $fh, ">", "quicklisp_documentation.html") or die($!);
-print $fh "<table>";
+# Add in some better html conformance
+print $fh "<table width=1>";
 foreach my $line (@arr)
 {
     my ($name, $packages, $desc) = split(/%%/, $line);

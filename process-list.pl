@@ -16,7 +16,7 @@ foreach my $line (@arr)
 }
 close $fh;
 #exit(0);
-open( $fh, ">", "quicklist_documentation.txt") or die($!);
+open( $fh, ">", "quicklisp_documentation.txt") or die($!);
 foreach my $line (@arr)
 {
     print $fh $line;
