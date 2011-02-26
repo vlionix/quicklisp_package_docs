@@ -1,0 +1,470 @@
+-*- Org -*-
+Quicklisp Systems Documentation
+
+
+| git name                               | system provided                                                  | snippet of info |
+| 3b-swf-20110110-git                    | 3b-swf-swc, 3b-swf                                               |                 |
+| 3bil-20101006-git                      | swf-writer-hack, avm2-lib, avm2-compile, avm2-asm, 3b-swf-writer |                 |
+| adw-charting-20110110-http             | adw-charting-vecto, adw-charting-google, adw-charting            |                 |
+| alexandria-20101107-git                | alexandria-tests, alexandria                                     |                 |
+| anaphora-0.9.3                         | anaphora-test, anaphora                                          |                 |
+| archive_0.8                            | archive                                                          |                 |
+| arnesi-20101006-darcs                  | arnesi.slime-extras, arnesi.cl-ppcre-extras, arnesi              | `               |
+| aromyxo-20101107-git                   | aromyxo                                                          |                 |
+| array-operations-20101006-git          | array-operations                                                 |                 |
+| asdf-install-20101207-git              | asdf-install                                                     |                 |
+| asdf-system-connections-20101006-darcs | asdf-system-connections                                          |                 |
+| asn.1-4.14                             | asn.1                                                            |                 |
+| atdoc-20110110-git                     | blocks-world, atdoc                                              |                 |
+| babel-20101107-darcs                   | babel-tests, babel-streams, babel                                |                 |
+| beirc-20101107-cvs                     | beirc                                                            |                 |
+| binary-types-20101006-git              | binary-types                                                     |                 |
+| binge-20101006-http                    | binge                                                            |                 |
+| bk-tree-0.3                            | bk-tree                                                          |                 |
+bknr-datastore-20110110-git	bknr.xml, bknr.utils, bknr.skip-list.test, bknr.skip-list, bknr.indices, bknr.impex, bknr.datastore, bknr.data.impex
+black-tie-20101006-git	black-tie
+blackthorn-engine-20110110-hg	blackthorn-stress-test, blackthorn-collision-test, blackthorn
+bordeaux-fft-20101006-http	bordeaux-fft
+bordeaux-threads-0.8.0	bordeaux-threads-test, bordeaux-threads
+bourbaki-20110110-http	bourbaki
+buildapp-1.1	buildapp
+calispel-0.1	calispel
+cells-20101207-git	cells
+cells-gtk3-20110110-git	pod-utils, ph-maths
+cffi_0.10.6	cffi-uffi-compat, cffi-tests, cffi-grovel, cffi-examples, cffi
+ch-image-20101006-git	ch-image-test, ch-image
+ch-util-20101006-git	ch-util-test, ch-util
+chillax-20101207-git	chillax.yason, chillax.view-server, chillax.core, chillax
+chipz_0.7.4	chipz
+chronicity-v0.2.6	chronicity-test, chronicity
+chunga-1.1.1	chunga
+cl+ssl-20101006-cvs	cl+ssl
+cl-2d-20101107-git	cl-2d
+cl-azure-20110110-git	cl-azure
+cl-base64-20101006-git	cl-base64-tests, cl-base64
+cl-bencode-20101107-git	bencode
+cl-beanstalk-20110110-git	cl-beanstalk
+cl-bibtex-20110110-cvs	bibtex
+cl-binary-file-0.3	cl-binary-file-0.3
+cl-btree-0.4	cl-btree-0.4
+cl-cairo2-20101006-git	cl-cairo2-xlib, cl-cairo2-gtk2, cl-cairo2, a-cl-cairo2-loader
+cl-charms-20110110-git	cl-charms
+cl-cli-parser-20101006-cvs	cli-parser
+clon-1.0b16	com.dvlsoft.clon
+cl-closure-template-20110110-git	closure-template
+cl-colors-20101006-git	cl-colors
+cl-cont-20101006-darcs	cl-cont-test, cl-cont
+cl-containers-20101006-darcs	cl-containers-test, cl-containers
+cl-couch-20101207-darcs	logv
+cl-ctrnn_1.0.0	cl-ctrnn
+cl-data-format-validation-20101006-git	data-format-validation
+cl-devil-20101107-git	cl-devil
+cl-difflib_0.1	cl-difflib-tests, cl-difflib
+cl-docutils-20101006-git	docutils
+cl-dot-20101006-http	cl-dot
+cl-emb-0.4.4	cl-emb
+cl-enumeration-20110110-cvs	enumerations
+cl-fad-0.6.4	cl-fad
+cl-ftp-20101006-http	ftp
+cl-gd-0.5.7	cl-gd-test, cl-gd
+cl-geo-0.1	geo
+cl-geocode-20101207-git	cl-geocode
+cl-geometry-20101006-git	cl-geometry-tests, cl-geometry
+cl-glfw-20110110-git	cl-glfw-types, cl-glfw-opengl-version_2_1, cl-glfw-opengl-version_2_0, cl-glfw-opengl-version_1_5, cl-glfw-opengl-version_1_4, cl-glfw-opengl-version_1_3, cl-glfw-opengl-version_1_2, cl-glfw-opengl-version_1_1, cl-glfw-opengl-version_1_0, cl-glfw-opengl-sunx_constant_data, cl-glfw-opengl-sun_vertex, cl-glfw-opengl-sun_triangle_list, cl-glfw-opengl-sun_mesh_array, cl-glfw-opengl-sun_global_alpha, cl-glfw-opengl-sgix_tag_sample_buffer, cl-glfw-opengl-sgix_sprite, cl-glfw-opengl-sgix_reference_plane, cl-glfw-opengl-sgix_polynomial_ffd, cl-glfw-opengl-sgix_pixel_texture, cl-glfw-opengl-sgix_list_priority, cl-glfw-opengl-sgix_instruments, cl-glfw-opengl-sgix_igloo_interface, cl-glfw-opengl-sgix_framezoom, cl-glfw-opengl-sgix_fragment_lighting, cl-glfw-opengl-sgix_flush_raster, cl-glfw-opengl-sgix_async, cl-glfw-opengl-sgis_texture_filter4, cl-glfw-opengl-sgis_texture_color_mask, cl-glfw-opengl-sgis_texture4d, cl-glfw-opengl-sgis_sharpen_texture, cl-glfw-opengl-sgis_point_parameters, cl-glfw-opengl-sgis_pixel_texture, cl-glfw-opengl-sgis_multisample, cl-glfw-opengl-sgis_fog_function, cl-glfw-opengl-sgis_detail_texture, cl-glfw-opengl-sgi_color_table, cl-glfw-opengl-pgi_misc_hints, cl-glfw-opengl-nv_vertex_program4, cl-glfw-opengl-nv_vertex_program, cl-glfw-opengl-nv_vertex_buffer_unified_memory, cl-glfw-opengl-nv_vertex_attrib_integer_64bit, cl-glfw-opengl-nv_vertex_array_range, cl-glfw-opengl-nv_transform_feedback2, cl-glfw-opengl-nv_transform_feedback, cl-glfw-opengl-nv_texture_barrier, cl-glfw-opengl-nv_shader_buffer_load, cl-glfw-opengl-nv_register_combiners2, cl-glfw-opengl-nv_register_combiners, cl-glfw-opengl-nv_primitive_restart, cl-glfw-opengl-nv_present_video, cl-glfw-opengl-nv_point_sprite, cl-glfw-opengl-nv_pixel_data_range, cl-glfw-opengl-nv_parameter_buffer_object, cl-glfw-opengl-nv_occlusion_query, cl-glfw-opengl-nv_half_float, cl-glfw-opengl-nv_gpu_shader5, cl-glfw-opengl-nv_gpu_program5, cl-glfw-opengl-nv_gpu_program4, cl-glfw-opengl-nv_geometry_program4, cl-glfw-opengl-nv_framebuffer_multisample_coverage, cl-glfw-opengl-nv_fragment_program, cl-glfw-opengl-nv_fence, cl-glfw-opengl-nv_explicit_multisample, cl-glfw-opengl-nv_evaluators, cl-glfw-opengl-nv_depth_buffer_float, cl-glfw-opengl-nv_copy_image, cl-glfw-opengl-nv_conditional_render, cl-glfw-opengl-mesa_window_pos, cl-glfw-opengl-mesa_resize_buffers, cl-glfw-opengl-intel_parallel_arrays, cl-glfw-opengl-ingr_blend_func_separate, cl-glfw-opengl-ibm_vertex_array_lists, cl-glfw-opengl-ibm_multimode_draw_arrays, cl-glfw-opengl-hp_image_transform, cl-glfw-opengl-gremedy_string_marker, cl-glfw-opengl-gremedy_frame_terminator, cl-glfw-opengl-ext_vertex_weighting, cl-glfw-opengl-ext_vertex_shader, cl-glfw-opengl-ext_vertex_attrib_64bit, cl-glfw-opengl-ext_vertex_array, cl-glfw-opengl-ext_transform_feedback, cl-glfw-opengl-ext_timer_query, cl-glfw-opengl-ext_texture_perturb_normal, cl-glfw-opengl-ext_texture_object, cl-glfw-opengl-ext_texture_integer, cl-glfw-opengl-ext_texture_buffer_object, cl-glfw-opengl-ext_texture3d, cl-glfw-opengl-ext_subtexture, cl-glfw-opengl-ext_stencil_two_side, cl-glfw-opengl-ext_stencil_clear_tag, cl-glfw-opengl-ext_shader_image_load_store, cl-glfw-opengl-ext_separate_shader_objects, cl-glfw-opengl-ext_secondary_color, cl-glfw-opengl-ext_provoking_vertex, cl-glfw-opengl-ext_polygon_offset, cl-glfw-opengl-ext_point_parameters, cl-glfw-opengl-ext_pixel_transform, cl-glfw-opengl-ext_paletted_texture, cl-glfw-opengl-ext_multisample, cl-glfw-opengl-ext_multi_draw_arrays, cl-glfw-opengl-ext_light_texture, cl-glfw-opengl-ext_index_material, cl-glfw-opengl-ext_index_func, cl-glfw-opengl-ext_histogram, cl-glfw-opengl-ext_gpu_shader4, cl-glfw-opengl-ext_gpu_program_parameters, cl-glfw-opengl-ext_geometry_shader4, cl-glfw-opengl-ext_framebuffer_object, cl-glfw-opengl-ext_framebuffer_multisample, cl-glfw-opengl-ext_framebuffer_blit, cl-glfw-opengl-ext_fog_coord, cl-glfw-opengl-ext_draw_range_elements, cl-glfw-opengl-ext_draw_instanced, cl-glfw-opengl-ext_draw_buffers2, cl-glfw-opengl-ext_direct_state_access, cl-glfw-opengl-ext_depth_bounds_test, cl-glfw-opengl-ext_cull_vertex, cl-glfw-opengl-ext_copy_texture, cl-glfw-opengl-ext_coordinate_frame, cl-glfw-opengl-ext_convolution, cl-glfw-opengl-ext_compiled_vertex_array, cl-glfw-opengl-ext_color_subtable, cl-glfw-opengl-ext_blend_minmax, cl-glfw-opengl-ext_blend_func_separate, cl-glfw-opengl-ext_blend_equation_separate, cl-glfw-opengl-ext_blend_color, cl-glfw-opengl-ext_bindable_uniform, cl-glfw-opengl-core, cl-glfw-opengl-ati_vertex_streams, cl-glfw-opengl-ati_vertex_attrib_array_object, cl-glfw-opengl-ati_vertex_array_object, cl-glfw-opengl-ati_separate_stencil, cl-glfw-opengl-ati_pn_triangles, cl-glfw-opengl-ati_map_object_buffer, cl-glfw-opengl-ati_fragment_shader, cl-glfw-opengl-ati_envmap_bumpmap, cl-glfw-opengl-ati_element_array, cl-glfw-opengl-ati_draw_buffers, cl-glfw-opengl-arb_window_pos, cl-glfw-opengl-arb_viewport_array, cl-glfw-opengl-arb_vertex_type_2_10_10_10_rev, cl-glfw-opengl-arb_vertex_shader, cl-glfw-opengl-arb_vertex_program, cl-glfw-opengl-arb_vertex_buffer_object, cl-glfw-opengl-arb_vertex_blend, cl-glfw-opengl-arb_vertex_attrib_64bit, cl-glfw-opengl-arb_vertex_array_object, cl-glfw-opengl-arb_uniform_buffer_object, cl-glfw-opengl-arb_transpose_matrix, cl-glfw-opengl-arb_transform_feedback3, cl-glfw-opengl-arb_transform_feedback2, cl-glfw-opengl-arb_timer_query, cl-glfw-opengl-arb_texture_multisample, cl-glfw-opengl-arb_texture_compression, cl-glfw-opengl-arb_texture_buffer_object, cl-glfw-opengl-arb_tessellation_shader, cl-glfw-opengl-arb_shading_language_include, cl-glfw-opengl-arb_shader_subroutine, cl-glfw-opengl-arb_shader_objects, cl-glfw-opengl-arb_separate_shader_objects, cl-glfw-opengl-arb_sampler_objects, cl-glfw-opengl-arb_sample_shading, cl-glfw-opengl-arb_robustness, cl-glfw-opengl-arb_provoking_vertex, cl-glfw-opengl-arb_point_parameters, cl-glfw-opengl-arb_occlusion_query, cl-glfw-opengl-arb_multitexture, cl-glfw-opengl-arb_multisample, cl-glfw-opengl-arb_matrix_palette, cl-glfw-opengl-arb_map_buffer_range, cl-glfw-opengl-arb_instanced_arrays, cl-glfw-opengl-arb_gpu_shader_fp64, cl-glfw-opengl-arb_get_program_binary, cl-glfw-opengl-arb_geometry_shader4, cl-glfw-opengl-arb_framebuffer_object, cl-glfw-opengl-arb_es2_compatibility, cl-glfw-opengl-arb_draw_instanced, cl-glfw-opengl-arb_draw_indirect, cl-glfw-opengl-arb_draw_elements_base_vertex, cl-glfw-opengl-arb_draw_buffers_blend, cl-glfw-opengl-arb_draw_buffers, cl-glfw-opengl-arb_copy_buffer, cl-glfw-opengl-arb_color_buffer_float, cl-glfw-opengl-arb_blend_func_extended, cl-glfw-opengl-apple_vertex_program_evaluators, cl-glfw-opengl-apple_vertex_array_range, cl-glfw-opengl-apple_vertex_array_object, cl-glfw-opengl-apple_texture_range, cl-glfw-opengl-apple_object_purgeable, cl-glfw-opengl-apple_flush_buffer_range, cl-glfw-opengl-apple_fence, cl-glfw-opengl-apple_element_array, cl-glfw-opengl-amd_vertex_shader_tesselator, cl-glfw-opengl-amd_performance_monitor, cl-glfw-opengl-amd_name_gen_delete, cl-glfw-opengl-amd_draw_buffers_blend, cl-glfw-opengl-3dfx_tbuffer, cl-glfw-glu, cl-glfw
+cl-gpu-20101207-git	cl-gpu.core, cl-gpu.buffers
+cl-graph-20101006-darcs	cl-graph-test, cl-graph
+cl-growl-20101006-git	cl-growl
+cl-gtk2-20101207-git	cl-gtk2-pango, cl-gtk2-gtk, cl-gtk2-glib, cl-gtk2-gdk, cl-gtk2-cairo
+cl-heap_0.1.4	cl-heap-tests, cl-heap
+cl-heredoc-20101006-git	cl-heredoc-test, cl-heredoc
+cl-html-diff_0.1	cl-html-diff
+cl-html-parse-20101006-http	cl-html-parse
+cl-i18n-20101006-darcs	cl-i18n
+cl-iconv-20101207-git	iconv
+cl-interpol-0.2.1	cl-interpol-test, cl-interpol
+cl-irc-20101006-svn	cl-irc
+cl-irregsexp-20101006-git	cl-irregsexp-test, cl-irregsexp
+cl-jpeg-20101107-http	cl-jpeg
+cl-jpl-util-0.3	jpl-util
+cl-json-20101006-darcs	cl-json.test, cl-json
+cl-l10n-20101107-darcs	cl-l10n.test, cl-l10n
+cl-l10n-cldr-20101107-darcs	cl-l10n-cldr
+cl-lastfm-20101006-git	cl-lastfm-test, cl-lastfm
+cl-lex-20101006-http	cl-lex
+cl-lexer-20110110-git	lexer
+cl-libxml2-0.3.4	xoverlay, xfactory-test, xfactory, cl-libxml2-test, cl-libxml2
+cl-log-20101006-http	cl-log
+cl-m4-20110110-git	cl-m4-test, cl-m4
+cl-markdown-20101006-darcs	cl-markdown-test, cl-markdown-comparisons, cl-markdown
+cl-memcached-0.4.1	cl-memcached
+cl-migrations-20110110-http	cl-migrations
+cl-modlisp-20101006-git	modlisp
+cl-mongo-20101207-git	cl-mongo
+cl-mssql-0.0.2	mssql
+cl-mw-20101207-git	cl-mw.examples.ping, cl-mw.examples.monte-carlo-pi, cl-mw.examples.higher-order, cl-mw.examples.hello-world, cl-mw
+cl-ncurses_0.1.4	cl-ncurses
+cl-num-utils-20101006-git	cl-num-utils-tests, cl-num-utils
+cl-oauth-20101006-git	cl-oauth
+cl-openal-20101006-git	cl-openal-examples, cl-openal, cl-alut, cl-alc
+cl-opengl-20110110-git	cl-opengl, cl-glut-examples, cl-glut, cl-glu
+cl-org-mode-20101207-git	cl-org-mode
+cl-paypal-20101006-git	cl-paypal
+cl-pdf-20101107-svn	salza, cl-pdf-parser, cl-pdf
+cl-photo-20101006-git	cl-photo-tests, cl-photo
+cl-plplot-0.6.0	plplot-examples, cl-plplot
+cl-png-0.6	png-test, png
+cl-popen-20110110-git	cl-popen-test, cl-popen
+cl-ppcre-2.0.3	cl-ppcre-unicode, cl-ppcre-test, cl-ppcre
+cl-prevalence-20101207-hg	cl-prevalence
+cl-proc-20101207-darcs	proc
+cl-qprint-20101006-http	cl-qprint
+cl-quakeinfo-20110110-git	cl-quakeinfo
+cl-quickcheck-20110110-git	cl-quickcheck
+cl-random-20101107-git	cl-random-unit-tests, cl-random
+cl-rcfiles-20101006-http	com.dvlsoft.rcfiles
+cl-redis-20110110-git	cl-redis
+cl-routes-20101107-git	routes
+cl-rss-20101006-git	rss
+cl-s3-20101006-http	cl-s3
+cl-sasl_0.3	cl-sasl
+cl-skip-list-20101207-git	cl-skip-list
+cl-smtp-20101107-http	cl-smtp
+cl-soap-20101006-cvs	cl-soap
+cl-sphinx-20101107-git	sphinx
+cl-sqlite-20110110-git	sqlite-tests, sqlite
+cl-stm-20101207-http	cl-stm.test, cl-stm
+cl-store-20101207-darcs	cl-store-tests, cl-store
+cl-swap-file-0.4	cl-swap-file-0.4
+cl-syslog-20101107-http	cl-syslog
+cl-test-more-20110110-git	cl-test-more
+cl-twitter-20110110-git	cl-twitter, cl-twit-repl
+cl-typesetting-20101006-svn	xml-render, cl-typesetting, cl-pdf-doc
+cl-uglify-js-20110110-git	cl-uglify-js
+cl-unicode-0.1.1	cl-unicode-test, cl-unicode
+cl-unification-20101006-cvs	cl-unification-lib, cl-unification, cl-ppcre-template
+cl-utilities-1.2.4	cl-utilities
+cl-v4l2-20101107-git	cl-v4l2
+cl-vectors-20101006-git	cl-vectors, cl-paths-ttf, cl-paths, cl-aa-misc, cl-aa
+cl-wal-0.3	cl-wal-0.3
+cl-webdav-0.2.0	cl-webdav
+cl-who-0.11.1	cl-who
+cl-wkb-0.1	wkb
+cl-xmlspam-20101006-http	cl-xmlspam
+cl-xmpp-0.8.1	cl-xmpp-tls, cl-xmpp-sasl, cl-xmpp
+cl-yacc-20101006-darcs	yacc
+cl-zmq-20101107-git	zeromq
+clazy-20110110-cvs	clazy
+clem-20101006-git	clem-test, clem-benchmark, clem
+cleric-20101207-git	cleric
+clfswm-20110110-svn	clfswm
+clg-20110110-cvs	clg-tools
+climacs-20101006-cvs	climacs
+clonsigna-20101006-http	clonsigna
+clos-diff-20110110-git	clos-diff
+closer-mop-20110110-darcs	closer-mop
+closure-common-20101107-git	closure-common
+closure-html-20101006-git	closure-html
+clot-20101006-http	clot
+clouchdb_0.0.11	clouchdb
+clpython-20110110-git	clpython.test, clpython.runtime, clpython.parser, clpython.lib, clpython.contrib, clpython.compiler, clpython.basic, clpython
+clsql-20101207-git	clsql-uffi, clsql-tests, clsql-sqlite3, clsql-postgresql-socket, clsql-postgresql, clsql-odbc, clsql-mysql, clsql-cffi, clsql-aodbc, clsql
+cluck-20101006-git	cluck
+clws-20101006-git	clws
+clx-0.7.4	clx
+colorize-20101006-svn	colorize
+command-line-arguments-20101006-git	command-line-arguments
+commonqt-20110110-git	qt-tutorial, qt-test, qt-repl, qt
+conduit-packages-20101006-http	conduit-packages
+conium-20101006-git	conium
+contextl-20101006-darcs	dynamic-wind, contextl
+css-lite-20101107-git	css-lite
+csv-parser-20101207-http	csv-parser
+curly-20101207-darcs	curly.test, curly
+cxml-20101107-git	cxml-xml, cxml-test, cxml-klacks, cxml-dom, cxml
+cxml-rng-2008-11-30	cxml-rng
+cxml-rpc-20101006-git	cxml-rpc
+cxml-stp-20101107-git	cxml-stp-test, cxml-stp
+date-calc-20101006-http	date-calc
+dbus-20101107-git	dbus
+declt-1.0b1	com.dvlsoft.declt
+deflate-20101207-git	deflate
+defsystem-compatibility-20101006-darcs	defsystem-compatibility-test, defsystem-compatibility
+documentation-template-0.4.2	documentation-template
+drakma-1.2.3	drakma
+dso-lex-0.3.2	dso-lex
+dso-util-0.1.2	dso-util
+dynamic-classes-20101006-darcs	dynamic-classes-test, dynamic-classes
+eager-future-20101006-darcs	eager-future.test, eager-future
+elephant-20110110-darcs	elephant-tests, elephant, ele-postmodern, ele-postgresql, ele-clsql, ele-clp, dcm
+eos-20101006-git	eos-tests, eos
+esrap-20101006-git	esrap
+evol-20101006-git	evol-test, evol
+external-program_0.0.6	external-program
+f-underscore-20101006-darcs	f-underscore
+f2cl-20110110-cvs	f2cl
+fare-csv-20101006-git	fare-csv
+fare-matcher-20101107-git	fare-matcher
+fare-utils-20101207-git	molicle, fare-utils
+fcgi-0.7	fcgi
+femlisp-0-9-10	infix, femlisp-matlisp, femlisp-basic, femlisp
+ffa-20101006-git	ffa
+fft-20101006-git	pfft, fft
+fiveam-20101006-darcs	fiveam
+flexi-streams-1.0.7	flexi-streams-test, flexi-streams
+flexichain_1.5.1	flexichain-doc, flexichain
+folio-20101207-git	folio.functions, folio.collections, folio.boxes, folio.as, folio
+fsbv-20101207-git	fsbv
+fset-20101006-svn	fset
+fucc_0.2.1	fucc-parser, fucc-generator
+garbage-pools-0.1.2	garbage-pools-test, garbage-pools
+gbbopen-20110110-svn	tutorial-example, timing-tests, test-harness, portable-threads-test, portable-sockets-test, os-interface-test, multinode, module-manager-user, module-manager, gbbopen-tools-test, gbbopen-test, gbbopen-modules, gbbopen, double-metaphone-test, cl-timing, agenda-shell-test, abort-ks-execution-example
+genhash_1.7	genhash
+getopt-20101006-git	getopt-tests, getopt
+glaw-20110110-git	glaw-sdl, glaw-imago, glaw-examples, glaw
+glop-20110110-git	glop-test, glop
+graylex-20101006-git	graylex-test, graylex-m4-example, graylex
+gsd-20101207-git	grid-tests, grid, foreign-array-tests, foreign-array
+gsharp-20101006-git	gsharp
+gsll-20101207-git	gsll-tests, gsll
+gtfl_0.1.2	gtfl
+gzip-stream_0.2.8	gzip-stream
+hemlock-20110110-git	hemlock.tty, hemlock.qt, hemlock.clx, hemlock.base
+ht-simple-ajax_0.3	ht-simple-ajax
+html-encode-1.2	html-encode
+html-template-0.9.1	html-template
+hu.dwim.asdf-20110110-darcs	hu.dwim.asdf.documentation, hu.dwim.asdf
+hu.dwim.common-20101107-darcs	hu.dwim.common.documentation, hu.dwim.common
+hu.dwim.common-lisp-20101107-darcs	hu.dwim.common-lisp.documentation, hu.dwim.common-lisp
+hu.dwim.computed-class-20101107-darcs	hu.dwim.computed-class.test, hu.dwim.computed-class.documentation, hu.dwim.computed-class+swank, hu.dwim.computed-class+hu.dwim.defclass-star, hu.dwim.computed-class
+hu.dwim.def-20110110-darcs	hu.dwim.def.test, hu.dwim.def.namespace, hu.dwim.def.documentation, hu.dwim.def+swank, hu.dwim.def+hu.dwim.delico, hu.dwim.def+hu.dwim.common, hu.dwim.def+contextl, hu.dwim.def+cl-l10n, hu.dwim.def
+hu.dwim.defclass-star-20101107-darcs	hu.dwim.defclass-star.test, hu.dwim.defclass-star.documentation, hu.dwim.defclass-star+swank, hu.dwim.defclass-star+hu.dwim.def+contextl, hu.dwim.defclass-star+hu.dwim.def, hu.dwim.defclass-star+contextl, hu.dwim.defclass-star
+hu.dwim.delico-20101107-darcs	hu.dwim.delico.test, hu.dwim.delico.documentation, hu.dwim.delico
+hu.dwim.logger-20101107-darcs	hu.dwim.logger.test, hu.dwim.logger.documentation, hu.dwim.logger+swank, hu.dwim.logger
+hu.dwim.partial-eval-20101107-darcs	hu.dwim.partial-eval.test, hu.dwim.partial-eval.documentation, hu.dwim.partial-eval
+hu.dwim.perec-20101107-darcs	hu.dwim.perec.test, hu.dwim.perec.sqlite.test, hu.dwim.perec.sqlite, hu.dwim.perec.postgresql.test, hu.dwim.perec.postgresql, hu.dwim.perec.oracle.test, hu.dwim.perec.oracle, hu.dwim.perec.all.test, hu.dwim.perec.all, hu.dwim.perec+swank, hu.dwim.perec+iolib, hu.dwim.perec+hu.dwim.quasi-quote.xml, hu.dwim.perec
+hu.dwim.quasi-quote-20101107-darcs	hu.dwim.quasi-quote.xml+hu.dwim.quasi-quote.js, hu.dwim.quasi-quote.xml+cxml, hu.dwim.quasi-quote.xml, hu.dwim.quasi-quote.test, hu.dwim.quasi-quote.js, hu.dwim.quasi-quote.documentation, hu.dwim.quasi-quote.css, hu.dwim.quasi-quote
+hu.dwim.rdbms-20101107-darcs	hu.dwim.rdbms.test, hu.dwim.rdbms.sqlite.test, hu.dwim.rdbms.sqlite, hu.dwim.rdbms.postgresql.test, hu.dwim.rdbms.postgresql, hu.dwim.rdbms.oracle.test, hu.dwim.rdbms.oracle, hu.dwim.rdbms.documentation, hu.dwim.rdbms.all.test, hu.dwim.rdbms.all, hu.dwim.rdbms
+hu.dwim.reiterate-20101107-darcs	hu.dwim.reiterate.test, hu.dwim.reiterate.documentation, hu.dwim.reiterate
+hu.dwim.serializer-20101207-darcs	hu.dwim.serializer.test, hu.dwim.serializer.documentation, hu.dwim.serializer
+hu.dwim.stefil-20101207-darcs	hu.dwim.stefil.test, hu.dwim.stefil+swank, hu.dwim.stefil+hu.dwim.def+swank, hu.dwim.stefil+hu.dwim.def, hu.dwim.stefil
+hu.dwim.syntax-sugar-20101207-darcs	hu.dwim.syntax-sugar.unicode, hu.dwim.syntax-sugar.test, hu.dwim.syntax-sugar.documentation, hu.dwim.syntax-sugar+hu.dwim.walker, hu.dwim.syntax-sugar
+hu.dwim.util-20101207-darcs	hu.dwim.util.zlib, hu.dwim.util.worker-group, hu.dwim.util.threads, hu.dwim.util.test, hu.dwim.util.temporary-files, hu.dwim.util.standard-process, hu.dwim.util.source, hu.dwim.util.soap, hu.dwim.util.production+swank, hu.dwim.util.production, hu.dwim.util.mop, hu.dwim.util.i18n, hu.dwim.util.flexml, hu.dwim.util.finite-state-machine, hu.dwim.util.error-handling+swank, hu.dwim.util.error-handling, hu.dwim.util.documentation, hu.dwim.util.authorization, hu.dwim.util+iolib, hu.dwim.util
+hu.dwim.walker-20101107-darcs	hu.dwim.walker.test, hu.dwim.walker.documentation, hu.dwim.walker
+hu.dwim.wui-20101107-darcs	hu.dwim.wui.http.test, hu.dwim.wui.http, hu.dwim.wui.component, hu.dwim.wui.application.test, hu.dwim.wui.application, hu.dwim.wui+swank, hu.dwim.wui+stefil, hu.dwim.wui+cl-typesetting, hu.dwim.wui+cl-graph+cl-typesetting, hu.dwim.wui
+hunchentoot-1.1.1	hunchentoot-test, hunchentoot
+hunchentoot-auth-20101107-git	hunchentoot-auth
+hunchentoot-cgi-20101107-git	hunchentoot-cgi
+hunchentoot-vhost-20101107-git	hunchentoot-vhost
+hyperobject-20101006-git	hyperobject-tests, hyperobject
+ie3fp-20101006-http	ie3fp
+ieee-floats-20101006-darcs	ieee-floats-tests, ieee-floats
+imago-20101006-cvs	imago
+incf-cl-20101006-git	incf-cl-test, incf-cl
+inotify-20101207-git	inotify
+iolib-0.7.3	iolib.trivial-sockets, iolib.syscalls, iolib.streams, iolib.sockets, iolib.pathnames, iolib.os, iolib.multiplex, iolib.examples, iolib.base, iolib-tests, iolib
+irc-logger-20101006-git	irc-logger
+ironclad_0.28	ironclad-tests, ironclad
+iterate-20101006-darcs	iterate-tests, iterate-pg, iterate
+jpl-queues-0.1	jpl-queues
+js-v0.10.12-git	cl-js
+jsown-20101006-git	jsown-tests, jsown
+jwacs-20101006-darcs	jwacs-tests, jwacs
+kmrcl-20101006-git	kmrcl-tests, kmrcl
+l-math_0.3.2	l-math
+latex-table-20101207-git	latex-table
+levenshtein-1.0	levenshtein
+lift-20101107-git	lift-documentation, lift
+linedit-20101107-git	terminfo, linedit
+lisp-magick-0.71	lisp-magick
+lisp-on-lines-20101006-darcs	lisp-on-lines.test, lisp-on-lines-ucw, lisp-on-lines
+lisp-unit-20101006-git	lisp-unit
+lispbuilder-20110110-svn	lispbuilder-yacc, lispbuilder-windows, lispbuilder-sdl-vecto-examples, lispbuilder-sdl-vecto, lispbuilder-sdl-ttf-examples, lispbuilder-sdl-ttf-cffi, lispbuilder-sdl-ttf-binaries, lispbuilder-sdl-ttf, lispbuilder-sdl-mixer-examples, lispbuilder-sdl-mixer-cffi, lispbuilder-sdl-mixer-binaries, lispbuilder-sdl-mixer, lispbuilder-sdl-image-examples, lispbuilder-sdl-image-cffi, lispbuilder-sdl-image-binaries, lispbuilder-sdl-image, lispbuilder-sdl-gfx-examples, lispbuilder-sdl-gfx-cffi, lispbuilder-sdl-gfx-binaries, lispbuilder-sdl-gfx, lispbuilder-sdl-examples, lispbuilder-sdl-cl-vectors-examples, lispbuilder-sdl-cl-vectors, lispbuilder-sdl-cffi, lispbuilder-sdl-binaries, lispbuilder-sdl-base, lispbuilder-sdl-assets, lispbuilder-sdl, lispbuilder-regex, lispbuilder-opengl-examples, lispbuilder-opengl-1-1, lispbuilder-net-examples, lispbuilder-net-cffi, lispbuilder-net, lispbuilder-lexer, cocoahelper
+lla-20101107-git	lla-unit-tests, lla
+lml-20101006-git	lml-tests, lml
+lml2-20101006-git	lml2-tests, lml2
+local-time-20101006-darcs	local-time.test, local-time, cl-postgres+local-time
+log5-20110110-git	log5
+loopless-20101207-git	loopless
+lredis-20110110-git	lredis
+ltk-0.91	ltk-remote, ltk-mw, ltk
+lw-compat-20101006-darcs	lw-compat
+magicffi-20101006-git	magicffi-test, magicffi
+manardb-20101207-git	manardb-test, manardb
+mcclim-20101006-cvs	mcclim-truetype, mcclim-tree-with-cross-edges, mcclim-tiff-bitmaps, mcclim-png-bitmaps, mcclim-jpeg-bitmaps, mcclim-gif-bitmaps, mcclim-freetype-cffi, mcclim-freetype, mcclim, goatee-core, functional-geometry, esa-mcclim, esa, drei-tests, drei-mcclim, conditional-commands, clouseau, clim-postscript, clim-null, clim-looks, clim-listener, clim-lisp, clim-gtkairo, clim-examples, clim-core, clim-clx, clim-basic, clim, automaton
+md5-20101006-git	md5
+mel-base-20110110-git	mel-base
+meta-20101006-git	meta
+meta-sexp-0.1.6	meta-sexp
+metabang-bind-20101006-git	metabang-bind
+metacopy-20101006-darcs	metacopy-with-contextl, metacopy-test-with-contextl, metacopy-test, metacopy
+metatilities-20101006-darcs	metatilities-test, metatilities
+metatilities-base-20101006-darcs	metatilities-base-test, metatilities-base
+mgl-20110110-git	mgl-visuals, mgl-test, mgl-example, mgl
+micmac-0.0.2	micmac-test, micmac
+midi-20070618	midi
+mime4cl-20101006-http	mime4cl
+misc-extensions-20101006-cvs	misc-extensions
+mixalot-20101006-git	vorbisfile-ffi, mpg123-ffi, mixalot-vorbis, mixalot-mp3, mixalot
+monkeylib-binary-data-20110110-git	com.gigamonkeys.binary-data
+monkeylib-foo-20101207-git	com.gigamonkeys.foo
+monkeylib-macro-utilities-20101207-git	com.gigamonkeys.macro-utilities
+monkeylib-markup-20101207-git	com.gigamonkeys.markup
+monkeylib-markup-html-20101207-git	monkeylib-markup-html
+monkeylib-pathnames-20101207-git	com.gigamonkeys.pathnames
+monkeylib-prose-diff-20101207-git	com.gigamonkeys.prose-diff
+monkeylib-test-framework-20101207-git	com.gigamonkeys.test-framework
+monkeylib-utilities-20101207-git	com.gigamonkeys.utilities
+montezuma-20110110-svn	montezuma-tests, montezuma-indexfiles, montezuma, lucene-in-action-tests
+moptilities-20110110-http	moptilities-test, moptilities
+mt19937-1.1	mt19937
+mtlisp-20110110-git	mtlisp
+mw-equiv-0.1.3	mw-equiv
+named-readtables-20101006-darcs	named-readtables-test, named-readtables
+net-telent-date_0.42	net-telent-date
+net4cl-20101006-http	net4cl
+npg-20101006-http	npg
+nst-3.0.1	nst, defdoc, asdf-nst
+nuclblog-20101107-git	nuclblog
+oct-20101006-cvs	oct
+odd-streams-0.1.1	odd-streams-test, odd-streams
+ods4cl-20101006-http	ods4cl
+okra-20101006-git	okra-common
+osc-20101006-darcs	osc
+osicat-20101006-git	osicat-tests, osicat
+parenscript-2.2	parenscript.test, parenscript
+parse-declarations-20101006-darcs	parse-declarations-1.0
+parse-js-20110110-git	parse-js
+parse-number-1.0	parse-number
+patron-20101006-git	patron
+pcall-0.3	pcall-tests, pcall-queue, pcall
+pg-20101006-cvs	pg
+phemlock-20110110-cvs	spell, hemlock
+pileup-20101207-git	pileup-tests, pileup
+pipes-20101006-git	pipes
+pithy-xml-20101006-git	pithy-xml
+plain-odbc-20110110-svn	plain-odbc-with-libs, plain-odbc
+plexippus-xpath-20101006-darcs	xpath
+plokami-20110110-git	plokami
+png-read-20101107-git	png-read
+portable-threads-20101006-http	portable-threads
+portableaserve-20101006-cvs	webactions, htmlgen, aserve, acl-compat
+postmodern-20110110-git	simple-date-tests, simple-date-postgres-glue, simple-date, s-sql, postmodern, cl-postgres-tests, cl-postgres
+postoffice-20101006-git	postoffice
+prepl-20101207-git	prepl
+protobuf-20110110-git	protobuf
+proton-20101207-git	proton
+psgraph-1.2	psgraph
+ptester-20101006-git	ptester
+pubmed-20101006-git	pubmed
+puri-20101006-git	puri-tests, puri
+py-configparser-20101006-svn	py-configparser
+py-configvalidator-20101006-git	py-configvalidator
+quicklisp-slime-helper-20101107-git	quicklisp-slime-helper
+quickproject-20101107-git	quickproject
+rcl-20101006-http	rcl
+regex-1	regex
+relational-objects-for-lisp-20110110-darcs	rofl.test, rofl
+restas-20110110-git	restas-doc, restas
+restas-directory-publisher-20110110-git	restas-directory-publisher
+retrospectiff-20101006-git	retrospectiff
+reversi-20101006-git	reversi
+rfc2109-0.4.1	rfc2109
+rfc2388-20101006-http	rfc2388
+rfc2388-binary-20101107-darcs	rfc2388-binary
+rfc3339-timestamp-0.2.4	rfc3339-timestamp
+rlc-20101006-git	rlc
+rpc4cl-0.3.1	rpc4cl-test, rpc4cl
+rt-20101006-git	rt
+rucksack-20101006-cvs	rucksack-test, rucksack
+rutils-20101006-git	rutils
+s-base64-20101006-http	s-base64
+s-dot-1.2	s-dot
+s-http-client-20101006-http	s-http-client
+s-protobuf-20101006-git	s-protobuf
+s-sysdeps-20101006-http	s-sysdeps
+s-utils-20101006-http	s-utils
+s-xml-20101006-http	s-xml
+s-xml-rpc-20101006-http	s-xml-rpc
+salza2-2.0.7	salza2
+sb-cga-20101107-git	sb-cga
+sb-vector-io-20101207-git	sb-vector-io
+sclf-20101006-http	sclf
+screamer-20101207-git	screamer-tests, screamer
+scribble-20101107-git	scribble-test, scribble
+sequence-iterators-20101207-darcs	sequence-iterators-test, sequence-iterators, extensible-sequences-test, extensible-sequences
+series-20101006-cvs	series-tests, series
+sheeple-20101006-git	sheeple-tests, sheeple
+shuffletron-20101107-git	shuffletron
+simple-date-time-20110110-git	simple-date-time
+simple-finalizer-20101006-git	simple-finalizer
+simpsamp-0.1	simpsamp
+skippy-1.3.7	skippy
+slime-20110110-cvs	swank
+smtp4cl-20101006-http	smtp4cl
+snmp-5.19	snmp-test, snmp-server, snmp-base, snmp
+soundex-1.0	soundex
+spartns-1.4.3	spartns-test, spartns
+spatial-trees-20101006-darcs	spatial-trees
+split-sequence-20101006-http	split-sequence
+sqnc-20110110-git	csound
+st-json-20101207-git	st-json
+static-vectors-20101006-git	static-vectors
+stefil-20101107-darcs	stefil-test, stefil
+string-case-20101006-http	string-case
+sw-db-20101006-git	sw-db
+sw-http-20101006-git	sw-http
+sw-mvc-20101207-git	sw-mvc
+sw-stm-20101006-git	sw-stm
+symbolicweb-20101207-git	symbolicweb-jquery, symbolicweb-examples, symbolicweb
+tbnl-0.11.4	tbnl
+testbild-20101207-git	testbild-test, testbild
+tilde-20101006-git	tilde
+tinaa-20101006-darcs	tinaa-test
+tpapp-utils-20101107-git	tpapp-utils
+trees_0.11	trees
+trivial-backtrace-20101006-git	trivial-backtrace-test, trivial-backtrace
+trivial-features-20101006-darcs	trivial-features-tests, trivial-features
+trivial-garbage-20101006-darcs	trivial-garbage-tests, trivial-garbage
+trivial-gray-streams-20101006-cvs	trivial-gray-streams
+trivial-http-20101006-http	trivial-http-test, trivial-http
+trivial-ldap-0.92	trivial-ldap
+trivial-shell-20101006-http	trivial-shell-test, trivial-shell
+trivial-timeout-20101006-darcs	trivial-timeout-test, trivial-timeout
+trivial-timers-20101006-http	trivial-timers
+trivial-utf-8-20101006-darcs	trivial-utf-8-tests, trivial-utf-8
+ucw-20110110-darcs	ucw.mod-lisp, ucw.manual-examples, ucw.iolib, ucw.httpd, ucw.examples, ucw-core.test, ucw-core, ucw
+uffi-20101107-git	uffi
+umlisp-20101006-git	umlisp-tests, umlisp
+umlisp-orf-20101006-git	umlisp-orf
+unit-test-20101006-svn	unit-test
+unix-options-20110110-git	unix-options
+until-it-dies-20101006-git	until-it-dies.sound, until-it-dies.graphics, until-it-dies.examples, until-it-dies.base, until-it-dies
+url-rewrite-0.1.1	url-rewrite
+usocket-20110110-svn	usocket-test, usocket
+usocket-udp-2.6	usocket-udp
+utils-kt-20101006-git	utils-kt
+uuid-20101006-http	uuid
+vcs-tree-20101006-git	vcs-tree
+vecto-1.4.3	vecto
+verrazano-20110110-darcs	verrazano-runtime, verrazano
+weblocks-20110110-hg	weblocks-yui, weblocks-yarek, weblocks-store-test, weblocks-scripts, weblocks-s11, weblocks-prevalence, weblocks-postmodern, weblocks-memory, weblocks-elephant-demo, weblocks-elephant, weblocks-demo-popover, weblocks-demo, weblocks, simple-blog
+wiki-parser-20101006-git	wiki-parser-test, wiki-parser
+wuwei-20110110-git	wuwei-examples, wuwei
+x.fdatatypes-20101006-git	x.fdatatypes
+x.let-star-20101006-git	x.let-star
+xarray-20101006-git	xarray
+xhtmlgen-20110110-git	xhtmlgen-test, xhtmlgen
+xlunit-20101006-git	xlunit-tests, xlunit
+xmls-1.4	xmls
+xptest-20101006-git	xptest
+xuriella-20101006-git	xuriella
+yaclml-20101006-darcs	yaclml.test, yaclml
+yason-20101107-git	yason
+zcdb-1.0.1	zcdb
+zip-20101107-cvs	zip
+zlib-20101006-cvs	zlib
+zpb-exif-1.2.1	zpb-exif
+zpb-ttf-1.0	zpb-ttf
+zpng-1.2	zpng
+zs3-1.1.4	zs3
+
