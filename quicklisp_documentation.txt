@@ -1,14 +1,37 @@
-Project release; Provided systems; documentation
+.ce 10
+quicklisp documenattion
+.ce 0
 
-3b-swf-20110110-git; 3b-swf-swc, 3b-swf; 
+.ti +3
+
+Information
+
+This file describes the systems avaiable from QuickLisp.
+
+.ti 3
+Systems
+
+
+
+3b-swf-20110110-git
+.sp
+3b-swf-swc, 3b-swf
+.sp
+
 
 3bil-20101006-git; swf-writer-hack, avm2-lib, avm2-compile, avm2-asm,
 3b-swf-writer
 
+.sp
+
 adw-charting-20110110-http; adw-charting-vecto, adw-charting-google,
 adw-charting
 
+.sp
+
 alexandria-20101107-git; alexandria-tests, alexandria
+
+.sp
 
 anaphora-0.9.3; anaphora-test, anaphora
 
