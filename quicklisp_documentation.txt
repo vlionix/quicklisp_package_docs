@@ -1,464 +1,928 @@
 3b-swf-20110110-git %% 3b-swf-swc, 3b-swf %% INSERT DOCS BETWEEN PERCENTS %%
+
 3bil-20101006-git %% swf-writer-hack, avm2-lib, avm2-compile, avm2-asm, 3b-swf-writer %% INSERT DOCS BETWEEN PERCENTS %%
+
 adw-charting-20110110-http %% adw-charting-vecto, adw-charting-google, adw-charting %% INSERT DOCS BETWEEN PERCENTS %%
+
 alexandria-20101107-git %% alexandria-tests, alexandria %% INSERT DOCS BETWEEN PERCENTS %%
+
 anaphora-0.9.3 %% anaphora-test, anaphora %% INSERT DOCS BETWEEN PERCENTS %%
+
 archive_0.8 %% archive %% INSERT DOCS BETWEEN PERCENTS %%
+
 arnesi-20101006-darcs %% arnesi.slime-extras, arnesi.cl-ppcre-extras, arnesi %% INSERT DOCS BETWEEN PERCENTS %%
+
 aromyxo-20101107-git %% aromyxo %% INSERT DOCS BETWEEN PERCENTS %%
+
 array-operations-20101006-git %% array-operations %% INSERT DOCS BETWEEN PERCENTS %%
+
 asdf-install-20101207-git %% asdf-install %% INSERT DOCS BETWEEN PERCENTS %%
+
 asdf-system-connections-20101006-darcs %% asdf-system-connections %% INSERT DOCS BETWEEN PERCENTS %%
+
 asn.1-4.14 %% asn.1 %% INSERT DOCS BETWEEN PERCENTS %%
+
 atdoc-20110110-git %% blocks-world, atdoc %% INSERT DOCS BETWEEN PERCENTS %%
+
 babel-20101107-darcs %% babel-tests, babel-streams, babel %% INSERT DOCS BETWEEN PERCENTS %%
+
 beirc-20101107-cvs %% beirc %% INSERT DOCS BETWEEN PERCENTS %%
+
 binary-types-20101006-git %% binary-types %% INSERT DOCS BETWEEN PERCENTS %%
+
 binge-20101006-http %% binge %% INSERT DOCS BETWEEN PERCENTS %%
+
 bk-tree-0.3 %% bk-tree %% INSERT DOCS BETWEEN PERCENTS %%
+
 bknr-datastore-20110110-git %% bknr.xml, bknr.utils, bknr.skip-list.test, bknr.skip-list, bknr.indices, bknr.impex, bknr.datastore, bknr.data.impex %% INSERT DOCS BETWEEN PERCENTS %%
+
 black-tie-20101006-git %% black-tie %% INSERT DOCS BETWEEN PERCENTS %%
+
 blackthorn-engine-20110110-hg %% blackthorn-stress-test, blackthorn-collision-test, blackthorn %% INSERT DOCS BETWEEN PERCENTS %%
+
 bordeaux-fft-20101006-http %% bordeaux-fft %% INSERT DOCS BETWEEN PERCENTS %%
+
 bordeaux-threads-0.8.0 %% bordeaux-threads-test, bordeaux-threads %% INSERT DOCS BETWEEN PERCENTS %%
+
 bourbaki-20110110-http %% bourbaki %% INSERT DOCS BETWEEN PERCENTS %%
+
 buildapp-1.1 %% buildapp %% INSERT DOCS BETWEEN PERCENTS %%
+
 calispel-0.1 %% calispel %% INSERT DOCS BETWEEN PERCENTS %%
+
 cells-20101207-git %% cells %% INSERT DOCS BETWEEN PERCENTS %%
+
 cells-gtk3-20110110-git %% pod-utils, ph-maths %% INSERT DOCS BETWEEN PERCENTS %%
+
 cffi_0.10.6 %% cffi-uffi-compat, cffi-tests, cffi-grovel, cffi-examples, cffi %% INSERT DOCS BETWEEN PERCENTS %%
+
 ch-image-20101006-git %% ch-image-test, ch-image %% INSERT DOCS BETWEEN PERCENTS %%
+
 ch-util-20101006-git %% ch-util-test, ch-util %% INSERT DOCS BETWEEN PERCENTS %%
+
 chillax-20101207-git %% chillax.yason, chillax.view-server, chillax.core, chillax %% INSERT DOCS BETWEEN PERCENTS %%
+
 chipz_0.7.4 %% chipz %% INSERT DOCS BETWEEN PERCENTS %%
+
 chronicity-v0.2.6 %% chronicity-test, chronicity %% INSERT DOCS BETWEEN PERCENTS %%
+
 chunga-1.1.1 %% chunga %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl+ssl-20101006-cvs %% cl+ssl %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-2d-20101107-git %% cl-2d %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-azure-20110110-git %% cl-azure %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-base64-20101006-git %% cl-base64-tests, cl-base64 %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-beanstalk-20110110-git %% cl-beanstalk %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-bencode-20101107-git %% bencode %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-bibtex-20110110-cvs %% bibtex %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-binary-file-0.3 %% cl-binary-file-0.3 %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-btree-0.4 %% cl-btree-0.4 %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-cairo2-20101006-git %% cl-cairo2-xlib, cl-cairo2-gtk2, cl-cairo2, a-cl-cairo2-loader %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-charms-20110110-git %% cl-charms %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-cli-parser-20101006-cvs %% cli-parser %% INSERT DOCS BETWEEN PERCENTS %%
+
 clon-1.0b16 %% com.dvlsoft.clon %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-closure-template-20110110-git %% closure-template %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-colors-20101006-git %% cl-colors %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-cont-20101006-darcs %% cl-cont-test, cl-cont %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-containers-20101006-darcs %% cl-containers-test, cl-containers %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-couch-20101207-darcs %% logv %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-ctrnn_1.0.0 %% cl-ctrnn %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-data-format-validation-20101006-git %% data-format-validation %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-devil-20101107-git %% cl-devil %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-difflib_0.1 %% cl-difflib-tests, cl-difflib %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-docutils-20101006-git %% docutils %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-dot-20101006-http %% cl-dot %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-emb-0.4.4 %% cl-emb %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-enumeration-20110110-cvs %% enumerations %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-fad-0.6.4 %% cl-fad %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-ftp-20101006-http %% ftp %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-gd-0.5.7 %% cl-gd-test, cl-gd %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-geo-0.1 %% geo %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-geocode-20101207-git %% cl-geocode %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-geometry-20101006-git %% cl-geometry-tests, cl-geometry %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-glfw-20110110-git %% cl-glfw-types, cl-glfw-opengl-version_2_1, cl-glfw-opengl-version_2_0, cl-glfw-opengl-version_1_5, cl-glfw-opengl-version_1_4, cl-glfw-opengl-version_1_3, cl-glfw-opengl-version_1_2, cl-glfw-opengl-version_1_1, cl-glfw-opengl-version_1_0, cl-glfw-opengl-sunx_constant_data, cl-glfw-opengl-sun_vertex, cl-glfw-opengl-sun_triangle_list, cl-glfw-opengl-sun_mesh_array, cl-glfw-opengl-sun_global_alpha, cl-glfw-opengl-sgix_tag_sample_buffer, cl-glfw-opengl-sgix_sprite, cl-glfw-opengl-sgix_reference_plane, cl-glfw-opengl-sgix_polynomial_ffd, cl-glfw-opengl-sgix_pixel_texture, cl-glfw-opengl-sgix_list_priority, cl-glfw-opengl-sgix_instruments, cl-glfw-opengl-sgix_igloo_interface, cl-glfw-opengl-sgix_framezoom, cl-glfw-opengl-sgix_fragment_lighting, cl-glfw-opengl-sgix_flush_raster, cl-glfw-opengl-sgix_async, cl-glfw-opengl-sgis_texture_filter4, cl-glfw-opengl-sgis_texture_color_mask, cl-glfw-opengl-sgis_texture4d, cl-glfw-opengl-sgis_sharpen_texture, cl-glfw-opengl-sgis_point_parameters, cl-glfw-opengl-sgis_pixel_texture, cl-glfw-opengl-sgis_multisample, cl-glfw-opengl-sgis_fog_function, cl-glfw-opengl-sgis_detail_texture, cl-glfw-opengl-sgi_color_table, cl-glfw-opengl-pgi_misc_hints, cl-glfw-opengl-nv_vertex_program4, cl-glfw-opengl-nv_vertex_program, cl-glfw-opengl-nv_vertex_buffer_unified_memory, cl-glfw-opengl-nv_vertex_attrib_integer_64bit, cl-glfw-opengl-nv_vertex_array_range, cl-glfw-opengl-nv_transform_feedback2, cl-glfw-opengl-nv_transform_feedback, cl-glfw-opengl-nv_texture_barrier, cl-glfw-opengl-nv_shader_buffer_load, cl-glfw-opengl-nv_register_combiners2, cl-glfw-opengl-nv_register_combiners, cl-glfw-opengl-nv_primitive_restart, cl-glfw-opengl-nv_present_video, cl-glfw-opengl-nv_point_sprite, cl-glfw-opengl-nv_pixel_data_range, cl-glfw-opengl-nv_parameter_buffer_object, cl-glfw-opengl-nv_occlusion_query, cl-glfw-opengl-nv_half_float, cl-glfw-opengl-nv_gpu_shader5, cl-glfw-opengl-nv_gpu_program5, cl-glfw-opengl-nv_gpu_program4, cl-glfw-opengl-nv_geometry_program4, cl-glfw-opengl-nv_framebuffer_multisample_coverage, cl-glfw-opengl-nv_fragment_program, cl-glfw-opengl-nv_fence, cl-glfw-opengl-nv_explicit_multisample, cl-glfw-opengl-nv_evaluators, cl-glfw-opengl-nv_depth_buffer_float, cl-glfw-opengl-nv_copy_image, cl-glfw-opengl-nv_conditional_render, cl-glfw-opengl-mesa_window_pos, cl-glfw-opengl-mesa_resize_buffers, cl-glfw-opengl-intel_parallel_arrays, cl-glfw-opengl-ingr_blend_func_separate, cl-glfw-opengl-ibm_vertex_array_lists, cl-glfw-opengl-ibm_multimode_draw_arrays, cl-glfw-opengl-hp_image_transform, cl-glfw-opengl-gremedy_string_marker, cl-glfw-opengl-gremedy_frame_terminator, cl-glfw-opengl-ext_vertex_weighting, cl-glfw-opengl-ext_vertex_shader, cl-glfw-opengl-ext_vertex_attrib_64bit, cl-glfw-opengl-ext_vertex_array, cl-glfw-opengl-ext_transform_feedback, cl-glfw-opengl-ext_timer_query, cl-glfw-opengl-ext_texture_perturb_normal, cl-glfw-opengl-ext_texture_object, cl-glfw-opengl-ext_texture_integer, cl-glfw-opengl-ext_texture_buffer_object, cl-glfw-opengl-ext_texture3d, cl-glfw-opengl-ext_subtexture, cl-glfw-opengl-ext_stencil_two_side, cl-glfw-opengl-ext_stencil_clear_tag, cl-glfw-opengl-ext_shader_image_load_store, cl-glfw-opengl-ext_separate_shader_objects, cl-glfw-opengl-ext_secondary_color, cl-glfw-opengl-ext_provoking_vertex, cl-glfw-opengl-ext_polygon_offset, cl-glfw-opengl-ext_point_parameters, cl-glfw-opengl-ext_pixel_transform, cl-glfw-opengl-ext_paletted_texture, cl-glfw-opengl-ext_multisample, cl-glfw-opengl-ext_multi_draw_arrays, cl-glfw-opengl-ext_light_texture, cl-glfw-opengl-ext_index_material, cl-glfw-opengl-ext_index_func, cl-glfw-opengl-ext_histogram, cl-glfw-opengl-ext_gpu_shader4, cl-glfw-opengl-ext_gpu_program_parameters, cl-glfw-opengl-ext_geometry_shader4, cl-glfw-opengl-ext_framebuffer_object, cl-glfw-opengl-ext_framebuffer_multisample, cl-glfw-opengl-ext_framebuffer_blit, cl-glfw-opengl-ext_fog_coord, cl-glfw-opengl-ext_draw_range_elements, cl-glfw-opengl-ext_draw_instanced, cl-glfw-opengl-ext_draw_buffers2, cl-glfw-opengl-ext_direct_state_access, cl-glfw-opengl-ext_depth_bounds_test, cl-glfw-opengl-ext_cull_vertex, cl-glfw-opengl-ext_copy_texture, cl-glfw-opengl-ext_coordinate_frame, cl-glfw-opengl-ext_convolution, cl-glfw-opengl-ext_compiled_vertex_array, cl-glfw-opengl-ext_color_subtable, cl-glfw-opengl-ext_blend_minmax, cl-glfw-opengl-ext_blend_func_separate, cl-glfw-opengl-ext_blend_equation_separate, cl-glfw-opengl-ext_blend_color, cl-glfw-opengl-ext_bindable_uniform, cl-glfw-opengl-core, cl-glfw-opengl-ati_vertex_streams, cl-glfw-opengl-ati_vertex_attrib_array_object, cl-glfw-opengl-ati_vertex_array_object, cl-glfw-opengl-ati_separate_stencil, cl-glfw-opengl-ati_pn_triangles, cl-glfw-opengl-ati_map_object_buffer, cl-glfw-opengl-ati_fragment_shader, cl-glfw-opengl-ati_envmap_bumpmap, cl-glfw-opengl-ati_element_array, cl-glfw-opengl-ati_draw_buffers, cl-glfw-opengl-arb_window_pos, cl-glfw-opengl-arb_viewport_array, cl-glfw-opengl-arb_vertex_type_2_10_10_10_rev, cl-glfw-opengl-arb_vertex_shader, cl-glfw-opengl-arb_vertex_program, cl-glfw-opengl-arb_vertex_buffer_object, cl-glfw-opengl-arb_vertex_blend, cl-glfw-opengl-arb_vertex_attrib_64bit, cl-glfw-opengl-arb_vertex_array_object, cl-glfw-opengl-arb_uniform_buffer_object, cl-glfw-opengl-arb_transpose_matrix, cl-glfw-opengl-arb_transform_feedback3, cl-glfw-opengl-arb_transform_feedback2, cl-glfw-opengl-arb_timer_query, cl-glfw-opengl-arb_texture_multisample, cl-glfw-opengl-arb_texture_compression, cl-glfw-opengl-arb_texture_buffer_object, cl-glfw-opengl-arb_tessellation_shader, cl-glfw-opengl-arb_shading_language_include, cl-glfw-opengl-arb_shader_subroutine, cl-glfw-opengl-arb_shader_objects, cl-glfw-opengl-arb_separate_shader_objects, cl-glfw-opengl-arb_sampler_objects, cl-glfw-opengl-arb_sample_shading, cl-glfw-opengl-arb_robustness, cl-glfw-opengl-arb_provoking_vertex, cl-glfw-opengl-arb_point_parameters, cl-glfw-opengl-arb_occlusion_query, cl-glfw-opengl-arb_multitexture, cl-glfw-opengl-arb_multisample, cl-glfw-opengl-arb_matrix_palette, cl-glfw-opengl-arb_map_buffer_range, cl-glfw-opengl-arb_instanced_arrays, cl-glfw-opengl-arb_gpu_shader_fp64, cl-glfw-opengl-arb_get_program_binary, cl-glfw-opengl-arb_geometry_shader4, cl-glfw-opengl-arb_framebuffer_object, cl-glfw-opengl-arb_es2_compatibility, cl-glfw-opengl-arb_draw_instanced, cl-glfw-opengl-arb_draw_indirect, cl-glfw-opengl-arb_draw_elements_base_vertex, cl-glfw-opengl-arb_draw_buffers_blend, cl-glfw-opengl-arb_draw_buffers, cl-glfw-opengl-arb_copy_buffer, cl-glfw-opengl-arb_color_buffer_float, cl-glfw-opengl-arb_blend_func_extended, cl-glfw-opengl-apple_vertex_program_evaluators, cl-glfw-opengl-apple_vertex_array_range, cl-glfw-opengl-apple_vertex_array_object, cl-glfw-opengl-apple_texture_range, cl-glfw-opengl-apple_object_purgeable, cl-glfw-opengl-apple_flush_buffer_range, cl-glfw-opengl-apple_fence, cl-glfw-opengl-apple_element_array, cl-glfw-opengl-amd_vertex_shader_tesselator, cl-glfw-opengl-amd_performance_monitor, cl-glfw-opengl-amd_name_gen_delete, cl-glfw-opengl-amd_draw_buffers_blend, cl-glfw-opengl-3dfx_tbuffer, cl-glfw-glu, cl-glfw %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-gpu-20101207-git %% cl-gpu.core, cl-gpu.buffers %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-graph-20101006-darcs %% cl-graph-test, cl-graph %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-growl-20101006-git %% cl-growl %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-gtk2-20101207-git %% cl-gtk2-pango, cl-gtk2-gtk, cl-gtk2-glib, cl-gtk2-gdk, cl-gtk2-cairo %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-heap_0.1.4 %% cl-heap-tests, cl-heap %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-heredoc-20101006-git %% cl-heredoc-test, cl-heredoc %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-html-diff_0.1 %% cl-html-diff %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-html-parse-20101006-http %% cl-html-parse %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-i18n-20101006-darcs %% cl-i18n %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-iconv-20101207-git %% iconv %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-interpol-0.2.1 %% cl-interpol-test, cl-interpol %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-irc-20101006-svn %% cl-irc %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-irregsexp-20101006-git %% cl-irregsexp-test, cl-irregsexp %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-jpeg-20101107-http %% cl-jpeg %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-jpl-util-0.3 %% jpl-util %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-json-20101006-darcs %% cl-json.test, cl-json %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-l10n-20101107-darcs %% cl-l10n.test, cl-l10n %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-l10n-cldr-20101107-darcs %% cl-l10n-cldr %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-lastfm-20101006-git %% cl-lastfm-test, cl-lastfm %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-lex-20101006-http %% cl-lex %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-lexer-20110110-git %% lexer %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-libxml2-0.3.4 %% xoverlay, xfactory-test, xfactory, cl-libxml2-test, cl-libxml2 %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-log-20101006-http %% cl-log %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-m4-20110110-git %% cl-m4-test, cl-m4 %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-markdown-20101006-darcs %% cl-markdown-test, cl-markdown-comparisons, cl-markdown %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-memcached-0.4.1 %% cl-memcached %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-migrations-20110110-http %% cl-migrations %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-modlisp-20101006-git %% modlisp %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-mongo-20101207-git %% cl-mongo %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-mssql-0.0.2 %% mssql %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-mw-20101207-git %% cl-mw.examples.ping, cl-mw.examples.monte-carlo-pi, cl-mw.examples.higher-order, cl-mw.examples.hello-world, cl-mw %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-ncurses_0.1.4 %% cl-ncurses %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-num-utils-20101006-git %% cl-num-utils-tests, cl-num-utils %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-oauth-20101006-git %% cl-oauth %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-openal-20101006-git %% cl-openal-examples, cl-openal, cl-alut, cl-alc %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-opengl-20110110-git %% cl-opengl, cl-glut-examples, cl-glut, cl-glu %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-org-mode-20101207-git %% cl-org-mode %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-paypal-20101006-git %% cl-paypal %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-pdf-20101107-svn %% salza, cl-pdf-parser, cl-pdf %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-photo-20101006-git %% cl-photo-tests, cl-photo %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-plplot-0.6.0 %% plplot-examples, cl-plplot %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-png-0.6 %% png-test, png %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-popen-20110110-git %% cl-popen-test, cl-popen %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-ppcre-2.0.3 %% cl-ppcre-unicode, cl-ppcre-test, cl-ppcre %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-prevalence-20101207-hg %% cl-prevalence %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-proc-20101207-darcs %% proc %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-qprint-20101006-http %% cl-qprint %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-quakeinfo-20110110-git %% cl-quakeinfo %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-quickcheck-20110110-git %% cl-quickcheck %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-random-20101107-git %% cl-random-unit-tests, cl-random %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-rcfiles-20101006-http %% com.dvlsoft.rcfiles %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-redis-20110110-git %% cl-redis %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-routes-20101107-git %% routes %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-rss-20101006-git %% rss %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-s3-20101006-http %% cl-s3 %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-sasl_0.3 %% cl-sasl %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-skip-list-20101207-git %% cl-skip-list %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-smtp-20101107-http %% cl-smtp %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-soap-20101006-cvs %% cl-soap %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-sphinx-20101107-git %% sphinx %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-sqlite-20110110-git %% sqlite-tests, sqlite %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-stm-20101207-http %% cl-stm.test, cl-stm %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-store-20101207-darcs %% cl-store-tests, cl-store %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-swap-file-0.4 %% cl-swap-file-0.4 %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-syslog-20101107-http %% cl-syslog %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-test-more-20110110-git %% cl-test-more %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-twitter-20110110-git %% cl-twitter, cl-twit-repl %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-typesetting-20101006-svn %% xml-render, cl-typesetting, cl-pdf-doc %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-uglify-js-20110110-git %% cl-uglify-js %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-unicode-0.1.1 %% cl-unicode-test, cl-unicode %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-unification-20101006-cvs %% cl-unification-lib, cl-unification, cl-ppcre-template %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-utilities-1.2.4 %% cl-utilities %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-v4l2-20101107-git %% cl-v4l2 %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-vectors-20101006-git %% cl-vectors, cl-paths-ttf, cl-paths, cl-aa-misc, cl-aa %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-wal-0.3 %% cl-wal-0.3 %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-webdav-0.2.0 %% cl-webdav %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-who-0.11.1 %% cl-who %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-wkb-0.1 %% wkb %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-xmlspam-20101006-http %% cl-xmlspam %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-xmpp-0.8.1 %% cl-xmpp-tls, cl-xmpp-sasl, cl-xmpp %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-yacc-20101006-darcs %% yacc %% INSERT DOCS BETWEEN PERCENTS %%
+
 cl-zmq-20101107-git %% zeromq %% INSERT DOCS BETWEEN PERCENTS %%
+
 clazy-20110110-cvs %% clazy %% INSERT DOCS BETWEEN PERCENTS %%
+
 clem-20101006-git %% clem-test, clem-benchmark, clem %% INSERT DOCS BETWEEN PERCENTS %%
+
 cleric-20101207-git %% cleric %% INSERT DOCS BETWEEN PERCENTS %%
+
 clfswm-20110110-svn %% clfswm %% INSERT DOCS BETWEEN PERCENTS %%
+
 clg-20110110-cvs %% clg-tools %% INSERT DOCS BETWEEN PERCENTS %%
+
 climacs-20101006-cvs %% climacs %% INSERT DOCS BETWEEN PERCENTS %%
+
 clonsigna-20101006-http %% clonsigna %% INSERT DOCS BETWEEN PERCENTS %%
+
 clos-diff-20110110-git %% clos-diff %% INSERT DOCS BETWEEN PERCENTS %%
+
 closer-mop-20110110-darcs %% closer-mop %% INSERT DOCS BETWEEN PERCENTS %%
+
 closure-common-20101107-git %% closure-common %% INSERT DOCS BETWEEN PERCENTS %%
+
 closure-html-20101006-git %% closure-html %% INSERT DOCS BETWEEN PERCENTS %%
+
 clot-20101006-http %% clot %% INSERT DOCS BETWEEN PERCENTS %%
+
 clouchdb_0.0.11 %% clouchdb %% INSERT DOCS BETWEEN PERCENTS %%
+
 clpython-20110110-git %% clpython.test, clpython.runtime, clpython.parser, clpython.lib, clpython.contrib, clpython.compiler, clpython.basic, clpython %% INSERT DOCS BETWEEN PERCENTS %%
+
 clsql-20101207-git %% clsql-uffi, clsql-tests, clsql-sqlite3, clsql-postgresql-socket, clsql-postgresql, clsql-odbc, clsql-mysql, clsql-cffi, clsql-aodbc, clsql %% INSERT DOCS BETWEEN PERCENTS %%
+
 cluck-20101006-git %% cluck %% INSERT DOCS BETWEEN PERCENTS %%
+
 clws-20101006-git %% clws %% INSERT DOCS BETWEEN PERCENTS %%
+
 clx-0.7.4 %% clx %% INSERT DOCS BETWEEN PERCENTS %%
+
 colorize-20101006-svn %% colorize %% INSERT DOCS BETWEEN PERCENTS %%
+
 command-line-arguments-20101006-git %% command-line-arguments %% INSERT DOCS BETWEEN PERCENTS %%
+
 commonqt-20110110-git %% qt-tutorial, qt-test, qt-repl, qt %% INSERT DOCS BETWEEN PERCENTS %%
+
 conduit-packages-20101006-http %% conduit-packages %% INSERT DOCS BETWEEN PERCENTS %%
+
 conium-20101006-git %% conium %% INSERT DOCS BETWEEN PERCENTS %%
+
 contextl-20101006-darcs %% dynamic-wind, contextl %% INSERT DOCS BETWEEN PERCENTS %%
+
 css-lite-20101107-git %% css-lite %% INSERT DOCS BETWEEN PERCENTS %%
+
 csv-parser-20101207-http %% csv-parser %% INSERT DOCS BETWEEN PERCENTS %%
+
 curly-20101207-darcs %% curly.test, curly %% INSERT DOCS BETWEEN PERCENTS %%
+
 cxml-20101107-git %% cxml-xml, cxml-test, cxml-klacks, cxml-dom, cxml %% INSERT DOCS BETWEEN PERCENTS %%
+
 cxml-rng-2008-11-30 %% cxml-rng %% INSERT DOCS BETWEEN PERCENTS %%
+
 cxml-rpc-20101006-git %% cxml-rpc %% INSERT DOCS BETWEEN PERCENTS %%
+
 cxml-stp-20101107-git %% cxml-stp-test, cxml-stp %% INSERT DOCS BETWEEN PERCENTS %%
+
 date-calc-20101006-http %% date-calc %% INSERT DOCS BETWEEN PERCENTS %%
+
 dbus-20101107-git %% dbus %% INSERT DOCS BETWEEN PERCENTS %%
+
 declt-1.0b1 %% com.dvlsoft.declt %% INSERT DOCS BETWEEN PERCENTS %%
+
 deflate-20101207-git %% deflate %% INSERT DOCS BETWEEN PERCENTS %%
+
 defsystem-compatibility-20101006-darcs %% defsystem-compatibility-test, defsystem-compatibility %% INSERT DOCS BETWEEN PERCENTS %%
+
 documentation-template-0.4.2 %% documentation-template %% INSERT DOCS BETWEEN PERCENTS %%
+
 drakma-1.2.3 %% drakma %% INSERT DOCS BETWEEN PERCENTS %%
+
 dso-lex-0.3.2 %% dso-lex %% INSERT DOCS BETWEEN PERCENTS %%
+
 dso-util-0.1.2 %% dso-util %% INSERT DOCS BETWEEN PERCENTS %%
+
 dynamic-classes-20101006-darcs %% dynamic-classes-test, dynamic-classes %% INSERT DOCS BETWEEN PERCENTS %%
+
 eager-future-20101006-darcs %% eager-future.test, eager-future %% INSERT DOCS BETWEEN PERCENTS %%
+
 elephant-20110110-darcs %% elephant-tests, elephant, ele-postmodern, ele-postgresql, ele-clsql, ele-clp, dcm %% INSERT DOCS BETWEEN PERCENTS %%
+
 eos-20101006-git %% eos-tests, eos %% INSERT DOCS BETWEEN PERCENTS %%
+
 esrap-20101006-git %% esrap %% INSERT DOCS BETWEEN PERCENTS %%
+
 evol-20101006-git %% evol-test, evol %% INSERT DOCS BETWEEN PERCENTS %%
+
 external-program_0.0.6 %% external-program %% INSERT DOCS BETWEEN PERCENTS %%
+
 f-underscore-20101006-darcs %% f-underscore %% INSERT DOCS BETWEEN PERCENTS %%
+
 f2cl-20110110-cvs %% f2cl %% INSERT DOCS BETWEEN PERCENTS %%
+
 fare-csv-20101006-git %% fare-csv %% INSERT DOCS BETWEEN PERCENTS %%
+
 fare-matcher-20101107-git %% fare-matcher %% INSERT DOCS BETWEEN PERCENTS %%
+
 fare-utils-20101207-git %% molicle, fare-utils %% INSERT DOCS BETWEEN PERCENTS %%
+
 fcgi-0.7 %% fcgi %% INSERT DOCS BETWEEN PERCENTS %%
+
 femlisp-0-9-10 %% infix, femlisp-matlisp, femlisp-basic, femlisp %% INSERT DOCS BETWEEN PERCENTS %%
+
 ffa-20101006-git %% ffa %% INSERT DOCS BETWEEN PERCENTS %%
+
 fft-20101006-git %% pfft, fft %% INSERT DOCS BETWEEN PERCENTS %%
+
 fiveam-20101006-darcs %% fiveam %% INSERT DOCS BETWEEN PERCENTS %%
+
 flexi-streams-1.0.7 %% flexi-streams-test, flexi-streams %% INSERT DOCS BETWEEN PERCENTS %%
+
 flexichain_1.5.1 %% flexichain-doc, flexichain %% INSERT DOCS BETWEEN PERCENTS %%
+
 folio-20101207-git %% folio.functions, folio.collections, folio.boxes, folio.as, folio %% INSERT DOCS BETWEEN PERCENTS %%
+
 fsbv-20101207-git %% fsbv %% INSERT DOCS BETWEEN PERCENTS %%
+
 fset-20101006-svn %% fset %% INSERT DOCS BETWEEN PERCENTS %%
+
 fucc_0.2.1 %% fucc-parser, fucc-generator %% INSERT DOCS BETWEEN PERCENTS %%
+
 garbage-pools-0.1.2 %% garbage-pools-test, garbage-pools %% INSERT DOCS BETWEEN PERCENTS %%
+
 gbbopen-20110110-svn %% tutorial-example, timing-tests, test-harness, portable-threads-test, portable-sockets-test, os-interface-test, multinode, module-manager-user, module-manager, gbbopen-tools-test, gbbopen-test, gbbopen-modules, gbbopen, double-metaphone-test, cl-timing, agenda-shell-test, abort-ks-execution-example %% INSERT DOCS BETWEEN PERCENTS %%
+
 genhash_1.7 %% genhash %% INSERT DOCS BETWEEN PERCENTS %%
+
 getopt-20101006-git %% getopt-tests, getopt %% INSERT DOCS BETWEEN PERCENTS %%
+
 glaw-20110110-git %% glaw-sdl, glaw-imago, glaw-examples, glaw %% INSERT DOCS BETWEEN PERCENTS %%
+
 glop-20110110-git %% glop-test, glop %% INSERT DOCS BETWEEN PERCENTS %%
+
 graylex-20101006-git %% graylex-test, graylex-m4-example, graylex %% INSERT DOCS BETWEEN PERCENTS %%
+
 gsd-20101207-git %% grid-tests, grid, foreign-array-tests, foreign-array %% INSERT DOCS BETWEEN PERCENTS %%
+
 gsharp-20101006-git %% gsharp %% INSERT DOCS BETWEEN PERCENTS %%
+
 gsll-20101207-git %% gsll-tests, gsll %% INSERT DOCS BETWEEN PERCENTS %%
+
 gtfl_0.1.2 %% gtfl %% INSERT DOCS BETWEEN PERCENTS %%
+
 gzip-stream_0.2.8 %% gzip-stream %% INSERT DOCS BETWEEN PERCENTS %%
+
 hemlock-20110110-git %% hemlock.tty, hemlock.qt, hemlock.clx, hemlock.base %% INSERT DOCS BETWEEN PERCENTS %%
+
 ht-simple-ajax_0.3 %% ht-simple-ajax %% INSERT DOCS BETWEEN PERCENTS %%
+
 html-encode-1.2 %% html-encode %% INSERT DOCS BETWEEN PERCENTS %%
+
 html-template-0.9.1 %% html-template %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.asdf-20110110-darcs %% hu.dwim.asdf.documentation, hu.dwim.asdf %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.common-20101107-darcs %% hu.dwim.common.documentation, hu.dwim.common %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.common-lisp-20101107-darcs %% hu.dwim.common-lisp.documentation, hu.dwim.common-lisp %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.computed-class-20101107-darcs %% hu.dwim.computed-class.test, hu.dwim.computed-class.documentation, hu.dwim.computed-class+swank, hu.dwim.computed-class+hu.dwim.defclass-star, hu.dwim.computed-class %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.def-20110110-darcs %% hu.dwim.def.test, hu.dwim.def.namespace, hu.dwim.def.documentation, hu.dwim.def+swank, hu.dwim.def+hu.dwim.delico, hu.dwim.def+hu.dwim.common, hu.dwim.def+contextl, hu.dwim.def+cl-l10n, hu.dwim.def %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.defclass-star-20101107-darcs %% hu.dwim.defclass-star.test, hu.dwim.defclass-star.documentation, hu.dwim.defclass-star+swank, hu.dwim.defclass-star+hu.dwim.def+contextl, hu.dwim.defclass-star+hu.dwim.def, hu.dwim.defclass-star+contextl, hu.dwim.defclass-star %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.delico-20101107-darcs %% hu.dwim.delico.test, hu.dwim.delico.documentation, hu.dwim.delico %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.logger-20101107-darcs %% hu.dwim.logger.test, hu.dwim.logger.documentation, hu.dwim.logger+swank, hu.dwim.logger %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.partial-eval-20101107-darcs %% hu.dwim.partial-eval.test, hu.dwim.partial-eval.documentation, hu.dwim.partial-eval %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.perec-20101107-darcs %% hu.dwim.perec.test, hu.dwim.perec.sqlite.test, hu.dwim.perec.sqlite, hu.dwim.perec.postgresql.test, hu.dwim.perec.postgresql, hu.dwim.perec.oracle.test, hu.dwim.perec.oracle, hu.dwim.perec.all.test, hu.dwim.perec.all, hu.dwim.perec+swank, hu.dwim.perec+iolib, hu.dwim.perec+hu.dwim.quasi-quote.xml, hu.dwim.perec %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.quasi-quote-20101107-darcs %% hu.dwim.quasi-quote.xml+hu.dwim.quasi-quote.js, hu.dwim.quasi-quote.xml+cxml, hu.dwim.quasi-quote.xml, hu.dwim.quasi-quote.test, hu.dwim.quasi-quote.js, hu.dwim.quasi-quote.documentation, hu.dwim.quasi-quote.css, hu.dwim.quasi-quote %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.rdbms-20101107-darcs %% hu.dwim.rdbms.test, hu.dwim.rdbms.sqlite.test, hu.dwim.rdbms.sqlite, hu.dwim.rdbms.postgresql.test, hu.dwim.rdbms.postgresql, hu.dwim.rdbms.oracle.test, hu.dwim.rdbms.oracle, hu.dwim.rdbms.documentation, hu.dwim.rdbms.all.test, hu.dwim.rdbms.all, hu.dwim.rdbms %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.reiterate-20101107-darcs %% hu.dwim.reiterate.test, hu.dwim.reiterate.documentation, hu.dwim.reiterate %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.serializer-20101207-darcs %% hu.dwim.serializer.test, hu.dwim.serializer.documentation, hu.dwim.serializer %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.stefil-20101207-darcs %% hu.dwim.stefil.test, hu.dwim.stefil+swank, hu.dwim.stefil+hu.dwim.def+swank, hu.dwim.stefil+hu.dwim.def, hu.dwim.stefil %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.syntax-sugar-20101207-darcs %% hu.dwim.syntax-sugar.unicode, hu.dwim.syntax-sugar.test, hu.dwim.syntax-sugar.documentation, hu.dwim.syntax-sugar+hu.dwim.walker, hu.dwim.syntax-sugar %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.util-20101207-darcs %% hu.dwim.util.zlib, hu.dwim.util.worker-group, hu.dwim.util.threads, hu.dwim.util.test, hu.dwim.util.temporary-files, hu.dwim.util.standard-process, hu.dwim.util.source, hu.dwim.util.soap, hu.dwim.util.production+swank, hu.dwim.util.production, hu.dwim.util.mop, hu.dwim.util.i18n, hu.dwim.util.flexml, hu.dwim.util.finite-state-machine, hu.dwim.util.error-handling+swank, hu.dwim.util.error-handling, hu.dwim.util.documentation, hu.dwim.util.authorization, hu.dwim.util+iolib, hu.dwim.util %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.walker-20101107-darcs %% hu.dwim.walker.test, hu.dwim.walker.documentation, hu.dwim.walker %% INSERT DOCS BETWEEN PERCENTS %%
+
 hu.dwim.wui-20101107-darcs %% hu.dwim.wui.http.test, hu.dwim.wui.http, hu.dwim.wui.component, hu.dwim.wui.application.test, hu.dwim.wui.application, hu.dwim.wui+swank, hu.dwim.wui+stefil, hu.dwim.wui+cl-typesetting, hu.dwim.wui+cl-graph+cl-typesetting, hu.dwim.wui %% INSERT DOCS BETWEEN PERCENTS %%
+
 hunchentoot-1.1.1 %% hunchentoot-test, hunchentoot %% INSERT DOCS BETWEEN PERCENTS %%
+
 hunchentoot-auth-20101107-git %% hunchentoot-auth %% INSERT DOCS BETWEEN PERCENTS %%
+
 hunchentoot-cgi-20101107-git %% hunchentoot-cgi %% INSERT DOCS BETWEEN PERCENTS %%
+
 hunchentoot-vhost-20101107-git %% hunchentoot-vhost %% INSERT DOCS BETWEEN PERCENTS %%
+
 hyperobject-20101006-git %% hyperobject-tests, hyperobject %% INSERT DOCS BETWEEN PERCENTS %%
+
 ie3fp-20101006-http %% ie3fp %% INSERT DOCS BETWEEN PERCENTS %%
+
 ieee-floats-20101006-darcs %% ieee-floats-tests, ieee-floats %% INSERT DOCS BETWEEN PERCENTS %%
+
 imago-20101006-cvs %% imago %% INSERT DOCS BETWEEN PERCENTS %%
+
 incf-cl-20101006-git %% incf-cl-test, incf-cl %% INSERT DOCS BETWEEN PERCENTS %%
+
 inotify-20101207-git %% inotify %% INSERT DOCS BETWEEN PERCENTS %%
+
 iolib-0.7.3 %% iolib.trivial-sockets, iolib.syscalls, iolib.streams, iolib.sockets, iolib.pathnames, iolib.os, iolib.multiplex, iolib.examples, iolib.base, iolib-tests, iolib %% INSERT DOCS BETWEEN PERCENTS %%
+
 irc-logger-20101006-git %% irc-logger %% INSERT DOCS BETWEEN PERCENTS %%
+
 ironclad_0.28 %% ironclad-tests, ironclad %% INSERT DOCS BETWEEN PERCENTS %%
+
 iterate-20101006-darcs %% iterate-tests, iterate-pg, iterate %% INSERT DOCS BETWEEN PERCENTS %%
+
 jpl-queues-0.1 %% jpl-queues %% INSERT DOCS BETWEEN PERCENTS %%
+
 js-v0.10.12-git %% cl-js %% INSERT DOCS BETWEEN PERCENTS %%
+
 jsown-20101006-git %% jsown-tests, jsown %% INSERT DOCS BETWEEN PERCENTS %%
+
 jwacs-20101006-darcs %% jwacs-tests, jwacs %% INSERT DOCS BETWEEN PERCENTS %%
+
 kmrcl-20101006-git %% kmrcl-tests, kmrcl %% INSERT DOCS BETWEEN PERCENTS %%
+
 l-math_0.3.2 %% l-math %% INSERT DOCS BETWEEN PERCENTS %%
+
 latex-table-20101207-git %% latex-table %% INSERT DOCS BETWEEN PERCENTS %%
+
 levenshtein-1.0 %% levenshtein %% INSERT DOCS BETWEEN PERCENTS %%
+
 lift-20101107-git %% lift-documentation, lift %% INSERT DOCS BETWEEN PERCENTS %%
+
 linedit-20101107-git %% terminfo, linedit %% INSERT DOCS BETWEEN PERCENTS %%
+
 lisp-magick-0.71 %% lisp-magick %% INSERT DOCS BETWEEN PERCENTS %%
+
 lisp-on-lines-20101006-darcs %% lisp-on-lines.test, lisp-on-lines-ucw, lisp-on-lines %% INSERT DOCS BETWEEN PERCENTS %%
+
 lisp-unit-20101006-git %% lisp-unit %% INSERT DOCS BETWEEN PERCENTS %%
+
 lispbuilder-20110110-svn %% lispbuilder-yacc, lispbuilder-windows, lispbuilder-sdl-vecto-examples, lispbuilder-sdl-vecto, lispbuilder-sdl-ttf-examples, lispbuilder-sdl-ttf-cffi, lispbuilder-sdl-ttf-binaries, lispbuilder-sdl-ttf, lispbuilder-sdl-mixer-examples, lispbuilder-sdl-mixer-cffi, lispbuilder-sdl-mixer-binaries, lispbuilder-sdl-mixer, lispbuilder-sdl-image-examples, lispbuilder-sdl-image-cffi, lispbuilder-sdl-image-binaries, lispbuilder-sdl-image, lispbuilder-sdl-gfx-examples, lispbuilder-sdl-gfx-cffi, lispbuilder-sdl-gfx-binaries, lispbuilder-sdl-gfx, lispbuilder-sdl-examples, lispbuilder-sdl-cl-vectors-examples, lispbuilder-sdl-cl-vectors, lispbuilder-sdl-cffi, lispbuilder-sdl-binaries, lispbuilder-sdl-base, lispbuilder-sdl-assets, lispbuilder-sdl, lispbuilder-regex, lispbuilder-opengl-examples, lispbuilder-opengl-1-1, lispbuilder-net-examples, lispbuilder-net-cffi, lispbuilder-net, lispbuilder-lexer, cocoahelper %% INSERT DOCS BETWEEN PERCENTS %%
+
 lla-20101107-git %% lla-unit-tests, lla %% INSERT DOCS BETWEEN PERCENTS %%
+
 lml-20101006-git %% lml-tests, lml %% INSERT DOCS BETWEEN PERCENTS %%
+
 lml2-20101006-git %% lml2-tests, lml2 %% INSERT DOCS BETWEEN PERCENTS %%
+
 local-time-20101006-darcs %% local-time.test, local-time, cl-postgres+local-time %% INSERT DOCS BETWEEN PERCENTS %%
+
 log5-20110110-git %% log5 %% INSERT DOCS BETWEEN PERCENTS %%
+
 loopless-20101207-git %% loopless %% INSERT DOCS BETWEEN PERCENTS %%
+
 lredis-20110110-git %% lredis %% INSERT DOCS BETWEEN PERCENTS %%
+
 ltk-0.91 %% ltk-remote, ltk-mw, ltk %% INSERT DOCS BETWEEN PERCENTS %%
+
 lw-compat-20101006-darcs %% lw-compat %% INSERT DOCS BETWEEN PERCENTS %%
+
 magicffi-20101006-git %% magicffi-test, magicffi %% INSERT DOCS BETWEEN PERCENTS %%
+
 manardb-20101207-git %% manardb-test, manardb %% INSERT DOCS BETWEEN PERCENTS %%
+
 mcclim-20101006-cvs %% mcclim-truetype, mcclim-tree-with-cross-edges, mcclim-tiff-bitmaps, mcclim-png-bitmaps, mcclim-jpeg-bitmaps, mcclim-gif-bitmaps, mcclim-freetype-cffi, mcclim-freetype, mcclim, goatee-core, functional-geometry, esa-mcclim, esa, drei-tests, drei-mcclim, conditional-commands, clouseau, clim-postscript, clim-null, clim-looks, clim-listener, clim-lisp, clim-gtkairo, clim-examples, clim-core, clim-clx, clim-basic, clim, automaton %% INSERT DOCS BETWEEN PERCENTS %%
+
 md5-20101006-git %% md5 %% INSERT DOCS BETWEEN PERCENTS %%
+
 mel-base-20110110-git %% mel-base %% INSERT DOCS BETWEEN PERCENTS %%
+
 meta-20101006-git %% meta %% INSERT DOCS BETWEEN PERCENTS %%
+
 meta-sexp-0.1.6 %% meta-sexp %% INSERT DOCS BETWEEN PERCENTS %%
+
 metabang-bind-20101006-git %% metabang-bind %% INSERT DOCS BETWEEN PERCENTS %%
+
 metacopy-20101006-darcs %% metacopy-with-contextl, metacopy-test-with-contextl, metacopy-test, metacopy %% INSERT DOCS BETWEEN PERCENTS %%
+
 metatilities-20101006-darcs %% metatilities-test, metatilities %% INSERT DOCS BETWEEN PERCENTS %%
+
 metatilities-base-20101006-darcs %% metatilities-base-test, metatilities-base %% INSERT DOCS BETWEEN PERCENTS %%
+
 mgl-20110110-git %% mgl-visuals, mgl-test, mgl-example, mgl %% INSERT DOCS BETWEEN PERCENTS %%
+
 micmac-0.0.2 %% micmac-test, micmac %% INSERT DOCS BETWEEN PERCENTS %%
+
 midi-20070618 %% midi %% INSERT DOCS BETWEEN PERCENTS %%
+
 mime4cl-20101006-http %% mime4cl %% INSERT DOCS BETWEEN PERCENTS %%
+
 misc-extensions-20101006-cvs %% misc-extensions %% INSERT DOCS BETWEEN PERCENTS %%
+
 mixalot-20101006-git %% vorbisfile-ffi, mpg123-ffi, mixalot-vorbis, mixalot-mp3, mixalot %% INSERT DOCS BETWEEN PERCENTS %%
+
 monkeylib-binary-data-20110110-git %% com.gigamonkeys.binary-data %% INSERT DOCS BETWEEN PERCENTS %%
+
 monkeylib-foo-20101207-git %% com.gigamonkeys.foo %% INSERT DOCS BETWEEN PERCENTS %%
+
 monkeylib-macro-utilities-20101207-git %% com.gigamonkeys.macro-utilities %% INSERT DOCS BETWEEN PERCENTS %%
+
 monkeylib-markup-20101207-git %% com.gigamonkeys.markup %% INSERT DOCS BETWEEN PERCENTS %%
+
 monkeylib-markup-html-20101207-git %% monkeylib-markup-html %% INSERT DOCS BETWEEN PERCENTS %%
+
 monkeylib-pathnames-20101207-git %% com.gigamonkeys.pathnames %% INSERT DOCS BETWEEN PERCENTS %%
+
 monkeylib-prose-diff-20101207-git %% com.gigamonkeys.prose-diff %% INSERT DOCS BETWEEN PERCENTS %%
+
 monkeylib-test-framework-20101207-git %% com.gigamonkeys.test-framework %% INSERT DOCS BETWEEN PERCENTS %%
+
 monkeylib-utilities-20101207-git %% com.gigamonkeys.utilities %% INSERT DOCS BETWEEN PERCENTS %%
+
 montezuma-20110110-svn %% montezuma-tests, montezuma-indexfiles, montezuma, lucene-in-action-tests %% INSERT DOCS BETWEEN PERCENTS %%
+
 moptilities-20110110-http %% moptilities-test, moptilities %% INSERT DOCS BETWEEN PERCENTS %%
+
 mt19937-1.1 %% mt19937 %% INSERT DOCS BETWEEN PERCENTS %%
+
 mtlisp-20110110-git %% mtlisp %% INSERT DOCS BETWEEN PERCENTS %%
+
 mw-equiv-0.1.3 %% mw-equiv %% INSERT DOCS BETWEEN PERCENTS %%
+
 named-readtables-20101006-darcs %% named-readtables-test, named-readtables %% INSERT DOCS BETWEEN PERCENTS %%
+
 net-telent-date_0.42 %% net-telent-date %% INSERT DOCS BETWEEN PERCENTS %%
+
 net4cl-20101006-http %% net4cl %% INSERT DOCS BETWEEN PERCENTS %%
+
 npg-20101006-http %% npg %% INSERT DOCS BETWEEN PERCENTS %%
+
 nst-3.0.1 %% nst, defdoc, asdf-nst %% INSERT DOCS BETWEEN PERCENTS %%
+
 nuclblog-20101107-git %% nuclblog %% INSERT DOCS BETWEEN PERCENTS %%
+
 oct-20101006-cvs %% oct %% INSERT DOCS BETWEEN PERCENTS %%
+
 odd-streams-0.1.1 %% odd-streams-test, odd-streams %% INSERT DOCS BETWEEN PERCENTS %%
+
 ods4cl-20101006-http %% ods4cl %% INSERT DOCS BETWEEN PERCENTS %%
+
 okra-20101006-git %% okra-common %% INSERT DOCS BETWEEN PERCENTS %%
+
 osc-20101006-darcs %% osc %% INSERT DOCS BETWEEN PERCENTS %%
+
 osicat-20101006-git %% osicat-tests, osicat %% INSERT DOCS BETWEEN PERCENTS %%
+
 parenscript-2.2 %% parenscript.test, parenscript %% INSERT DOCS BETWEEN PERCENTS %%
+
 parse-declarations-20101006-darcs %% parse-declarations-1.0 %% INSERT DOCS BETWEEN PERCENTS %%
+
 parse-js-20110110-git %% parse-js %% INSERT DOCS BETWEEN PERCENTS %%
+
 parse-number-1.0 %% parse-number %% INSERT DOCS BETWEEN PERCENTS %%
+
 patron-20101006-git %% patron %% INSERT DOCS BETWEEN PERCENTS %%
+
 pcall-0.3 %% pcall-tests, pcall-queue, pcall %% INSERT DOCS BETWEEN PERCENTS %%
+
 pg-20101006-cvs %% pg %% INSERT DOCS BETWEEN PERCENTS %%
+
 phemlock-20110110-cvs %% spell, hemlock %% INSERT DOCS BETWEEN PERCENTS %%
+
 pileup-20101207-git %% pileup-tests, pileup %% INSERT DOCS BETWEEN PERCENTS %%
+
 pipes-20101006-git %% pipes %% INSERT DOCS BETWEEN PERCENTS %%
+
 pithy-xml-20101006-git %% pithy-xml %% INSERT DOCS BETWEEN PERCENTS %%
+
 plain-odbc-20110110-svn %% plain-odbc-with-libs, plain-odbc %% INSERT DOCS BETWEEN PERCENTS %%
+
 plexippus-xpath-20101006-darcs %% xpath %% INSERT DOCS BETWEEN PERCENTS %%
+
 plokami-20110110-git %% plokami %% INSERT DOCS BETWEEN PERCENTS %%
+
 png-read-20101107-git %% png-read %% INSERT DOCS BETWEEN PERCENTS %%
+
 portable-threads-20101006-http %% portable-threads %% INSERT DOCS BETWEEN PERCENTS %%
+
 portableaserve-20101006-cvs %% webactions, htmlgen, aserve, acl-compat %% INSERT DOCS BETWEEN PERCENTS %%
+
 postmodern-20110110-git %% simple-date-tests, simple-date-postgres-glue, simple-date, s-sql, postmodern, cl-postgres-tests, cl-postgres %% INSERT DOCS BETWEEN PERCENTS %%
+
 postoffice-20101006-git %% postoffice %% INSERT DOCS BETWEEN PERCENTS %%
+
 prepl-20101207-git %% prepl %% INSERT DOCS BETWEEN PERCENTS %%
+
 protobuf-20110110-git %% protobuf %% INSERT DOCS BETWEEN PERCENTS %%
+
 proton-20101207-git %% proton %% INSERT DOCS BETWEEN PERCENTS %%
+
 psgraph-1.2 %% psgraph %% INSERT DOCS BETWEEN PERCENTS %%
+
 ptester-20101006-git %% ptester %% INSERT DOCS BETWEEN PERCENTS %%
+
 pubmed-20101006-git %% pubmed %% INSERT DOCS BETWEEN PERCENTS %%
+
 puri-20101006-git %% puri-tests, puri %% INSERT DOCS BETWEEN PERCENTS %%
+
 py-configparser-20101006-svn %% py-configparser %% INSERT DOCS BETWEEN PERCENTS %%
+
 py-configvalidator-20101006-git %% py-configvalidator %% INSERT DOCS BETWEEN PERCENTS %%
+
 quicklisp-slime-helper-20101107-git %% quicklisp-slime-helper %% INSERT DOCS BETWEEN PERCENTS %%
+
 quickproject-20101107-git %% quickproject %% INSERT DOCS BETWEEN PERCENTS %%
+
 rcl-20101006-http %% rcl %% INSERT DOCS BETWEEN PERCENTS %%
+
 regex-1 %% regex %% INSERT DOCS BETWEEN PERCENTS %%
+
 relational-objects-for-lisp-20110110-darcs %% rofl.test, rofl %% INSERT DOCS BETWEEN PERCENTS %%
+
 restas-20110110-git %% restas-doc, restas %% INSERT DOCS BETWEEN PERCENTS %%
+
 restas-directory-publisher-20110110-git %% restas-directory-publisher %% INSERT DOCS BETWEEN PERCENTS %%
+
 retrospectiff-20101006-git %% retrospectiff %% INSERT DOCS BETWEEN PERCENTS %%
+
 reversi-20101006-git %% reversi %% INSERT DOCS BETWEEN PERCENTS %%
+
 rfc2109-0.4.1 %% rfc2109 %% INSERT DOCS BETWEEN PERCENTS %%
+
 rfc2388-20101006-http %% rfc2388 %% INSERT DOCS BETWEEN PERCENTS %%
+
 rfc2388-binary-20101107-darcs %% rfc2388-binary %% INSERT DOCS BETWEEN PERCENTS %%
+
 rfc3339-timestamp-0.2.4 %% rfc3339-timestamp %% INSERT DOCS BETWEEN PERCENTS %%
+
 rlc-20101006-git %% rlc %% INSERT DOCS BETWEEN PERCENTS %%
+
 rpc4cl-0.3.1 %% rpc4cl-test, rpc4cl %% INSERT DOCS BETWEEN PERCENTS %%
+
 rt-20101006-git %% rt %% INSERT DOCS BETWEEN PERCENTS %%
+
 rucksack-20101006-cvs %% rucksack-test, rucksack %% INSERT DOCS BETWEEN PERCENTS %%
+
 rutils-20101006-git %% rutils %% INSERT DOCS BETWEEN PERCENTS %%
+
 s-base64-20101006-http %% s-base64 %% INSERT DOCS BETWEEN PERCENTS %%
+
 s-dot-1.2 %% s-dot %% INSERT DOCS BETWEEN PERCENTS %%
+
 s-http-client-20101006-http %% s-http-client %% INSERT DOCS BETWEEN PERCENTS %%
+
 s-protobuf-20101006-git %% s-protobuf %% INSERT DOCS BETWEEN PERCENTS %%
+
 s-sysdeps-20101006-http %% s-sysdeps %% INSERT DOCS BETWEEN PERCENTS %%
+
 s-utils-20101006-http %% s-utils %% INSERT DOCS BETWEEN PERCENTS %%
+
 s-xml-20101006-http %% s-xml %% INSERT DOCS BETWEEN PERCENTS %%
+
 s-xml-rpc-20101006-http %% s-xml-rpc %% INSERT DOCS BETWEEN PERCENTS %%
+
 salza2-2.0.7 %% salza2 %% INSERT DOCS BETWEEN PERCENTS %%
+
 sb-cga-20101107-git %% sb-cga %% INSERT DOCS BETWEEN PERCENTS %%
+
 sb-vector-io-20101207-git %% sb-vector-io %% INSERT DOCS BETWEEN PERCENTS %%
+
 sclf-20101006-http %% sclf %% INSERT DOCS BETWEEN PERCENTS %%
+
 screamer-20101207-git %% screamer-tests, screamer %% INSERT DOCS BETWEEN PERCENTS %%
+
 scribble-20101107-git %% scribble-test, scribble %% INSERT DOCS BETWEEN PERCENTS %%
+
 sequence-iterators-20101207-darcs %% sequence-iterators-test, sequence-iterators, extensible-sequences-test, extensible-sequences %% INSERT DOCS BETWEEN PERCENTS %%
+
 series-20101006-cvs %% series-tests, series %% INSERT DOCS BETWEEN PERCENTS %%
+
 sheeple-20101006-git %% sheeple-tests, sheeple %% INSERT DOCS BETWEEN PERCENTS %%
+
 shuffletron-20101107-git %% shuffletron %% INSERT DOCS BETWEEN PERCENTS %%
+
 simple-date-time-20110110-git %% simple-date-time %% INSERT DOCS BETWEEN PERCENTS %%
+
 simple-finalizer-20101006-git %% simple-finalizer %% INSERT DOCS BETWEEN PERCENTS %%
+
 simpsamp-0.1 %% simpsamp %% INSERT DOCS BETWEEN PERCENTS %%
+
 skippy-1.3.7 %% skippy %% INSERT DOCS BETWEEN PERCENTS %%
+
 slime-20110110-cvs %% swank %% INSERT DOCS BETWEEN PERCENTS %%
+
 smtp4cl-20101006-http %% smtp4cl %% INSERT DOCS BETWEEN PERCENTS %%
+
 snmp-5.19 %% snmp-test, snmp-server, snmp-base, snmp %% INSERT DOCS BETWEEN PERCENTS %%
+
 soundex-1.0 %% soundex %% INSERT DOCS BETWEEN PERCENTS %%
+
 spartns-1.4.3 %% spartns-test, spartns %% INSERT DOCS BETWEEN PERCENTS %%
+
 spatial-trees-20101006-darcs %% spatial-trees %% INSERT DOCS BETWEEN PERCENTS %%
+
 split-sequence-20101006-http %% split-sequence %% INSERT DOCS BETWEEN PERCENTS %%
+
 sqnc-20110110-git %% csound %% INSERT DOCS BETWEEN PERCENTS %%
+
 st-json-20101207-git %% st-json %% INSERT DOCS BETWEEN PERCENTS %%
+
 static-vectors-20101006-git %% static-vectors %% INSERT DOCS BETWEEN PERCENTS %%
+
 stefil-20101107-darcs %% stefil-test, stefil %% INSERT DOCS BETWEEN PERCENTS %%
+
 string-case-20101006-http %% string-case %% INSERT DOCS BETWEEN PERCENTS %%
+
 sw-db-20101006-git %% sw-db %% INSERT DOCS BETWEEN PERCENTS %%
+
 sw-http-20101006-git %% sw-http %% INSERT DOCS BETWEEN PERCENTS %%
+
 sw-mvc-20101207-git %% sw-mvc %% INSERT DOCS BETWEEN PERCENTS %%
+
 sw-stm-20101006-git %% sw-stm %% INSERT DOCS BETWEEN PERCENTS %%
+
 symbolicweb-20101207-git %% symbolicweb-jquery, symbolicweb-examples, symbolicweb %% INSERT DOCS BETWEEN PERCENTS %%
+
 tbnl-0.11.4 %% tbnl %% INSERT DOCS BETWEEN PERCENTS %%
+
 testbild-20101207-git %% testbild-test, testbild %% INSERT DOCS BETWEEN PERCENTS %%
+
 tilde-20101006-git %% tilde %% INSERT DOCS BETWEEN PERCENTS %%
+
 tinaa-20101006-darcs %% tinaa-test %% INSERT DOCS BETWEEN PERCENTS %%
+
 tpapp-utils-20101107-git %% tpapp-utils %% INSERT DOCS BETWEEN PERCENTS %%
+
 trees_0.11 %% trees %% INSERT DOCS BETWEEN PERCENTS %%
+
 trivial-backtrace-20101006-git %% trivial-backtrace-test, trivial-backtrace %% INSERT DOCS BETWEEN PERCENTS %%
+
 trivial-features-20101006-darcs %% trivial-features-tests, trivial-features %% INSERT DOCS BETWEEN PERCENTS %%
+
 trivial-garbage-20101006-darcs %% trivial-garbage-tests, trivial-garbage %% INSERT DOCS BETWEEN PERCENTS %%
+
 trivial-gray-streams-20101006-cvs %% trivial-gray-streams %% INSERT DOCS BETWEEN PERCENTS %%
+
 trivial-http-20101006-http %% trivial-http-test, trivial-http %% INSERT DOCS BETWEEN PERCENTS %%
+
 trivial-ldap-0.92 %% trivial-ldap %% INSERT DOCS BETWEEN PERCENTS %%
+
 trivial-shell-20101006-http %% trivial-shell-test, trivial-shell %% INSERT DOCS BETWEEN PERCENTS %%
+
 trivial-timeout-20101006-darcs %% trivial-timeout-test, trivial-timeout %% INSERT DOCS BETWEEN PERCENTS %%
+
 trivial-timers-20101006-http %% trivial-timers %% INSERT DOCS BETWEEN PERCENTS %%
+
 trivial-utf-8-20101006-darcs %% trivial-utf-8-tests, trivial-utf-8 %% INSERT DOCS BETWEEN PERCENTS %%
+
 ucw-20110110-darcs %% ucw.mod-lisp, ucw.manual-examples, ucw.iolib, ucw.httpd, ucw.examples, ucw-core.test, ucw-core, ucw %% INSERT DOCS BETWEEN PERCENTS %%
+
 uffi-20101107-git %% uffi %% INSERT DOCS BETWEEN PERCENTS %%
+
 umlisp-20101006-git %% umlisp-tests, umlisp %% INSERT DOCS BETWEEN PERCENTS %%
+
 umlisp-orf-20101006-git %% umlisp-orf %% INSERT DOCS BETWEEN PERCENTS %%
+
 unit-test-20101006-svn %% unit-test %% INSERT DOCS BETWEEN PERCENTS %%
+
 unix-options-20110110-git %% unix-options %% INSERT DOCS BETWEEN PERCENTS %%
+
 until-it-dies-20101006-git %% until-it-dies.sound, until-it-dies.graphics, until-it-dies.examples, until-it-dies.base, until-it-dies %% INSERT DOCS BETWEEN PERCENTS %%
+
 url-rewrite-0.1.1 %% url-rewrite %% INSERT DOCS BETWEEN PERCENTS %%
+
 usocket-20110110-svn %% usocket-test, usocket %% INSERT DOCS BETWEEN PERCENTS %%
+
 usocket-udp-2.6 %% usocket-udp %% INSERT DOCS BETWEEN PERCENTS %%
+
 utils-kt-20101006-git %% utils-kt %% INSERT DOCS BETWEEN PERCENTS %%
+
 uuid-20101006-http %% uuid %% INSERT DOCS BETWEEN PERCENTS %%
+
 vcs-tree-20101006-git %% vcs-tree %% INSERT DOCS BETWEEN PERCENTS %%
+
 vecto-1.4.3 %% vecto %% INSERT DOCS BETWEEN PERCENTS %%
+
 verrazano-20110110-darcs %% verrazano-runtime, verrazano %% INSERT DOCS BETWEEN PERCENTS %%
+
 weblocks-20110110-hg %% weblocks-yui, weblocks-yarek, weblocks-store-test, weblocks-scripts, weblocks-s11, weblocks-prevalence, weblocks-postmodern, weblocks-memory, weblocks-elephant-demo, weblocks-elephant, weblocks-demo-popover, weblocks-demo, weblocks, simple-blog %% INSERT DOCS BETWEEN PERCENTS %%
+
 wiki-parser-20101006-git %% wiki-parser-test, wiki-parser %% INSERT DOCS BETWEEN PERCENTS %%
+
 wuwei-20110110-git %% wuwei-examples, wuwei %% INSERT DOCS BETWEEN PERCENTS %%
+
 x.fdatatypes-20101006-git %% x.fdatatypes %% INSERT DOCS BETWEEN PERCENTS %%
+
 x.let-star-20101006-git %% x.let-star %% INSERT DOCS BETWEEN PERCENTS %%
+
 xarray-20101006-git %% xarray %% INSERT DOCS BETWEEN PERCENTS %%
+
 xhtmlgen-20110110-git %% xhtmlgen-test, xhtmlgen %% INSERT DOCS BETWEEN PERCENTS %%
+
 xlunit-20101006-git %% xlunit-tests, xlunit %% INSERT DOCS BETWEEN PERCENTS %%
+
 xmls-1.4 %% xmls %% INSERT DOCS BETWEEN PERCENTS %%
+
 xptest-20101006-git %% xptest %% INSERT DOCS BETWEEN PERCENTS %%
+
 xuriella-20101006-git %% xuriella %% INSERT DOCS BETWEEN PERCENTS %%
+
 yaclml-20101006-darcs %% yaclml.test, yaclml %% INSERT DOCS BETWEEN PERCENTS %%
+
 yason-20101107-git %% yason %% INSERT DOCS BETWEEN PERCENTS %%
+
 zcdb-1.0.1 %% zcdb %% INSERT DOCS BETWEEN PERCENTS %%
+
 zip-20101107-cvs %% zip %% INSERT DOCS BETWEEN PERCENTS %%
+
 zlib-20101006-cvs %% zlib %% INSERT DOCS BETWEEN PERCENTS %%
+
 zpb-exif-1.2.1 %% zpb-exif %% INSERT DOCS BETWEEN PERCENTS %%
+
 zpb-ttf-1.0 %% zpb-ttf %% INSERT DOCS BETWEEN PERCENTS %%
+
 zpng-1.2 %% zpng %% INSERT DOCS BETWEEN PERCENTS %%
+
 zs3-1.1.4 %% zs3 %% INSERT DOCS BETWEEN PERCENTS %%
+
