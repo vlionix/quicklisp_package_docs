@@ -1,10 +1,10 @@
-3b-swf-20110110-git %% 3b-swf-swc, 3b-swf %% TODO: Documentation awaiting work. %%
+3b-swf-20110110-git %% 3b-swf-swc, 3b-swf %% Operates on SWF files%%
 
 3bil-20101006-git %% swf-writer-hack, avm2-lib, avm2-compile, avm2-asm, 3b-swf-writer %% TODO: Documentation awaiting work. %%
 
 adw-charting-20110110-http %% adw-charting-vecto, adw-charting-google, adw-charting %% TODO: Documentation awaiting work. %%
 
-alexandria-20101107-git %% alexandria-tests, alexandria %% TODO: Documentation awaiting work. %%
+alexandria-20101107-git %% alexandria-tests, alexandria %% Useful utility functions for things such as hashes, numbers, and strings %%
 
 anaphora-0.9.3 %% anaphora-test, anaphora %% TODO: Documentation awaiting work. %%
 
@@ -46,7 +46,7 @@ bordeaux-threads-0.8.0 %% bordeaux-threads-test, bordeaux-threads %% TODO: Docum
 
 bourbaki-20110110-http %% bourbaki %% TODO: Documentation awaiting work. %%
 
-buildapp-1.1 %% buildapp %% TODO: Documentation awaiting work. %%
+buildapp-1.1 %% buildapp %% Builds executables with SBCL for release.%%
 
 calispel-0.1 %% calispel %% TODO: Documentation awaiting work. %%
 
@@ -164,7 +164,7 @@ cl-jpeg-20101107-http %% cl-jpeg %% TODO: Documentation awaiting work. %%
 
 cl-jpl-util-0.3 %% jpl-util %% TODO: Documentation awaiting work. %%
 
-cl-json-20101006-darcs %% cl-json.test, cl-json %% TODO: Documentation awaiting work. %%
+cl-json-20101006-darcs %% cl-json.test, cl-json %% JSON library: loads and dumps strings%%
 
 cl-l10n-20101107-darcs %% cl-l10n.test, cl-l10n %% TODO: Documentation awaiting work. %%
 
@@ -336,7 +336,7 @@ clx-0.7.4 %% clx %% TODO: Documentation awaiting work. %%
 
 colorize-20101006-svn %% colorize %% TODO: Documentation awaiting work. %%
 
-command-line-arguments-20101006-git %% command-line-arguments %% TODO: Documentation awaiting work. %%
+command-line-arguments-20101006-git %% command-line-arguments %% A command-line parser utility, much like Perl's Getopt::Long %%
 
 commonqt-20110110-git %% qt-tutorial, qt-test, qt-repl, qt %% TODO: Documentation awaiting work. %%
 
@@ -372,7 +372,7 @@ defsystem-compatibility-20101006-darcs %% defsystem-compatibility-test, defsyste
 
 documentation-template-0.4.2 %% documentation-template %% TODO: Documentation awaiting work. %%
 
-drakma-1.2.3 %% drakma %% TODO: Documentation awaiting work. %%
+drakma-1.2.3 %% drakma %% A HTTP client for sending and getting data from the web. %%
 
 dso-lex-0.3.2 %% dso-lex %% TODO: Documentation awaiting work. %%
 
@@ -430,7 +430,7 @@ gbbopen-20110110-svn %% tutorial-example, timing-tests, test-harness, portable-t
 
 genhash_1.7 %% genhash %% TODO: Documentation awaiting work. %%
 
-getopt-20101006-git %% getopt-tests, getopt %% TODO: Documentation awaiting work. %%
+getopt-20101006-git %% getopt-tests, getopt %% A command-line parser, much like Perl's Getopt::Long %%
 
 glaw-20110110-git %% glaw-sdl, glaw-imago, glaw-examples, glaw %% TODO: Documentation awaiting work. %%
 
@@ -494,7 +494,7 @@ hu.dwim.walker-20101107-darcs %% hu.dwim.walker.test, hu.dwim.walker.documentati
 
 hu.dwim.wui-20101107-darcs %% hu.dwim.wui.http.test, hu.dwim.wui.http, hu.dwim.wui.component, hu.dwim.wui.application.test, hu.dwim.wui.application, hu.dwim.wui+swank, hu.dwim.wui+stefil, hu.dwim.wui+cl-typesetting, hu.dwim.wui+cl-graph+cl-typesetting, hu.dwim.wui %% TODO: Documentation awaiting work. %%
 
-hunchentoot-1.1.1 %% hunchentoot-test, hunchentoot %% TODO: Documentation awaiting work. %%
+hunchentoot-1.1.1 %% hunchentoot-test, hunchentoot %% A Common Lisp webserver. One of the classic tools of a Common Lisp webapp%%
 
 hunchentoot-auth-20101107-git %% hunchentoot-auth %% TODO: Documentation awaiting work. %%
 
@@ -518,7 +518,7 @@ iolib-0.7.3 %% iolib.trivial-sockets, iolib.syscalls, iolib.streams, iolib.socke
 
 irc-logger-20101006-git %% irc-logger %% TODO: Documentation awaiting work. %%
 
-ironclad_0.28 %% ironclad-tests, ironclad %% TODO: Documentation awaiting work. %%
+ironclad_0.28 %% ironclad-tests, ironclad %% Encryption/Decryption routines. %%
 
 iterate-20101006-darcs %% iterate-tests, iterate-pg, iterate %% TODO: Documentation awaiting work. %%
 
@@ -560,11 +560,11 @@ local-time-20101006-darcs %% local-time.test, local-time, cl-postgres+local-time
 
 log5-20110110-git %% log5 %% TODO: Documentation awaiting work. %%
 
-loopless-20101207-git %% loopless %% TODO: Documentation awaiting work. %%
+loopless-20101207-git %% loopless %% A library for creating a better iteration facility in Common Lisp %%
 
 lredis-20110110-git %% lredis %% TODO: Documentation awaiting work. %%
 
-ltk-0.91 %% ltk-remote, ltk-mw, ltk %% TODO: Documentation awaiting work. %%
+ltk-0.91 %% ltk-remote, ltk-mw, ltk %% Lisp bindings to Tcl/Tk for a GUI. Requires an external Tk library.%%
 
 lw-compat-20101006-darcs %% lw-compat %% TODO: Documentation awaiting work. %%
 
@@ -572,7 +572,9 @@ magicffi-20101006-git %% magicffi-test, magicffi %% TODO: Documentation awaiting
 
 manardb-20101207-git %% manardb-test, manardb %% TODO: Documentation awaiting work. %%
 
-mcclim-20101006-cvs %% mcclim-truetype, mcclim-tree-with-cross-edges, mcclim-tiff-bitmaps, mcclim-png-bitmaps, mcclim-jpeg-bitmaps, mcclim-gif-bitmaps, mcclim-freetype-cffi, mcclim-freetype, mcclim, goatee-core, functional-geometry, esa-mcclim, esa, drei-tests, drei-mcclim, conditional-commands, clouseau, clim-postscript, clim-null, clim-looks, clim-listener, clim-lisp, clim-gtkairo, clim-examples, clim-core, clim-clx, clim-basic, clim, automaton %% TODO: Documentation awaiting work. %%
+mcclim-20101006-cvs 
+%% mcclim-truetype, mcclim-tree-with-cross-edges, mcclim-tiff-bitmaps, mcclim-png-bitmaps, mcclim-jpeg-bitmaps, mcclim-gif-bitmaps, mcclim-freetype-cffi, mcclim-freetype, mcclim, goatee-core, functional-geometry, esa-mcclim, esa, drei-tests, drei-mcclim, conditional-commands, clouseau, clim-postscript, clim-null, clim-looks, clim-listener, clim-lisp, clim-gtkairo, clim-examples, clim-core, clim-clx, clim-basic, clim, automaton 
+%% A GUI toolkit derived from the Genera concepts. %%
 
 md5-20101006-git %% md5 %% TODO: Documentation awaiting work. %%
 
@@ -712,7 +714,7 @@ py-configvalidator-20101006-git %% py-configvalidator %% TODO: Documentation awa
 
 quicklisp-slime-helper-20101107-git %% quicklisp-slime-helper %% TODO: Documentation awaiting work. %%
 
-quickproject-20101107-git %% quickproject %% TODO: Documentation awaiting work. %%
+quickproject-20101107-git %% quickproject %% Meta-info for QuickLisp %%
 
 rcl-20101006-http %% rcl %% TODO: Documentation awaiting work. %%
 
@@ -790,7 +792,7 @@ simpsamp-0.1 %% simpsamp %% TODO: Documentation awaiting work. %%
 
 skippy-1.3.7 %% skippy %% TODO: Documentation awaiting work. %%
 
-slime-20110110-cvs %% swank %% TODO: Documentation awaiting work. %%
+slime-20110110-cvs %% swank %% The Lisp half of the Superior Lisp Interaction Mode for Emacs a.k.a SLIME%%
 
 smtp4cl-20101006-http %% smtp4cl %% TODO: Documentation awaiting work. %%
 
