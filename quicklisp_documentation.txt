@@ -1,50 +1,89 @@
 3b-swf-20110110-git %% 3b-swf-swc, 3b-swf %% Operates on SWF files%%
 
-3bil-20101006-git %% swf-writer-hack, avm2-lib, avm2-compile, avm2-asm, 3b-swf-writer %% TODO: Documentation awaiting work. %%
+3bil-20101006-git %%
+ swf-writer-hack, avm2-lib, avm2-compile, avm2-asm, 3b-swf-writer 
+ %% helper for building an mp3 tag from a file. %%
 
-adw-charting-20110110-http %% adw-charting-vecto, adw-charting-google, adw-charting %% TODO: Documentation awaiting work. %%
+adw-charting-20110110-http
+ %% adw-charting-vecto, adw-charting-google, adw-charting %%
+  ADW-Charting is a simple chart drawing library for quickly creating reasonable-looking charts. %%
 
 alexandria-20101107-git %% alexandria-tests, alexandria %% Useful utility functions for things such as hashes, numbers, and strings %%
 
-anaphora-0.9.3 %% anaphora-test, anaphora %% TODO: Documentation awaiting work. %%
+anaphora-0.9.3 %% anaphora-test, anaphora %%
+Anaphora is the anaphoric macro collection from Hell: it includes many new fiends in addition to olds friends like AIF and AWHEN.  %%
 
-archive_0.8 %% archive %% TODO: Documentation awaiting work. %%
+archive_0.8 %% archive %% TODO: Documentation awaiting work. (Name highly unsearchable without further context :-( ) %%
 
-arnesi-20101006-darcs %% arnesi.slime-extras, arnesi.cl-ppcre-extras, arnesi %% TODO: Documentation awaiting work. %%
+arnesi-20101006-darcs %% arnesi.slime-extras, arnesi.cl-ppcre-extras, arnesi 
+%%  It contains various "bits 'n pieces" of code which were useful while developing other code. %%
 
-aromyxo-20101107-git %% aromyxo %% TODO: Documentation awaiting work. %%
+aromyxo-20101107-git %% aromyxo
+ %% Collection of utilities; includes some common constants and some concurency wrappers on bordeaux-threads.%%
 
-array-operations-20101006-git %% array-operations %% TODO: Documentation awaiting work. %%
+array-operations-20101006-git %% array-operations %% Provides commonly used mathematical operations on arrays, as well as some reduce/map-style functions.%%
 
-asdf-install-20101207-git %% asdf-install %% TODO: Documentation awaiting work. %%
+asdf-install-20101207-git %% asdf-install %% Part of Another System Definition Facility %%
 
-asdf-system-connections-20101006-darcs %% asdf-system-connections %% TODO: Documentation awaiting work. %%
+asdf-system-connections-20101006-darcs %% asdf-system-connections %% Part of Another System Definition Facility  %%
 
-asn.1-4.14 %% asn.1 %% TODO: Documentation awaiting work. %%
+asn.1-4.14 %% asn.1 %% A Common Lisp implementation of ASN.1 a.k.a. Abstract Syntax Notation #1 %%
 
-atdoc-20110110-git %% blocks-world, atdoc %% TODO: Documentation awaiting work. %%
+atdoc-20110110-git %% blocks-world, atdoc %% Generates documentation for Common Lisp packages %%
 
-babel-20101107-darcs %% babel-tests, babel-streams, babel %% TODO: Documentation awaiting work. %%
+babel-20101107-darcs %% babel-tests, babel-streams, babel %%  a charset encoding/decoding library, %%
 
-beirc-20101107-cvs %% beirc %% TODO: Documentation awaiting work. %%
+beirc-20101107-cvs %% beirc %% A graphical Internet Relay Chat client using the clim (or mcclim) graphical library and built on top of cl-irc%%
 
-binary-types-20101006-git %% binary-types %% TODO: Documentation awaiting work. %%
+binary-types-20101006-git %% binary-types %% Binary-types allows the definition of mappings between Lisp objects and some binary representation, and provides facilities for reading and writing them to files. %%
 
-binge-20101006-http %% binge %% TODO: Documentation awaiting work. %%
+binge-20101006-http %% binge
+ %%  A Bovine foreign function INterface GEnerator for Common 
+Lisp. %%
 
-bk-tree-0.3 %% bk-tree %% TODO: Documentation awaiting work. %%
+bk-tree-0.3 %% bk-tree %% A derivative of the BK-Tree data structure
+  described in "Some Approaches to Best-Match File Searching" paper of
+  W. A. Burkhard and R. M. Keller. This structure is useful for trees
+  with a metric applied on the nodes. %%
 
-bknr-datastore-20110110-git %% bknr.xml, bknr.utils, bknr.skip-list.test, bknr.skip-list, bknr.indices, bknr.impex, bknr.datastore, bknr.data.impex %% TODO: Documentation awaiting work. %%
+Bknr-datastore-20110110-git %% bknr.xml, bknr.utils, bknr.skip-list.test, bknr.skip-list, bknr.indices, bknr.impex, bknr.datastore, bknr.data.impex 
+%% 
 
-black-tie-20101006-git %% black-tie %% TODO: Documentation awaiting work. %%
+BKNR is a set of Common Lisp libraries which together form an
+environment suitable for serving HTTP clients from a persistent Lisp
+system. BKNR is a pragmatic environment used to create systems for
+real world users.
+%%
 
-blackthorn-engine-20110110-hg %% blackthorn-stress-test, blackthorn-collision-test, blackthorn %% TODO: Documentation awaiting work. %%
+black-tie-20101006-git %% black-tie %% A noise library in Common Lisp (e.g., noise applied to images, such as Perlin noise)
+ %%
 
-bordeaux-fft-20101006-http %% bordeaux-fft %% TODO: Documentation awaiting work. %%
+blackthorn-engine-20110110-hg %% blackthorn-stress-test, blackthorn-collision-test, blackthorn 
 
-bordeaux-threads-0.8.0 %% bordeaux-threads-test, bordeaux-threads %% TODO: Documentation awaiting work. %%
+%% Blackthorn is a game engine written in Common Lisp (2d graphics,
+object system, and collision detection)
 
-bourbaki-20110110-http %% bourbaki %% TODO: Documentation awaiting work. %%
+%%
+
+bordeaux-fft-20101006-http %% bordeaux-fft %% 
+
+The Bordeaux-FFT library provides a reasonably efficient
+implementation of the Fast Fourier Transform and its inverse for
+complex-valued inputs, in portable Common Lisp.
+
+%%
+
+bordeaux-threads-0.8.0 %% bordeaux-threads-test, bordeaux-threads %% 
+
+Bordeaux-Threads lets you write multi-threaded applications in a
+portable way.
+
+%%
+
+bourbaki-20110110-http %% bourbaki %% 
+
+Bourbaki is a system for writing and verifying formal mathematical proofs.
+%%
 
 buildapp-1.1 %% buildapp %% Builds executables with SBCL for release.%%
 
