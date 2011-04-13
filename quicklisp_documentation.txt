@@ -262,19 +262,61 @@ implementation has been tested with SBCL.
 
 %%
 
-cl-cairo2-20101006-git %% cl-cairo2-xlib, cl-cairo2-gtk2, cl-cairo2, a-cl-cairo2-loader %% TODO: Documentation awaiting work. %%
+cl-cairo2-20101006-git %% cl-cairo2-xlib, cl-cairo2-gtk2, cl-cairo2, a-cl-cairo2-loader 
+%%
 
-cl-charms-20110110-git %% cl-charms %% TODO: Documentation awaiting work. %%
+Cl-cairo2 provides Comon Lisp bindings for Cairo, which is a 2D
+graphics library with support for multiple output devices.
 
-cl-cli-parser-20101006-cvs %% cli-parser %% TODO: Documentation awaiting work. %%
+%%
 
-clon-1.0b16 %% com.dvlsoft.clon %% TODO: Documentation awaiting work. %%
+cl-charms-20110110-git %% cl-charms 
+%%
 
-cl-closure-template-20110110-git %% closure-template %% TODO: Documentation awaiting work. %%
+cl-charms provides CFFI bindings to libcurses, for most Common Lisp implementations on (at least) GNU/Linux.
 
-cl-colors-20101006-git %% cl-colors %% TODO: Documentation awaiting work. %%
+It is intended to succeed cl-ncurses, which used the less portable
+UFFI instead of CFFI for foreign bindings.
 
-cl-cont-20101006-darcs %% cl-cont-test, cl-cont %% TODO: Documentation awaiting work. %%
+%%
+
+cl-cli-parser-20101006-cvs %% cli-parser %% 
+
+cl-cli-parser is a simple get-opt-like parser for Common Lisp.
+
+%%
+
+clon-1.0b16 %% com.dvlsoft.clon 
+%%
+
+clon is a library for managing command-line options in standalone
+Common Lisp applications.
+
+There are three (3) clons. This one is also known as com.dvlsoft.clon.
+
+%%
+
+cl-closure-template-20110110-git %% closure-template 
+%%
+
+Common Lisp implementation of Closure Templates (Closure Templates are
+a client- and server-side templating system that helps you dynamically
+build reusable HTML and UI elements).
+
+%%
+
+cl-colors-20101006-git %% cl-colors 
+%%
+
+cl-colors contains named RGB colors like +blue+ and +darkolivegreen+. 
+
+%%
+
+cl-cont-20101006-darcs %% cl-cont-test, cl-cont %% 
+
+cl-cont is a code walker that implements delimited continuations in Common Lisp.
+
+%%
 
 cl-containers-20101006-darcs %% cl-containers-test, cl-containers %% TODO: Documentation awaiting work. %%
 
