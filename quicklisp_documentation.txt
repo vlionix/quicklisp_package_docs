@@ -87,43 +87,180 @@ Bourbaki is a system for writing and verifying formal mathematical proofs.
 
 buildapp-1.1 %% buildapp %% Builds executables with SBCL for release.%%
 
-calispel-0.1 %% calispel %% TODO: Documentation awaiting work. %%
+calispel-0.1 %% calispel 
+%%
 
-cells-20101207-git %% cells %% TODO: Documentation awaiting work. %%
+Calispel is a Common Lisp library for thread-safe message-passing
+channels, in the style of the occam programming language. (This is in
+the model of Hoare's Communicating Sequential Processes)
+ %%
 
-cells-gtk3-20110110-git %% pod-utils, ph-maths %% TODO: Documentation awaiting work. %%
+cells-20101207-git %% cells 
+%%
 
-cffi_0.10.6 %% cffi-uffi-compat, cffi-tests, cffi-grovel, cffi-examples, cffi %% TODO: Documentation awaiting work. %%
+Cells is a mature, stable extension to CLOS that allows you to create
+classes, the instances of which have slots whose values are determined
+by a formula. Think of the slots as cells in a spreadsheet (get it?),
+and you've got the right idea. You can use any arbitrary Common Lisp
+expression to specify the value of a cell. The Cells system takes care
+of tracking dependencies among cells, and propagating values. It is
+distributed under an MIT-style license.
 
-ch-image-20101006-git %% ch-image-test, ch-image %% TODO: Documentation awaiting work. %%
+%%
 
-ch-util-20101006-git %% ch-util-test, ch-util %% TODO: Documentation awaiting work. %%
+cells-gtk3-20110110-git %% pod-utils, ph-maths %% 
 
-chillax-20101207-git %% chillax.yason, chillax.view-server, chillax.core, chillax %% TODO: Documentation awaiting work. %%
+cells-gtk is a complete, portable framework for Common Lisp GUI
+development via GTK+2 with Cells
 
-chipz_0.7.4 %% chipz %% TODO: Documentation awaiting work. %%
+ %%
 
-chronicity-v0.2.6 %% chronicity-test, chronicity %% TODO: Documentation awaiting work. %%
+cffi_0.10.6 %% cffi-uffi-compat, cffi-tests, cffi-grovel, cffi-examples, cffi 
+%%
 
-chunga-1.1.1 %% chunga %% TODO: Documentation awaiting work. %%
+CFFI, the Common Foreign Function Interface, purports to be a portable
+foreign function interface for Common Lisp. The CFFI library is
+composed of a Lisp-implementation-specific backend in the CFFI-SYS
+package, and a portable frontend in the CFFI package.
 
-cl+ssl-20101006-cvs %% cl+ssl %% TODO: Documentation awaiting work. %%
+%%
 
-cl-2d-20101107-git %% cl-2d %% TODO: Documentation awaiting work. %%
+ch-image-20101006-git %% ch-image-test, ch-image %% 
 
-cl-azure-20110110-git %% cl-azure %% TODO: Documentation awaiting work. %%
+A common lisp image representation and processing library
 
-cl-base64-20101006-git %% cl-base64-tests, cl-base64 %% TODO: Documentation awaiting work. %%
+%%
 
-cl-beanstalk-20110110-git %% cl-beanstalk %% TODO: Documentation awaiting work. %%
+ch-util-20101006-git %% ch-util-test, ch-util 
+%%
 
-cl-bencode-20101107-git %% bencode %% TODO: Documentation awaiting work. %%
+Cyrus Harmon's Cl utilities. 
 
-cl-bibtex-20110110-cvs %% bibtex %% TODO: Documentation awaiting work. %%
+Contributions to this entry are welcome!
 
-cl-binary-file-0.3 %% cl-binary-file-0.3 %% TODO: Documentation awaiting work. %%
+%%
 
-cl-btree-0.4 %% cl-btree-0.4 %% TODO: Documentation awaiting work. %%
+chillax-20101207-git %% chillax.yason, chillax.view-server, chillax.core, chillax 
+%%
+
+Chillax is a CouchDB abstraction layer for Common Lisp. It is not an
+ORM or similar library, although it may be used to build such things.
+
+%%
+
+chipz_0.7.4 %% chipz 
+%%
+
+Chipz is a library for decompressing DEFLATE and BZIP2 data. DEFLATE
+data, defined in RFC1951, forms the core of popular compression
+formats such as zlib (RFC 1950) and gzip (RFC 1952). As such, Chipz
+also provides for decompressing data in those formats as well. BZIP2
+is the format used by the popular compression tool bzip2.
+
+Chipz is the reading complement to Salza.
+
+%%
+
+chronicity-v0.2.6 %% chronicity-test, chronicity 
+%%
+
+A natural language date and time parser for Common Lisp.
+
+%%
+
+chunga-1.1.1 %% chunga %% 
+
+Chunga implements streams capable of chunked encoding on demand as
+defined in RFC 2616.
+
+%%
+
+cl+ssl-20101006-cvs %% cl+ssl 
+%%
+
+This library is a fork of SSL-CMUCL. The original SSL-CMUCL source
+code was written by Eric Marsden and includes contributions by Jochen
+Schmidt. Development into CL+SSL was done by David
+Lichteblau. License: MIT-style.
+
+Distinguishing features: CL+SSL is portable code based on CFFI and
+gray streams. It defines its own libssl BIO method, so that SSL I/O
+can be written over portable Lisp streams instead of bypassing the
+streams and sending data over Unix file descriptors directly. (But the
+traditional approach is still used if possible.)
+
+%%
+
+cl-2d-20101107-git %% cl-2d 
+%% 
+
+Cl-2d is a two-dimensional graphics library for Common Lisp. It builds
+on cl-cairo2 and thus uses the Cairo library.
+
+It is meant solely for 2-dimensional plotting.
+  %%
+
+cl-azure-20110110-git %% cl-azure
+ %%
+
+cl-azure lets you access Microsoft Windows Azure cloud storage from
+Common Lisp.  Windows Azure is Microsoft's cloud hosting
+platform. This project is an incomplete, proof-of-concept
+implementation of a Common Lisp library for accessing the storage
+features.
+
+%%
+
+cl-base64-20101006-git %% cl-base64-tests, cl-base64 
+%%
+
+cl-base64 provides base64 (RFC 1521) encoding and decoding.
+
+%%
+
+cl-beanstalk-20110110-git %% cl-beanstalk 
+%%
+
+CL-BEANSTALK implements the version 1.4.2 of the Beanstalk queuing
+service protocol. It allows splitting programs into "worker" parts
+that execute units of work asynchronously, by fetching them from the
+beanstalk daemon.
+
+%%
+
+cl-bencode-20101107-git %% bencode %% 
+
+cl-bencode is a library for working with the bencode BitTorrent data
+format.
+
+%%
+
+cl-bibtex-20110110-cvs %% bibtex %%
+
+CL-BibTeX is a replacement for the BibTeX program, written in Common
+Lisp. The aim is to enable the user to format bibliographic entries
+using Common Lisp programs, rather than using the stack language of
+BibTeX style files.
+
+
+%%
+
+cl-binary-file-0.3 %% cl-binary-file-0.3
+%% 
+
+Binary file format provides interface for Common Lisp to read and
+write binary files in a simple way.
+
+%%
+
+cl-btree-0.4 %% cl-btree-0.4 %% 
+
+B-Tree implemented in Common
+Lisp. Stores key/value pairs onto disk based data structure. Current
+implementation has been tested with SBCL.
+
+
+%%
 
 cl-cairo2-20101006-git %% cl-cairo2-xlib, cl-cairo2-gtk2, cl-cairo2, a-cl-cairo2-loader %% TODO: Documentation awaiting work. %%
 
@@ -881,7 +1018,11 @@ trivial-backtrace-20101006-git %% trivial-backtrace-test, trivial-backtrace %% T
 
 trivial-features-20101006-darcs %% trivial-features-tests, trivial-features %% TODO: Documentation awaiting work. %%
 
-trivial-garbage-20101006-darcs %% trivial-garbage-tests, trivial-garbage %% TODO: Documentation awaiting work. %%
+trivial-garbage-20101006-darcs %% trivial-garbage-tests, trivial-garbage %% 
+
+trivial-garbage provides a portable API to finalizers, weak hash-tables and weak pointers.
+
+%%
 
 trivial-gray-streams-20101006-cvs %% trivial-gray-streams %% TODO: Documentation awaiting work. %%
 

@@ -8,9 +8,13 @@ cd to the directory of operation and run:
 
 builds a html file that describes the different Quicklisp systems
 
-Contributions are accepted and encouraged. 
+Contributions are both accepted and encouraged. 
 
-Legalalities:
+Descriptions of the projects are primarily derived from the public
+project page, to ensure consistency with the author's intentions for
+the project.
+
+Legalities:
 
 This information is derived from Zach Beane's listing of the Quicklisp
 systems.
