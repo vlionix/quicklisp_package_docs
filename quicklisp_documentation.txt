@@ -595,11 +595,18 @@ interpolation within strings similar to Perl or Unix Shell scripts. It
 also provides various ways to insert arbitrary characters into literal
 strings even if your editor/IDE doesn't support them. %%
 
-cl-irc-20101006-svn %% cl-irc %% TODO: Documentation awaiting work. %%
+cl-irc-20101006-svn %% cl-irc %% cl-irc is a Common Lisp IRC client
+library that features (partial) DCC, CTCP and all relevant commands
+from the IRC RFCs (RFC2810, RFC2811 and RFC2812). %%
 
-cl-irregsexp-20101006-git %% cl-irregsexp-test, cl-irregsexp %% TODO: Documentation awaiting work. %%
+cl-irregsexp-20101006-git %% cl-irregsexp-test, cl-irregsexp %%
+cl-irregsexp is an ASDF-installable library for fast text matching. It
+goes beyond the facilities allowed by traditional regular expressions,
+while also making the matchers easier to write and maintain.  %%
 
-cl-jpeg-20101107-http %% cl-jpeg %% TODO: Documentation awaiting work. %%
+cl-jpeg-20101107-http %% cl-jpeg %% CL-JPEG is a baseline JPEG
+encoder/decoder library written in ANSI Common Lisp.
+%%
 
 cl-jpl-util-0.3 %% jpl-util %% TODO: Documentation awaiting work. %%
 

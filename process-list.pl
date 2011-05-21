@@ -9,7 +9,7 @@ foreach my $line (@arr)
 {
     chomp $line;
     $line =~ s/\s/ %% /;
-    $line =~ s/$/ %% INSERT DOCS BETWEEN PERCENTS %%\n/
+    $line =~ s/$/ %% Todo-Insert-Documentation-Here %%\n/;
     #$line =~ s/,/;/;
 #    print $line;
  
