@@ -318,61 +318,282 @@ cl-cont is a code walker that implements delimited continuations in Common Lisp.
 
 %%
 
-cl-containers-20101006-darcs %% cl-containers-test, cl-containers %% TODO: Documentation awaiting work. %%
+cl-containers-20101006-darcs %% 
+cl-containers-test, cl-containers %%
 
-cl-couch-20101207-darcs %% logv %% TODO: Documentation awaiting work. %%
+Common Lisp ships with a set of powerful built in data structures
+ including the venerable list, full featured arrays, and
+ hash-tables. CL-containers enhances and builds on these structures in
+ two ways: By adding containers that are not available in native Lisp
+ (for example: binary search trees, red-black trees, sparse arrays and
+ so on). By providing a standard interface so that they are simpler to
+ use and so that changing design decisions becomes significantly
+ easier.  %%
 
-cl-ctrnn_1.0.0 %% cl-ctrnn %% TODO: Documentation awaiting work. %%
+cl-couch-20101207-darcs %% logv %% Cl-Couch is a Common Lisp library
+for CouchDB, the distributed document store written in Erlang which
+allows you to write views in many other programming languages (among
+others JavaScript, Python, Ruby, and now: Common Lisp) and stores its
+objects as JSON.  %%
 
-cl-data-format-validation-20101006-git %% data-format-validation %% TODO: Documentation awaiting work. %%
+cl-ctrnn_1.0.0 %% cl-ctrnn %% CL-CTRNN is a Common Lisp library for
+the simulation of Continuous-Time Recurrent Neural Networks
+(CTRNNs).%%
 
-cl-devil-20101107-git %% cl-devil %% TODO: Documentation awaiting work. %%
+cl-data-format-validation-20101006-git %% data-format-validation %% 
 
-cl-difflib_0.1 %% cl-difflib-tests, cl-difflib %% TODO: Documentation awaiting work. %%
+a library for Common Lisp providing a consistent regular interface for
+converting (and validating) external data (in the form of strings
+usually) into internal data types and for formatting internal data
+back into external presentable strings, all according to a conversion
+or type specification %%
 
-cl-docutils-20101006-git %% docutils %% TODO: Documentation awaiting work. %%
+cl-devil-20101107-git %% cl-devil %% CL-DevIL is a Common Lisp library
+that includes bindings to the DevIL Image library. It includes direct
+bindings to DevIL's C API, as well as some utility functions that wrap
+these.  %%
 
-cl-dot-20101006-http %% cl-dot %% TODO: Documentation awaiting work. %%
+cl-difflib_0.1 %% cl-difflib-tests, cl-difflib %% CL-DIFFLIB is a Lisp
+library for computing differences between sequences %%
 
-cl-emb-0.4.4 %% cl-emb %% TODO: Documentation awaiting work. %%
+cl-docutils-20101006-git %% docutils %% CL-DOCUTILS is a Common Lisp
+implementation of the Docutils document preparation system for
+processing plaintext into such as HTML and LaTeX.%%
 
-cl-enumeration-20110110-cvs %% enumerations %% TODO: Documentation awaiting work. %%
+cl-dot-20101006-http %% cl-dot %% CL-DOT is a library for easily
+generating dot (Graphviz) output from arbitrary Lisp data.  %%
 
-cl-fad-0.6.4 %% cl-fad %% TODO: Documentation awaiting work. %%
+cl-emb-0.4.4 %% cl-emb %% A library to embed Common Lisp and special
+template tags into normal text files. Can be used for dynamically
+generated HTML pages. %%
 
-cl-ftp-20101006-http %% ftp %% TODO: Documentation awaiting work. %%
+cl-enumeration-20110110-cvs %% enumerations %% This document contains
+a specification for ENUMERATIONS in Common Lisp. Enumeration objects
+are CLOS instances which encapsulate a container data structure and
+maintain the state of its traversal. The ENUMERATIONS package
+describes a protocol (an interface) that can be implemented by other
+classes. Some standardized enumerations for a number of standard CL
+data structures are also specified. %%
 
-cl-gd-0.5.7 %% cl-gd-test, cl-gd %% TODO: Documentation awaiting work. %%
+cl-fad-0.6.4 %% cl-fad %% CL-FAD (for "Files and Directories") is a
+thin layer atop Common Lisp's standard pathname functions. It is
+intended to provide some unification between current CL
+implementations on Windows, OS X, Linux, and Unix. %%
 
-cl-geo-0.1 %% geo %% TODO: Documentation awaiting work. %%
+cl-ftp-20101006-http %% ftp %% FTP client library for Common Lisp %%
 
-cl-geocode-20101207-git %% cl-geocode %% TODO: Documentation awaiting work. %%
+cl-gd-0.5.7 %% cl-gd-test, cl-gd %% A library for Common Lisp which
+provides an interface to the GD Graphics Library for the dynamic
+creation of images. %%
 
-cl-geometry-20101006-git %% cl-geometry-tests, cl-geometry %% TODO: Documentation awaiting work. %%
+cl-geo-0.1 %% geo %% cl-geo is a geospatial library, providing a set
+of geographic data structures and operations %%
 
-cl-glfw-20110110-git %% cl-glfw-types, cl-glfw-opengl-version_2_1, cl-glfw-opengl-version_2_0, cl-glfw-opengl-version_1_5, cl-glfw-opengl-version_1_4, cl-glfw-opengl-version_1_3, cl-glfw-opengl-version_1_2, cl-glfw-opengl-version_1_1, cl-glfw-opengl-version_1_0, cl-glfw-opengl-sunx_constant_data, cl-glfw-opengl-sun_vertex, cl-glfw-opengl-sun_triangle_list, cl-glfw-opengl-sun_mesh_array, cl-glfw-opengl-sun_global_alpha, cl-glfw-opengl-sgix_tag_sample_buffer, cl-glfw-opengl-sgix_sprite, cl-glfw-opengl-sgix_reference_plane, cl-glfw-opengl-sgix_polynomial_ffd, cl-glfw-opengl-sgix_pixel_texture, cl-glfw-opengl-sgix_list_priority, cl-glfw-opengl-sgix_instruments, cl-glfw-opengl-sgix_igloo_interface, cl-glfw-opengl-sgix_framezoom, cl-glfw-opengl-sgix_fragment_lighting, cl-glfw-opengl-sgix_flush_raster, cl-glfw-opengl-sgix_async, cl-glfw-opengl-sgis_texture_filter4, cl-glfw-opengl-sgis_texture_color_mask, cl-glfw-opengl-sgis_texture4d, cl-glfw-opengl-sgis_sharpen_texture, cl-glfw-opengl-sgis_point_parameters, cl-glfw-opengl-sgis_pixel_texture, cl-glfw-opengl-sgis_multisample, cl-glfw-opengl-sgis_fog_function, cl-glfw-opengl-sgis_detail_texture, cl-glfw-opengl-sgi_color_table, cl-glfw-opengl-pgi_misc_hints, cl-glfw-opengl-nv_vertex_program4, cl-glfw-opengl-nv_vertex_program, cl-glfw-opengl-nv_vertex_buffer_unified_memory, cl-glfw-opengl-nv_vertex_attrib_integer_64bit, cl-glfw-opengl-nv_vertex_array_range, cl-glfw-opengl-nv_transform_feedback2, cl-glfw-opengl-nv_transform_feedback, cl-glfw-opengl-nv_texture_barrier, cl-glfw-opengl-nv_shader_buffer_load, cl-glfw-opengl-nv_register_combiners2, cl-glfw-opengl-nv_register_combiners, cl-glfw-opengl-nv_primitive_restart, cl-glfw-opengl-nv_present_video, cl-glfw-opengl-nv_point_sprite, cl-glfw-opengl-nv_pixel_data_range, cl-glfw-opengl-nv_parameter_buffer_object, cl-glfw-opengl-nv_occlusion_query, cl-glfw-opengl-nv_half_float, cl-glfw-opengl-nv_gpu_shader5, cl-glfw-opengl-nv_gpu_program5, cl-glfw-opengl-nv_gpu_program4, cl-glfw-opengl-nv_geometry_program4, cl-glfw-opengl-nv_framebuffer_multisample_coverage, cl-glfw-opengl-nv_fragment_program, cl-glfw-opengl-nv_fence, cl-glfw-opengl-nv_explicit_multisample, cl-glfw-opengl-nv_evaluators, cl-glfw-opengl-nv_depth_buffer_float, cl-glfw-opengl-nv_copy_image, cl-glfw-opengl-nv_conditional_render, cl-glfw-opengl-mesa_window_pos, cl-glfw-opengl-mesa_resize_buffers, cl-glfw-opengl-intel_parallel_arrays, cl-glfw-opengl-ingr_blend_func_separate, cl-glfw-opengl-ibm_vertex_array_lists, cl-glfw-opengl-ibm_multimode_draw_arrays, cl-glfw-opengl-hp_image_transform, cl-glfw-opengl-gremedy_string_marker, cl-glfw-opengl-gremedy_frame_terminator, cl-glfw-opengl-ext_vertex_weighting, cl-glfw-opengl-ext_vertex_shader, cl-glfw-opengl-ext_vertex_attrib_64bit, cl-glfw-opengl-ext_vertex_array, cl-glfw-opengl-ext_transform_feedback, cl-glfw-opengl-ext_timer_query, cl-glfw-opengl-ext_texture_perturb_normal, cl-glfw-opengl-ext_texture_object, cl-glfw-opengl-ext_texture_integer, cl-glfw-opengl-ext_texture_buffer_object, cl-glfw-opengl-ext_texture3d, cl-glfw-opengl-ext_subtexture, cl-glfw-opengl-ext_stencil_two_side, cl-glfw-opengl-ext_stencil_clear_tag, cl-glfw-opengl-ext_shader_image_load_store, cl-glfw-opengl-ext_separate_shader_objects, cl-glfw-opengl-ext_secondary_color, cl-glfw-opengl-ext_provoking_vertex, cl-glfw-opengl-ext_polygon_offset, cl-glfw-opengl-ext_point_parameters, cl-glfw-opengl-ext_pixel_transform, cl-glfw-opengl-ext_paletted_texture, cl-glfw-opengl-ext_multisample, cl-glfw-opengl-ext_multi_draw_arrays, cl-glfw-opengl-ext_light_texture, cl-glfw-opengl-ext_index_material, cl-glfw-opengl-ext_index_func, cl-glfw-opengl-ext_histogram, cl-glfw-opengl-ext_gpu_shader4, cl-glfw-opengl-ext_gpu_program_parameters, cl-glfw-opengl-ext_geometry_shader4, cl-glfw-opengl-ext_framebuffer_object, cl-glfw-opengl-ext_framebuffer_multisample, cl-glfw-opengl-ext_framebuffer_blit, cl-glfw-opengl-ext_fog_coord, cl-glfw-opengl-ext_draw_range_elements, cl-glfw-opengl-ext_draw_instanced, cl-glfw-opengl-ext_draw_buffers2, cl-glfw-opengl-ext_direct_state_access, cl-glfw-opengl-ext_depth_bounds_test, cl-glfw-opengl-ext_cull_vertex, cl-glfw-opengl-ext_copy_texture, cl-glfw-opengl-ext_coordinate_frame, cl-glfw-opengl-ext_convolution, cl-glfw-opengl-ext_compiled_vertex_array, cl-glfw-opengl-ext_color_subtable, cl-glfw-opengl-ext_blend_minmax, cl-glfw-opengl-ext_blend_func_separate, cl-glfw-opengl-ext_blend_equation_separate, cl-glfw-opengl-ext_blend_color, cl-glfw-opengl-ext_bindable_uniform, cl-glfw-opengl-core, cl-glfw-opengl-ati_vertex_streams, cl-glfw-opengl-ati_vertex_attrib_array_object, cl-glfw-opengl-ati_vertex_array_object, cl-glfw-opengl-ati_separate_stencil, cl-glfw-opengl-ati_pn_triangles, cl-glfw-opengl-ati_map_object_buffer, cl-glfw-opengl-ati_fragment_shader, cl-glfw-opengl-ati_envmap_bumpmap, cl-glfw-opengl-ati_element_array, cl-glfw-opengl-ati_draw_buffers, cl-glfw-opengl-arb_window_pos, cl-glfw-opengl-arb_viewport_array, cl-glfw-opengl-arb_vertex_type_2_10_10_10_rev, cl-glfw-opengl-arb_vertex_shader, cl-glfw-opengl-arb_vertex_program, cl-glfw-opengl-arb_vertex_buffer_object, cl-glfw-opengl-arb_vertex_blend, cl-glfw-opengl-arb_vertex_attrib_64bit, cl-glfw-opengl-arb_vertex_array_object, cl-glfw-opengl-arb_uniform_buffer_object, cl-glfw-opengl-arb_transpose_matrix, cl-glfw-opengl-arb_transform_feedback3, cl-glfw-opengl-arb_transform_feedback2, cl-glfw-opengl-arb_timer_query, cl-glfw-opengl-arb_texture_multisample, cl-glfw-opengl-arb_texture_compression, cl-glfw-opengl-arb_texture_buffer_object, cl-glfw-opengl-arb_tessellation_shader, cl-glfw-opengl-arb_shading_language_include, cl-glfw-opengl-arb_shader_subroutine, cl-glfw-opengl-arb_shader_objects, cl-glfw-opengl-arb_separate_shader_objects, cl-glfw-opengl-arb_sampler_objects, cl-glfw-opengl-arb_sample_shading, cl-glfw-opengl-arb_robustness, cl-glfw-opengl-arb_provoking_vertex, cl-glfw-opengl-arb_point_parameters, cl-glfw-opengl-arb_occlusion_query, cl-glfw-opengl-arb_multitexture, cl-glfw-opengl-arb_multisample, cl-glfw-opengl-arb_matrix_palette, cl-glfw-opengl-arb_map_buffer_range, cl-glfw-opengl-arb_instanced_arrays, cl-glfw-opengl-arb_gpu_shader_fp64, cl-glfw-opengl-arb_get_program_binary, cl-glfw-opengl-arb_geometry_shader4, cl-glfw-opengl-arb_framebuffer_object, cl-glfw-opengl-arb_es2_compatibility, cl-glfw-opengl-arb_draw_instanced, cl-glfw-opengl-arb_draw_indirect, cl-glfw-opengl-arb_draw_elements_base_vertex, cl-glfw-opengl-arb_draw_buffers_blend, cl-glfw-opengl-arb_draw_buffers, cl-glfw-opengl-arb_copy_buffer, cl-glfw-opengl-arb_color_buffer_float, cl-glfw-opengl-arb_blend_func_extended, cl-glfw-opengl-apple_vertex_program_evaluators, cl-glfw-opengl-apple_vertex_array_range, cl-glfw-opengl-apple_vertex_array_object, cl-glfw-opengl-apple_texture_range, cl-glfw-opengl-apple_object_purgeable, cl-glfw-opengl-apple_flush_buffer_range, cl-glfw-opengl-apple_fence, cl-glfw-opengl-apple_element_array, cl-glfw-opengl-amd_vertex_shader_tesselator, cl-glfw-opengl-amd_performance_monitor, cl-glfw-opengl-amd_name_gen_delete, cl-glfw-opengl-amd_draw_buffers_blend, cl-glfw-opengl-3dfx_tbuffer, cl-glfw-glu, cl-glfw %% TODO: Documentation awaiting work. %%
+cl-geocode-20101207-git %% cl-geocode %% a geocoding API for Common
+Lisp Geocoding is the process of finding associated geographic
+coordinates (expressed as latitude and longitude) from other
+geographic data, such as street addresses, or zip codes (postal
+codes).
 
-cl-gpu-20101207-git %% cl-gpu.core, cl-gpu.buffers %% TODO: Documentation awaiting work. %%
+%%
 
-cl-graph-20101006-darcs %% cl-graph-test, cl-graph %% TODO: Documentation awaiting work. %%
+cl-geometry-20101006-git %% cl-geometry-tests, cl-geometry %% a system
+for two dimensional computational geometry for Common Lisp. %%
 
-cl-growl-20101006-git %% cl-growl %% TODO: Documentation awaiting work. %%
+cl-glfw-20110110-git %% cl-glfw-types, cl-glfw-opengl-version_2_1,
+cl-glfw-opengl-version_2_0, cl-glfw-opengl-version_1_5,
+cl-glfw-opengl-version_1_4, cl-glfw-opengl-version_1_3,
+cl-glfw-opengl-version_1_2, cl-glfw-opengl-version_1_1,
+cl-glfw-opengl-version_1_0, cl-glfw-opengl-sunx_constant_data,
+cl-glfw-opengl-sun_vertex, cl-glfw-opengl-sun_triangle_list,
+cl-glfw-opengl-sun_mesh_array, cl-glfw-opengl-sun_global_alpha,
+cl-glfw-opengl-sgix_tag_sample_buffer, cl-glfw-opengl-sgix_sprite,
+cl-glfw-opengl-sgix_reference_plane,
+cl-glfw-opengl-sgix_polynomial_ffd, cl-glfw-opengl-sgix_pixel_texture,
+cl-glfw-opengl-sgix_list_priority, cl-glfw-opengl-sgix_instruments,
+cl-glfw-opengl-sgix_igloo_interface, cl-glfw-opengl-sgix_framezoom,
+cl-glfw-opengl-sgix_fragment_lighting,
+cl-glfw-opengl-sgix_flush_raster, cl-glfw-opengl-sgix_async,
+cl-glfw-opengl-sgis_texture_filter4,
+cl-glfw-opengl-sgis_texture_color_mask, cl-glfw-opengl-sgis_texture4d,
+cl-glfw-opengl-sgis_sharpen_texture,
+cl-glfw-opengl-sgis_point_parameters,
+cl-glfw-opengl-sgis_pixel_texture, cl-glfw-opengl-sgis_multisample,
+cl-glfw-opengl-sgis_fog_function, cl-glfw-opengl-sgis_detail_texture,
+cl-glfw-opengl-sgi_color_table, cl-glfw-opengl-pgi_misc_hints,
+cl-glfw-opengl-nv_vertex_program4, cl-glfw-opengl-nv_vertex_program,
+cl-glfw-opengl-nv_vertex_buffer_unified_memory,
+cl-glfw-opengl-nv_vertex_attrib_integer_64bit,
+cl-glfw-opengl-nv_vertex_array_range,
+cl-glfw-opengl-nv_transform_feedback2,
+cl-glfw-opengl-nv_transform_feedback,
+cl-glfw-opengl-nv_texture_barrier,
+cl-glfw-opengl-nv_shader_buffer_load,
+cl-glfw-opengl-nv_register_combiners2,
+cl-glfw-opengl-nv_register_combiners,
+cl-glfw-opengl-nv_primitive_restart, cl-glfw-opengl-nv_present_video,
+cl-glfw-opengl-nv_point_sprite, cl-glfw-opengl-nv_pixel_data_range,
+cl-glfw-opengl-nv_parameter_buffer_object,
+cl-glfw-opengl-nv_occlusion_query, cl-glfw-opengl-nv_half_float,
+cl-glfw-opengl-nv_gpu_shader5, cl-glfw-opengl-nv_gpu_program5,
+cl-glfw-opengl-nv_gpu_program4, cl-glfw-opengl-nv_geometry_program4,
+cl-glfw-opengl-nv_framebuffer_multisample_coverage,
+cl-glfw-opengl-nv_fragment_program, cl-glfw-opengl-nv_fence,
+cl-glfw-opengl-nv_explicit_multisample, cl-glfw-opengl-nv_evaluators,
+cl-glfw-opengl-nv_depth_buffer_float, cl-glfw-opengl-nv_copy_image,
+cl-glfw-opengl-nv_conditional_render, cl-glfw-opengl-mesa_window_pos,
+cl-glfw-opengl-mesa_resize_buffers,
+cl-glfw-opengl-intel_parallel_arrays,
+cl-glfw-opengl-ingr_blend_func_separate,
+cl-glfw-opengl-ibm_vertex_array_lists,
+cl-glfw-opengl-ibm_multimode_draw_arrays,
+cl-glfw-opengl-hp_image_transform,
+cl-glfw-opengl-gremedy_string_marker,
+cl-glfw-opengl-gremedy_frame_terminator,
+cl-glfw-opengl-ext_vertex_weighting, cl-glfw-opengl-ext_vertex_shader,
+cl-glfw-opengl-ext_vertex_attrib_64bit,
+cl-glfw-opengl-ext_vertex_array,
+cl-glfw-opengl-ext_transform_feedback, cl-glfw-opengl-ext_timer_query,
+cl-glfw-opengl-ext_texture_perturb_normal,
+cl-glfw-opengl-ext_texture_object, cl-glfw-opengl-ext_texture_integer,
+cl-glfw-opengl-ext_texture_buffer_object,
+cl-glfw-opengl-ext_texture3d, cl-glfw-opengl-ext_subtexture,
+cl-glfw-opengl-ext_stencil_two_side,
+cl-glfw-opengl-ext_stencil_clear_tag,
+cl-glfw-opengl-ext_shader_image_load_store,
+cl-glfw-opengl-ext_separate_shader_objects,
+cl-glfw-opengl-ext_secondary_color,
+cl-glfw-opengl-ext_provoking_vertex,
+cl-glfw-opengl-ext_polygon_offset,
+cl-glfw-opengl-ext_point_parameters,
+cl-glfw-opengl-ext_pixel_transform,
+cl-glfw-opengl-ext_paletted_texture, cl-glfw-opengl-ext_multisample,
+cl-glfw-opengl-ext_multi_draw_arrays,
+cl-glfw-opengl-ext_light_texture, cl-glfw-opengl-ext_index_material,
+cl-glfw-opengl-ext_index_func, cl-glfw-opengl-ext_histogram,
+cl-glfw-opengl-ext_gpu_shader4,
+cl-glfw-opengl-ext_gpu_program_parameters,
+cl-glfw-opengl-ext_geometry_shader4,
+cl-glfw-opengl-ext_framebuffer_object,
+cl-glfw-opengl-ext_framebuffer_multisample,
+cl-glfw-opengl-ext_framebuffer_blit, cl-glfw-opengl-ext_fog_coord,
+cl-glfw-opengl-ext_draw_range_elements,
+cl-glfw-opengl-ext_draw_instanced, cl-glfw-opengl-ext_draw_buffers2,
+cl-glfw-opengl-ext_direct_state_access,
+cl-glfw-opengl-ext_depth_bounds_test, cl-glfw-opengl-ext_cull_vertex,
+cl-glfw-opengl-ext_copy_texture, cl-glfw-opengl-ext_coordinate_frame,
+cl-glfw-opengl-ext_convolution,
+cl-glfw-opengl-ext_compiled_vertex_array,
+cl-glfw-opengl-ext_color_subtable, cl-glfw-opengl-ext_blend_minmax,
+cl-glfw-opengl-ext_blend_func_separate,
+cl-glfw-opengl-ext_blend_equation_separate,
+cl-glfw-opengl-ext_blend_color, cl-glfw-opengl-ext_bindable_uniform,
+cl-glfw-opengl-core, cl-glfw-opengl-ati_vertex_streams,
+cl-glfw-opengl-ati_vertex_attrib_array_object,
+cl-glfw-opengl-ati_vertex_array_object,
+cl-glfw-opengl-ati_separate_stencil, cl-glfw-opengl-ati_pn_triangles,
+cl-glfw-opengl-ati_map_object_buffer,
+cl-glfw-opengl-ati_fragment_shader, cl-glfw-opengl-ati_envmap_bumpmap,
+cl-glfw-opengl-ati_element_array, cl-glfw-opengl-ati_draw_buffers,
+cl-glfw-opengl-arb_window_pos, cl-glfw-opengl-arb_viewport_array,
+cl-glfw-opengl-arb_vertex_type_2_10_10_10_rev,
+cl-glfw-opengl-arb_vertex_shader, cl-glfw-opengl-arb_vertex_program,
+cl-glfw-opengl-arb_vertex_buffer_object,
+cl-glfw-opengl-arb_vertex_blend,
+cl-glfw-opengl-arb_vertex_attrib_64bit,
+cl-glfw-opengl-arb_vertex_array_object,
+cl-glfw-opengl-arb_uniform_buffer_object,
+cl-glfw-opengl-arb_transpose_matrix,
+cl-glfw-opengl-arb_transform_feedback3,
+cl-glfw-opengl-arb_transform_feedback2,
+cl-glfw-opengl-arb_timer_query,
+cl-glfw-opengl-arb_texture_multisample,
+cl-glfw-opengl-arb_texture_compression,
+cl-glfw-opengl-arb_texture_buffer_object,
+cl-glfw-opengl-arb_tessellation_shader,
+cl-glfw-opengl-arb_shading_language_include,
+cl-glfw-opengl-arb_shader_subroutine,
+cl-glfw-opengl-arb_shader_objects,
+cl-glfw-opengl-arb_separate_shader_objects,
+cl-glfw-opengl-arb_sampler_objects, cl-glfw-opengl-arb_sample_shading,
+cl-glfw-opengl-arb_robustness, cl-glfw-opengl-arb_provoking_vertex,
+cl-glfw-opengl-arb_point_parameters,
+cl-glfw-opengl-arb_occlusion_query, cl-glfw-opengl-arb_multitexture,
+cl-glfw-opengl-arb_multisample, cl-glfw-opengl-arb_matrix_palette,
+cl-glfw-opengl-arb_map_buffer_range,
+cl-glfw-opengl-arb_instanced_arrays,
+cl-glfw-opengl-arb_gpu_shader_fp64,
+cl-glfw-opengl-arb_get_program_binary,
+cl-glfw-opengl-arb_geometry_shader4,
+cl-glfw-opengl-arb_framebuffer_object,
+cl-glfw-opengl-arb_es2_compatibility,
+cl-glfw-opengl-arb_draw_instanced, cl-glfw-opengl-arb_draw_indirect,
+cl-glfw-opengl-arb_draw_elements_base_vertex,
+cl-glfw-opengl-arb_draw_buffers_blend,
+cl-glfw-opengl-arb_draw_buffers, cl-glfw-opengl-arb_copy_buffer,
+cl-glfw-opengl-arb_color_buffer_float,
+cl-glfw-opengl-arb_blend_func_extended,
+cl-glfw-opengl-apple_vertex_program_evaluators,
+cl-glfw-opengl-apple_vertex_array_range,
+cl-glfw-opengl-apple_vertex_array_object,
+cl-glfw-opengl-apple_texture_range,
+cl-glfw-opengl-apple_object_purgeable,
+cl-glfw-opengl-apple_flush_buffer_range, cl-glfw-opengl-apple_fence,
+cl-glfw-opengl-apple_element_array,
+cl-glfw-opengl-amd_vertex_shader_tesselator,
+cl-glfw-opengl-amd_performance_monitor,
+cl-glfw-opengl-amd_name_gen_delete,
+cl-glfw-opengl-amd_draw_buffers_blend, cl-glfw-opengl-3dfx_tbuffer,
+cl-glfw-glu, cl-glfw %% Is a public domain set of CFFI bindings for
+the GLFW OpenGL helper library %%
 
-cl-gtk2-20101207-git %% cl-gtk2-pango, cl-gtk2-gtk, cl-gtk2-glib, cl-gtk2-gdk, cl-gtk2-cairo %% TODO: Documentation awaiting work. %%
+cl-gpu-20101207-git %% cl-gpu.core, cl-gpu.buffers %% gpu is a
+translator from a subset of Common Lisp to CUDA for writing GPU
+kernels.  %%
 
-cl-heap_0.1.4 %% cl-heap-tests, cl-heap %% TODO: Documentation awaiting work. %%
+cl-graph-20101006-darcs %% cl-graph-test, cl-graph %% CL-Graph is a
+Common Lisp library for manipulating graphs and running graph
+algorithms.%%
 
-cl-heredoc-20101006-git %% cl-heredoc-test, cl-heredoc %% TODO: Documentation awaiting work. %%
+cl-growl-20101006-git %% cl-growl %% Growl is a notification/logging
+system for Mac OS X. It supports a small networking protocol called
+Growl Talk. This is a Common Lisp library that implements the Growl
+Talk protocol.  %%
 
-cl-html-diff_0.1 %% cl-html-diff %% TODO: Documentation awaiting work. %%
+cl-gtk2-20101207-git %% cl-gtk2-pango, cl-gtk2-gtk, cl-gtk2-glib,
+cl-gtk2-gdk, cl-gtk2-cairo %% CL-GTK2 is a Common Lisp GUI library
+that provides access to the Gtk+ cross-platform GUI library in
+idiomatic Lisp style.
+%%
 
-cl-html-parse-20101006-http %% cl-html-parse %% TODO: Documentation awaiting work. %%
+cl-heap_0.1.4 %% cl-heap-tests, cl-heap %%CL-HEAP provides various
+implementations of heap data structures (a binary heap and a Fibonacci
+heap) as well as an efficient priority queue. %%
 
-cl-i18n-20101006-darcs %% cl-i18n %% TODO: Documentation awaiting work. %%
+cl-heredoc-20101006-git %% cl-heredoc-test, cl-heredoc %%cl-heredoc is
+an implementation of "here documents" that allow the user to embed
+literal strings into code or data without any need for quoting,
+something that is missing in both ANSI CL and popular implementations.
+%%
 
-cl-iconv-20101207-git %% iconv %% TODO: Documentation awaiting work. %%
+cl-html-diff_0.1 %% cl-html-diff %% CL-HTML-DIFF is a library for
+generating a human-readable diff of two HTML documents, using HTML%%
 
-cl-interpol-0.2.1 %% cl-interpol-test, cl-interpol %% TODO: Documentation awaiting work. %%
+cl-html-parse-20101006-http %% cl-html-parse %% A portable version of
+Franz's HTML parser from xmlutils. %%
+
+cl-i18n-20101006-darcs %% cl-i18n %%cl-i18n is a GNU gettext-style
+internationalization library written by Leslie P. Polzer.  %%
+
+cl-iconv-20101207-git %% iconv %% Cliconv is a simple FFI interface to
+the iconv library that lets Common Lisp programs translate byte
+sequences from/to different character encodings %%
+
+cl-interpol-0.2.1 %% cl-interpol-test, cl-interpol %%CL-INTERPOL is a
+library for Common Lisp which modifies the reader so that you can have
+interpolation within strings similar to Perl or Unix Shell scripts. It
+also provides various ways to insert arbitrary characters into literal
+strings even if your editor/IDE doesn't support them. %%
 
 cl-irc-20101006-svn %% cl-irc %% TODO: Documentation awaiting work. %%
 
