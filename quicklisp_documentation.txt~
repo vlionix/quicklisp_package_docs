@@ -1,0 +1,973 @@
+3b-swf-20110110-git %% 3b-swf-swc, 3b-swf %% Operates on SWF files%%
+
+3bil-20101006-git %%
+ swf-writer-hack, avm2-lib, avm2-compile, avm2-asm, 3b-swf-writer 
+ %% helper for building an mp3 tag from a file. %%
+
+adw-charting-20110110-http
+ %% adw-charting-vecto, adw-charting-google, adw-charting %%
+  ADW-Charting is a simple chart drawing library for quickly creating reasonable-looking charts. %%
+
+alexandria-20101107-git %% alexandria-tests, alexandria %% Useful utility functions for things such as hashes, numbers, and strings %%
+
+anaphora-0.9.3 %% anaphora-test, anaphora %%
+Anaphora is the anaphoric macro collection from Hell: it includes many new fiends in addition to olds friends like AIF and AWHEN.  %%
+
+archive_0.8 %% archive %% TODO: Documentation awaiting work. (Name highly unsearchable without further context :-( ) %%
+
+arnesi-20101006-darcs %% arnesi.slime-extras, arnesi.cl-ppcre-extras, arnesi 
+%%  It contains various "bits 'n pieces" of code which were useful while developing other code. %%
+
+aromyxo-20101107-git %% aromyxo
+ %% Collection of utilities; includes some common constants and some concurency wrappers on bordeaux-threads.%%
+
+array-operations-20101006-git %% array-operations %% Provides commonly used mathematical operations on arrays, as well as some reduce/map-style functions.%%
+
+asdf-install-20101207-git %% asdf-install %% Part of Another System Definition Facility %%
+
+asdf-system-connections-20101006-darcs %% asdf-system-connections %% Part of Another System Definition Facility  %%
+
+asn.1-4.14 %% asn.1 %% A Common Lisp implementation of ASN.1 a.k.a. Abstract Syntax Notation #1 %%
+
+atdoc-20110110-git %% blocks-world, atdoc %% Generates documentation for Common Lisp packages %%
+
+babel-20101107-darcs %% babel-tests, babel-streams, babel %%  a charset encoding/decoding library, %%
+
+beirc-20101107-cvs %% beirc %% A graphical Internet Relay Chat client using the clim (or mcclim) graphical library and built on top of cl-irc%%
+
+binary-types-20101006-git %% binary-types %% Binary-types allows the definition of mappings between Lisp objects and some binary representation, and provides facilities for reading and writing them to files. %%
+
+binge-20101006-http %% binge
+ %%  A Bovine foreign function INterface GEnerator for Common 
+Lisp. %%
+
+bk-tree-0.3 %% bk-tree %% A derivative of the BK-Tree data structure
+  described in "Some Approaches to Best-Match File Searching" paper of
+  W. A. Burkhard and R. M. Keller. This structure is useful for trees
+  with a metric applied on the nodes. %%
+
+Bknr-datastore-20110110-git %% bknr.xml, bknr.utils, bknr.skip-list.test, bknr.skip-list, bknr.indices, bknr.impex, bknr.datastore, bknr.data.impex 
+%% 
+
+BKNR is a set of Common Lisp libraries which together form an
+environment suitable for serving HTTP clients from a persistent Lisp
+system. BKNR is a pragmatic environment used to create systems for
+real world users.
+%%
+
+black-tie-20101006-git %% black-tie %% A noise library in Common Lisp (e.g., noise applied to images, such as Perlin noise)
+ %%
+
+blackthorn-engine-20110110-hg %% blackthorn-stress-test, blackthorn-collision-test, blackthorn 
+
+%% Blackthorn is a game engine written in Common Lisp (2d graphics,
+object system, and collision detection)
+
+%%
+
+bordeaux-fft-20101006-http %% bordeaux-fft %% 
+
+The Bordeaux-FFT library provides a reasonably efficient
+implementation of the Fast Fourier Transform and its inverse for
+complex-valued inputs, in portable Common Lisp.
+
+%%
+
+bordeaux-threads-0.8.0 %% bordeaux-threads-test, bordeaux-threads %% 
+
+Bordeaux-Threads lets you write multi-threaded applications in a
+portable way.
+
+%%
+
+bourbaki-20110110-http %% bourbaki %% 
+
+Bourbaki is a system for writing and verifying formal mathematical proofs.
+%%
+
+buildapp-1.1 %% buildapp %% Builds executables with SBCL for release.%%
+
+calispel-0.1 %% calispel %% TODO: Documentation awaiting work. %%
+
+cells-20101207-git %% cells %% TODO: Documentation awaiting work. %%
+
+cells-gtk3-20110110-git %% pod-utils, ph-maths %% TODO: Documentation awaiting work. %%
+
+cffi_0.10.6 %% cffi-uffi-compat, cffi-tests, cffi-grovel, cffi-examples, cffi %% TODO: Documentation awaiting work. %%
+
+ch-image-20101006-git %% ch-image-test, ch-image %% TODO: Documentation awaiting work. %%
+
+ch-util-20101006-git %% ch-util-test, ch-util %% TODO: Documentation awaiting work. %%
+
+chillax-20101207-git %% chillax.yason, chillax.view-server, chillax.core, chillax %% TODO: Documentation awaiting work. %%
+
+chipz_0.7.4 %% chipz %% TODO: Documentation awaiting work. %%
+
+chronicity-v0.2.6 %% chronicity-test, chronicity %% TODO: Documentation awaiting work. %%
+
+chunga-1.1.1 %% chunga %% TODO: Documentation awaiting work. %%
+
+cl+ssl-20101006-cvs %% cl+ssl %% TODO: Documentation awaiting work. %%
+
+cl-2d-20101107-git %% cl-2d %% TODO: Documentation awaiting work. %%
+
+cl-azure-20110110-git %% cl-azure %% TODO: Documentation awaiting work. %%
+
+cl-base64-20101006-git %% cl-base64-tests, cl-base64 %% TODO: Documentation awaiting work. %%
+
+cl-beanstalk-20110110-git %% cl-beanstalk %% TODO: Documentation awaiting work. %%
+
+cl-bencode-20101107-git %% bencode %% TODO: Documentation awaiting work. %%
+
+cl-bibtex-20110110-cvs %% bibtex %% TODO: Documentation awaiting work. %%
+
+cl-binary-file-0.3 %% cl-binary-file-0.3 %% TODO: Documentation awaiting work. %%
+
+cl-btree-0.4 %% cl-btree-0.4 %% TODO: Documentation awaiting work. %%
+
+cl-cairo2-20101006-git %% cl-cairo2-xlib, cl-cairo2-gtk2, cl-cairo2, a-cl-cairo2-loader %% TODO: Documentation awaiting work. %%
+
+cl-charms-20110110-git %% cl-charms %% TODO: Documentation awaiting work. %%
+
+cl-cli-parser-20101006-cvs %% cli-parser %% TODO: Documentation awaiting work. %%
+
+clon-1.0b16 %% com.dvlsoft.clon %% TODO: Documentation awaiting work. %%
+
+cl-closure-template-20110110-git %% closure-template %% TODO: Documentation awaiting work. %%
+
+cl-colors-20101006-git %% cl-colors %% TODO: Documentation awaiting work. %%
+
+cl-cont-20101006-darcs %% cl-cont-test, cl-cont %% TODO: Documentation awaiting work. %%
+
+cl-containers-20101006-darcs %% cl-containers-test, cl-containers %% TODO: Documentation awaiting work. %%
+
+cl-couch-20101207-darcs %% logv %% TODO: Documentation awaiting work. %%
+
+cl-ctrnn_1.0.0 %% cl-ctrnn %% TODO: Documentation awaiting work. %%
+
+cl-data-format-validation-20101006-git %% data-format-validation %% TODO: Documentation awaiting work. %%
+
+cl-devil-20101107-git %% cl-devil %% TODO: Documentation awaiting work. %%
+
+cl-difflib_0.1 %% cl-difflib-tests, cl-difflib %% TODO: Documentation awaiting work. %%
+
+cl-docutils-20101006-git %% docutils %% TODO: Documentation awaiting work. %%
+
+cl-dot-20101006-http %% cl-dot %% TODO: Documentation awaiting work. %%
+
+cl-emb-0.4.4 %% cl-emb %% TODO: Documentation awaiting work. %%
+
+cl-enumeration-20110110-cvs %% enumerations %% TODO: Documentation awaiting work. %%
+
+cl-fad-0.6.4 %% cl-fad %% TODO: Documentation awaiting work. %%
+
+cl-ftp-20101006-http %% ftp %% TODO: Documentation awaiting work. %%
+
+cl-gd-0.5.7 %% cl-gd-test, cl-gd %% TODO: Documentation awaiting work. %%
+
+cl-geo-0.1 %% geo %% TODO: Documentation awaiting work. %%
+
+cl-geocode-20101207-git %% cl-geocode %% TODO: Documentation awaiting work. %%
+
+cl-geometry-20101006-git %% cl-geometry-tests, cl-geometry %% TODO: Documentation awaiting work. %%
+
+cl-glfw-20110110-git %% cl-glfw-types, cl-glfw-opengl-version_2_1, cl-glfw-opengl-version_2_0, cl-glfw-opengl-version_1_5, cl-glfw-opengl-version_1_4, cl-glfw-opengl-version_1_3, cl-glfw-opengl-version_1_2, cl-glfw-opengl-version_1_1, cl-glfw-opengl-version_1_0, cl-glfw-opengl-sunx_constant_data, cl-glfw-opengl-sun_vertex, cl-glfw-opengl-sun_triangle_list, cl-glfw-opengl-sun_mesh_array, cl-glfw-opengl-sun_global_alpha, cl-glfw-opengl-sgix_tag_sample_buffer, cl-glfw-opengl-sgix_sprite, cl-glfw-opengl-sgix_reference_plane, cl-glfw-opengl-sgix_polynomial_ffd, cl-glfw-opengl-sgix_pixel_texture, cl-glfw-opengl-sgix_list_priority, cl-glfw-opengl-sgix_instruments, cl-glfw-opengl-sgix_igloo_interface, cl-glfw-opengl-sgix_framezoom, cl-glfw-opengl-sgix_fragment_lighting, cl-glfw-opengl-sgix_flush_raster, cl-glfw-opengl-sgix_async, cl-glfw-opengl-sgis_texture_filter4, cl-glfw-opengl-sgis_texture_color_mask, cl-glfw-opengl-sgis_texture4d, cl-glfw-opengl-sgis_sharpen_texture, cl-glfw-opengl-sgis_point_parameters, cl-glfw-opengl-sgis_pixel_texture, cl-glfw-opengl-sgis_multisample, cl-glfw-opengl-sgis_fog_function, cl-glfw-opengl-sgis_detail_texture, cl-glfw-opengl-sgi_color_table, cl-glfw-opengl-pgi_misc_hints, cl-glfw-opengl-nv_vertex_program4, cl-glfw-opengl-nv_vertex_program, cl-glfw-opengl-nv_vertex_buffer_unified_memory, cl-glfw-opengl-nv_vertex_attrib_integer_64bit, cl-glfw-opengl-nv_vertex_array_range, cl-glfw-opengl-nv_transform_feedback2, cl-glfw-opengl-nv_transform_feedback, cl-glfw-opengl-nv_texture_barrier, cl-glfw-opengl-nv_shader_buffer_load, cl-glfw-opengl-nv_register_combiners2, cl-glfw-opengl-nv_register_combiners, cl-glfw-opengl-nv_primitive_restart, cl-glfw-opengl-nv_present_video, cl-glfw-opengl-nv_point_sprite, cl-glfw-opengl-nv_pixel_data_range, cl-glfw-opengl-nv_parameter_buffer_object, cl-glfw-opengl-nv_occlusion_query, cl-glfw-opengl-nv_half_float, cl-glfw-opengl-nv_gpu_shader5, cl-glfw-opengl-nv_gpu_program5, cl-glfw-opengl-nv_gpu_program4, cl-glfw-opengl-nv_geometry_program4, cl-glfw-opengl-nv_framebuffer_multisample_coverage, cl-glfw-opengl-nv_fragment_program, cl-glfw-opengl-nv_fence, cl-glfw-opengl-nv_explicit_multisample, cl-glfw-opengl-nv_evaluators, cl-glfw-opengl-nv_depth_buffer_float, cl-glfw-opengl-nv_copy_image, cl-glfw-opengl-nv_conditional_render, cl-glfw-opengl-mesa_window_pos, cl-glfw-opengl-mesa_resize_buffers, cl-glfw-opengl-intel_parallel_arrays, cl-glfw-opengl-ingr_blend_func_separate, cl-glfw-opengl-ibm_vertex_array_lists, cl-glfw-opengl-ibm_multimode_draw_arrays, cl-glfw-opengl-hp_image_transform, cl-glfw-opengl-gremedy_string_marker, cl-glfw-opengl-gremedy_frame_terminator, cl-glfw-opengl-ext_vertex_weighting, cl-glfw-opengl-ext_vertex_shader, cl-glfw-opengl-ext_vertex_attrib_64bit, cl-glfw-opengl-ext_vertex_array, cl-glfw-opengl-ext_transform_feedback, cl-glfw-opengl-ext_timer_query, cl-glfw-opengl-ext_texture_perturb_normal, cl-glfw-opengl-ext_texture_object, cl-glfw-opengl-ext_texture_integer, cl-glfw-opengl-ext_texture_buffer_object, cl-glfw-opengl-ext_texture3d, cl-glfw-opengl-ext_subtexture, cl-glfw-opengl-ext_stencil_two_side, cl-glfw-opengl-ext_stencil_clear_tag, cl-glfw-opengl-ext_shader_image_load_store, cl-glfw-opengl-ext_separate_shader_objects, cl-glfw-opengl-ext_secondary_color, cl-glfw-opengl-ext_provoking_vertex, cl-glfw-opengl-ext_polygon_offset, cl-glfw-opengl-ext_point_parameters, cl-glfw-opengl-ext_pixel_transform, cl-glfw-opengl-ext_paletted_texture, cl-glfw-opengl-ext_multisample, cl-glfw-opengl-ext_multi_draw_arrays, cl-glfw-opengl-ext_light_texture, cl-glfw-opengl-ext_index_material, cl-glfw-opengl-ext_index_func, cl-glfw-opengl-ext_histogram, cl-glfw-opengl-ext_gpu_shader4, cl-glfw-opengl-ext_gpu_program_parameters, cl-glfw-opengl-ext_geometry_shader4, cl-glfw-opengl-ext_framebuffer_object, cl-glfw-opengl-ext_framebuffer_multisample, cl-glfw-opengl-ext_framebuffer_blit, cl-glfw-opengl-ext_fog_coord, cl-glfw-opengl-ext_draw_range_elements, cl-glfw-opengl-ext_draw_instanced, cl-glfw-opengl-ext_draw_buffers2, cl-glfw-opengl-ext_direct_state_access, cl-glfw-opengl-ext_depth_bounds_test, cl-glfw-opengl-ext_cull_vertex, cl-glfw-opengl-ext_copy_texture, cl-glfw-opengl-ext_coordinate_frame, cl-glfw-opengl-ext_convolution, cl-glfw-opengl-ext_compiled_vertex_array, cl-glfw-opengl-ext_color_subtable, cl-glfw-opengl-ext_blend_minmax, cl-glfw-opengl-ext_blend_func_separate, cl-glfw-opengl-ext_blend_equation_separate, cl-glfw-opengl-ext_blend_color, cl-glfw-opengl-ext_bindable_uniform, cl-glfw-opengl-core, cl-glfw-opengl-ati_vertex_streams, cl-glfw-opengl-ati_vertex_attrib_array_object, cl-glfw-opengl-ati_vertex_array_object, cl-glfw-opengl-ati_separate_stencil, cl-glfw-opengl-ati_pn_triangles, cl-glfw-opengl-ati_map_object_buffer, cl-glfw-opengl-ati_fragment_shader, cl-glfw-opengl-ati_envmap_bumpmap, cl-glfw-opengl-ati_element_array, cl-glfw-opengl-ati_draw_buffers, cl-glfw-opengl-arb_window_pos, cl-glfw-opengl-arb_viewport_array, cl-glfw-opengl-arb_vertex_type_2_10_10_10_rev, cl-glfw-opengl-arb_vertex_shader, cl-glfw-opengl-arb_vertex_program, cl-glfw-opengl-arb_vertex_buffer_object, cl-glfw-opengl-arb_vertex_blend, cl-glfw-opengl-arb_vertex_attrib_64bit, cl-glfw-opengl-arb_vertex_array_object, cl-glfw-opengl-arb_uniform_buffer_object, cl-glfw-opengl-arb_transpose_matrix, cl-glfw-opengl-arb_transform_feedback3, cl-glfw-opengl-arb_transform_feedback2, cl-glfw-opengl-arb_timer_query, cl-glfw-opengl-arb_texture_multisample, cl-glfw-opengl-arb_texture_compression, cl-glfw-opengl-arb_texture_buffer_object, cl-glfw-opengl-arb_tessellation_shader, cl-glfw-opengl-arb_shading_language_include, cl-glfw-opengl-arb_shader_subroutine, cl-glfw-opengl-arb_shader_objects, cl-glfw-opengl-arb_separate_shader_objects, cl-glfw-opengl-arb_sampler_objects, cl-glfw-opengl-arb_sample_shading, cl-glfw-opengl-arb_robustness, cl-glfw-opengl-arb_provoking_vertex, cl-glfw-opengl-arb_point_parameters, cl-glfw-opengl-arb_occlusion_query, cl-glfw-opengl-arb_multitexture, cl-glfw-opengl-arb_multisample, cl-glfw-opengl-arb_matrix_palette, cl-glfw-opengl-arb_map_buffer_range, cl-glfw-opengl-arb_instanced_arrays, cl-glfw-opengl-arb_gpu_shader_fp64, cl-glfw-opengl-arb_get_program_binary, cl-glfw-opengl-arb_geometry_shader4, cl-glfw-opengl-arb_framebuffer_object, cl-glfw-opengl-arb_es2_compatibility, cl-glfw-opengl-arb_draw_instanced, cl-glfw-opengl-arb_draw_indirect, cl-glfw-opengl-arb_draw_elements_base_vertex, cl-glfw-opengl-arb_draw_buffers_blend, cl-glfw-opengl-arb_draw_buffers, cl-glfw-opengl-arb_copy_buffer, cl-glfw-opengl-arb_color_buffer_float, cl-glfw-opengl-arb_blend_func_extended, cl-glfw-opengl-apple_vertex_program_evaluators, cl-glfw-opengl-apple_vertex_array_range, cl-glfw-opengl-apple_vertex_array_object, cl-glfw-opengl-apple_texture_range, cl-glfw-opengl-apple_object_purgeable, cl-glfw-opengl-apple_flush_buffer_range, cl-glfw-opengl-apple_fence, cl-glfw-opengl-apple_element_array, cl-glfw-opengl-amd_vertex_shader_tesselator, cl-glfw-opengl-amd_performance_monitor, cl-glfw-opengl-amd_name_gen_delete, cl-glfw-opengl-amd_draw_buffers_blend, cl-glfw-opengl-3dfx_tbuffer, cl-glfw-glu, cl-glfw %% TODO: Documentation awaiting work. %%
+
+cl-gpu-20101207-git %% cl-gpu.core, cl-gpu.buffers %% TODO: Documentation awaiting work. %%
+
+cl-graph-20101006-darcs %% cl-graph-test, cl-graph %% TODO: Documentation awaiting work. %%
+
+cl-growl-20101006-git %% cl-growl %% TODO: Documentation awaiting work. %%
+
+cl-gtk2-20101207-git %% cl-gtk2-pango, cl-gtk2-gtk, cl-gtk2-glib, cl-gtk2-gdk, cl-gtk2-cairo %% TODO: Documentation awaiting work. %%
+
+cl-heap_0.1.4 %% cl-heap-tests, cl-heap %% TODO: Documentation awaiting work. %%
+
+cl-heredoc-20101006-git %% cl-heredoc-test, cl-heredoc %% TODO: Documentation awaiting work. %%
+
+cl-html-diff_0.1 %% cl-html-diff %% TODO: Documentation awaiting work. %%
+
+cl-html-parse-20101006-http %% cl-html-parse %% TODO: Documentation awaiting work. %%
+
+cl-i18n-20101006-darcs %% cl-i18n %% TODO: Documentation awaiting work. %%
+
+cl-iconv-20101207-git %% iconv %% TODO: Documentation awaiting work. %%
+
+cl-interpol-0.2.1 %% cl-interpol-test, cl-interpol %% TODO: Documentation awaiting work. %%
+
+cl-irc-20101006-svn %% cl-irc %% TODO: Documentation awaiting work. %%
+
+cl-irregsexp-20101006-git %% cl-irregsexp-test, cl-irregsexp %% TODO: Documentation awaiting work. %%
+
+cl-jpeg-20101107-http %% cl-jpeg %% TODO: Documentation awaiting work. %%
+
+cl-jpl-util-0.3 %% jpl-util %% TODO: Documentation awaiting work. %%
+
+cl-json-20101006-darcs %% cl-json.test, cl-json %% JSON library: loads and dumps strings%%
+
+cl-l10n-20101107-darcs %% cl-l10n.test, cl-l10n %% TODO: Documentation awaiting work. %%
+
+cl-l10n-cldr-20101107-darcs %% cl-l10n-cldr %% TODO: Documentation awaiting work. %%
+
+cl-lastfm-20101006-git %% cl-lastfm-test, cl-lastfm %% TODO: Documentation awaiting work. %%
+
+cl-lex-20101006-http %% cl-lex %% TODO: Documentation awaiting work. %%
+
+cl-lexer-20110110-git %% lexer %% TODO: Documentation awaiting work. %%
+
+cl-libxml2-0.3.4 %% xoverlay, xfactory-test, xfactory, cl-libxml2-test, cl-libxml2 %% TODO: Documentation awaiting work. %%
+
+cl-log-20101006-http %% cl-log %% TODO: Documentation awaiting work. %%
+
+cl-m4-20110110-git %% cl-m4-test, cl-m4 %% TODO: Documentation awaiting work. %%
+
+cl-markdown-20101006-darcs %% cl-markdown-test, cl-markdown-comparisons, cl-markdown %% TODO: Documentation awaiting work. %%
+
+cl-memcached-0.4.1 %% cl-memcached %% TODO: Documentation awaiting work. %%
+
+cl-migrations-20110110-http %% cl-migrations %% TODO: Documentation awaiting work. %%
+
+cl-modlisp-20101006-git %% modlisp %% TODO: Documentation awaiting work. %%
+
+cl-mongo-20101207-git %% cl-mongo %% TODO: Documentation awaiting work. %%
+
+cl-mssql-0.0.2 %% mssql %% TODO: Documentation awaiting work. %%
+
+cl-mw-20101207-git %% cl-mw.examples.ping, cl-mw.examples.monte-carlo-pi, cl-mw.examples.higher-order, cl-mw.examples.hello-world, cl-mw %% TODO: Documentation awaiting work. %%
+
+cl-ncurses_0.1.4 %% cl-ncurses %% TODO: Documentation awaiting work. %%
+
+cl-num-utils-20101006-git %% cl-num-utils-tests, cl-num-utils %% TODO: Documentation awaiting work. %%
+
+cl-oauth-20101006-git %% cl-oauth %% TODO: Documentation awaiting work. %%
+
+cl-openal-20101006-git %% cl-openal-examples, cl-openal, cl-alut, cl-alc %% TODO: Documentation awaiting work. %%
+
+cl-opengl-20110110-git %% cl-opengl, cl-glut-examples, cl-glut, cl-glu %% TODO: Documentation awaiting work. %%
+
+cl-org-mode-20101207-git %% cl-org-mode %% TODO: Documentation awaiting work. %%
+
+cl-paypal-20101006-git %% cl-paypal %% TODO: Documentation awaiting work. %%
+
+cl-pdf-20101107-svn %% salza, cl-pdf-parser, cl-pdf %% TODO: Documentation awaiting work. %%
+
+cl-photo-20101006-git %% cl-photo-tests, cl-photo %% TODO: Documentation awaiting work. %%
+
+cl-plplot-0.6.0 %% plplot-examples, cl-plplot %% TODO: Documentation awaiting work. %%
+
+cl-png-0.6 %% png-test, png %% TODO: Documentation awaiting work. %%
+
+cl-popen-20110110-git %% cl-popen-test, cl-popen %% TODO: Documentation awaiting work. %%
+
+cl-ppcre-2.0.3 %% cl-ppcre-unicode, cl-ppcre-test, cl-ppcre %% TODO: Documentation awaiting work. %%
+
+cl-prevalence-20101207-hg %% cl-prevalence %% TODO: Documentation awaiting work. %%
+
+cl-proc-20101207-darcs %% proc %% TODO: Documentation awaiting work. %%
+
+cl-qprint-20101006-http %% cl-qprint %% TODO: Documentation awaiting work. %%
+
+cl-quakeinfo-20110110-git %% cl-quakeinfo %% TODO: Documentation awaiting work. %%
+
+cl-quickcheck-20110110-git %% cl-quickcheck %% TODO: Documentation awaiting work. %%
+
+cl-random-20101107-git %% cl-random-unit-tests, cl-random %% TODO: Documentation awaiting work. %%
+
+cl-rcfiles-20101006-http %% com.dvlsoft.rcfiles %% TODO: Documentation awaiting work. %%
+
+cl-redis-20110110-git %% cl-redis %% TODO: Documentation awaiting work. %%
+
+cl-routes-20101107-git %% routes %% TODO: Documentation awaiting work. %%
+
+cl-rss-20101006-git %% rss %% TODO: Documentation awaiting work. %%
+
+cl-s3-20101006-http %% cl-s3 %% TODO: Documentation awaiting work. %%
+
+cl-sasl_0.3 %% cl-sasl %% TODO: Documentation awaiting work. %%
+
+cl-skip-list-20101207-git %% cl-skip-list %% TODO: Documentation awaiting work. %%
+
+cl-smtp-20101107-http %% cl-smtp %% TODO: Documentation awaiting work. %%
+
+cl-soap-20101006-cvs %% cl-soap %% TODO: Documentation awaiting work. %%
+
+cl-sphinx-20101107-git %% sphinx %% TODO: Documentation awaiting work. %%
+
+cl-sqlite-20110110-git %% sqlite-tests, sqlite %% TODO: Documentation awaiting work. %%
+
+cl-stm-20101207-http %% cl-stm.test, cl-stm %% TODO: Documentation awaiting work. %%
+
+cl-store-20101207-darcs %% cl-store-tests, cl-store %% TODO: Documentation awaiting work. %%
+
+cl-swap-file-0.4 %% cl-swap-file-0.4 %% TODO: Documentation awaiting work. %%
+
+cl-syslog-20101107-http %% cl-syslog %% TODO: Documentation awaiting work. %%
+
+cl-test-more-20110110-git %% cl-test-more %% TODO: Documentation awaiting work. %%
+
+cl-twitter-20110110-git %% cl-twitter, cl-twit-repl %% TODO: Documentation awaiting work. %%
+
+cl-typesetting-20101006-svn %% xml-render, cl-typesetting, cl-pdf-doc %% TODO: Documentation awaiting work. %%
+
+cl-uglify-js-20110110-git %% cl-uglify-js %% TODO: Documentation awaiting work. %%
+
+cl-unicode-0.1.1 %% cl-unicode-test, cl-unicode %% TODO: Documentation awaiting work. %%
+
+cl-unification-20101006-cvs %% cl-unification-lib, cl-unification, cl-ppcre-template %% TODO: Documentation awaiting work. %%
+
+cl-utilities-1.2.4 %% cl-utilities %% TODO: Documentation awaiting work. %%
+
+cl-v4l2-20101107-git %% cl-v4l2 %% TODO: Documentation awaiting work. %%
+
+cl-vectors-20101006-git %% cl-vectors, cl-paths-ttf, cl-paths, cl-aa-misc, cl-aa %% TODO: Documentation awaiting work. %%
+
+cl-wal-0.3 %% cl-wal-0.3 %% TODO: Documentation awaiting work. %%
+
+cl-webdav-0.2.0 %% cl-webdav %% TODO: Documentation awaiting work. %%
+
+cl-who-0.11.1 %% cl-who %% TODO: Documentation awaiting work. %%
+
+cl-wkb-0.1 %% wkb %% TODO: Documentation awaiting work. %%
+
+cl-xmlspam-20101006-http %% cl-xmlspam %% TODO: Documentation awaiting work. %%
+
+cl-xmpp-0.8.1 %% cl-xmpp-tls, cl-xmpp-sasl, cl-xmpp %% TODO: Documentation awaiting work. %%
+
+cl-yacc-20101006-darcs %% yacc %% TODO: Documentation awaiting work. %%
+
+cl-zmq-20101107-git %% zeromq %% TODO: Documentation awaiting work. %%
+
+clazy-20110110-cvs %% clazy %% TODO: Documentation awaiting work. %%
+
+clem-20101006-git %% clem-test, clem-benchmark, clem %% TODO: Documentation awaiting work. %%
+
+cleric-20101207-git %% cleric %% TODO: Documentation awaiting work. %%
+
+clfswm-20110110-svn %% clfswm %% TODO: Documentation awaiting work. %%
+
+clg-20110110-cvs %% clg-tools %% TODO: Documentation awaiting work. %%
+
+climacs-20101006-cvs %% climacs %% TODO: Documentation awaiting work. %%
+
+clonsigna-20101006-http %% clonsigna %% TODO: Documentation awaiting work. %%
+
+clos-diff-20110110-git %% clos-diff %% TODO: Documentation awaiting work. %%
+
+closer-mop-20110110-darcs %% closer-mop %% TODO: Documentation awaiting work. %%
+
+closure-common-20101107-git %% closure-common %% TODO: Documentation awaiting work. %%
+
+closure-html-20101006-git %% closure-html %% TODO: Documentation awaiting work. %%
+
+clot-20101006-http %% clot %% TODO: Documentation awaiting work. %%
+
+clouchdb_0.0.11 %% clouchdb %% TODO: Documentation awaiting work. %%
+
+clpython-20110110-git %% clpython.test, clpython.runtime, clpython.parser, clpython.lib, clpython.contrib, clpython.compiler, clpython.basic, clpython %% TODO: Documentation awaiting work. %%
+
+clsql-20101207-git %% clsql-uffi, clsql-tests, clsql-sqlite3, clsql-postgresql-socket, clsql-postgresql, clsql-odbc, clsql-mysql, clsql-cffi, clsql-aodbc, clsql %% TODO: Documentation awaiting work. %%
+
+cluck-20101006-git %% cluck %% TODO: Documentation awaiting work. %%
+
+clws-20101006-git %% clws %% TODO: Documentation awaiting work. %%
+
+clx-0.7.4 %% clx %% TODO: Documentation awaiting work. %%
+
+colorize-20101006-svn %% colorize %% TODO: Documentation awaiting work. %%
+
+command-line-arguments-20101006-git %% command-line-arguments %% A command-line parser utility, much like Perl's Getopt::Long %%
+
+commonqt-20110110-git %% qt-tutorial, qt-test, qt-repl, qt %% TODO: Documentation awaiting work. %%
+
+conduit-packages-20101006-http %% conduit-packages %% TODO: Documentation awaiting work. %%
+
+conium-20101006-git %% conium %% TODO: Documentation awaiting work. %%
+
+contextl-20101006-darcs %% dynamic-wind, contextl %% TODO: Documentation awaiting work. %%
+
+css-lite-20101107-git %% css-lite %% TODO: Documentation awaiting work. %%
+
+csv-parser-20101207-http %% csv-parser %% TODO: Documentation awaiting work. %%
+
+curly-20101207-darcs %% curly.test, curly %% TODO: Documentation awaiting work. %%
+
+cxml-20101107-git %% cxml-xml, cxml-test, cxml-klacks, cxml-dom, cxml %% TODO: Documentation awaiting work. %%
+
+cxml-rng-2008-11-30 %% cxml-rng %% TODO: Documentation awaiting work. %%
+
+cxml-rpc-20101006-git %% cxml-rpc %% TODO: Documentation awaiting work. %%
+
+cxml-stp-20101107-git %% cxml-stp-test, cxml-stp %% TODO: Documentation awaiting work. %%
+
+date-calc-20101006-http %% date-calc %% TODO: Documentation awaiting work. %%
+
+dbus-20101107-git %% dbus %% TODO: Documentation awaiting work. %%
+
+declt-1.0b1 %% com.dvlsoft.declt %% TODO: Documentation awaiting work. %%
+
+deflate-20101207-git %% deflate %% TODO: Documentation awaiting work. %%
+
+defsystem-compatibility-20101006-darcs %% defsystem-compatibility-test, defsystem-compatibility %% TODO: Documentation awaiting work. %%
+
+documentation-template-0.4.2 %% documentation-template %% TODO: Documentation awaiting work. %%
+
+drakma-1.2.3 %% drakma %% A HTTP client for sending and getting data from the web. %%
+
+dso-lex-0.3.2 %% dso-lex %% TODO: Documentation awaiting work. %%
+
+dso-util-0.1.2 %% dso-util %% TODO: Documentation awaiting work. %%
+
+dynamic-classes-20101006-darcs %% dynamic-classes-test, dynamic-classes %% TODO: Documentation awaiting work. %%
+
+eager-future-20101006-darcs %% eager-future.test, eager-future %% TODO: Documentation awaiting work. %%
+
+elephant-20110110-darcs %% elephant-tests, elephant, ele-postmodern, ele-postgresql, ele-clsql, ele-clp, dcm %% TODO: Documentation awaiting work. %%
+
+eos-20101006-git %% eos-tests, eos %% TODO: Documentation awaiting work. %%
+
+esrap-20101006-git %% esrap %% TODO: Documentation awaiting work. %%
+
+evol-20101006-git %% evol-test, evol %% TODO: Documentation awaiting work. %%
+
+external-program_0.0.6 %% external-program %% TODO: Documentation awaiting work. %%
+
+f-underscore-20101006-darcs %% f-underscore %% TODO: Documentation awaiting work. %%
+
+f2cl-20110110-cvs %% f2cl %% TODO: Documentation awaiting work. %%
+
+fare-csv-20101006-git %% fare-csv %% TODO: Documentation awaiting work. %%
+
+fare-matcher-20101107-git %% fare-matcher %% TODO: Documentation awaiting work. %%
+
+fare-utils-20101207-git %% molicle, fare-utils %% TODO: Documentation awaiting work. %%
+
+fcgi-0.7 %% fcgi %% TODO: Documentation awaiting work. %%
+
+femlisp-0-9-10 %% infix, femlisp-matlisp, femlisp-basic, femlisp %% TODO: Documentation awaiting work. %%
+
+ffa-20101006-git %% ffa %% TODO: Documentation awaiting work. %%
+
+fft-20101006-git %% pfft, fft %% TODO: Documentation awaiting work. %%
+
+fiveam-20101006-darcs %% fiveam %% TODO: Documentation awaiting work. %%
+
+flexi-streams-1.0.7 %% flexi-streams-test, flexi-streams %% TODO: Documentation awaiting work. %%
+
+flexichain_1.5.1 %% flexichain-doc, flexichain %% TODO: Documentation awaiting work. %%
+
+folio-20101207-git %% folio.functions, folio.collections, folio.boxes, folio.as, folio %% TODO: Documentation awaiting work. %%
+
+fsbv-20101207-git %% fsbv %% TODO: Documentation awaiting work. %%
+
+fset-20101006-svn %% fset %% TODO: Documentation awaiting work. %%
+
+fucc_0.2.1 %% fucc-parser, fucc-generator %% TODO: Documentation awaiting work. %%
+
+garbage-pools-0.1.2 %% garbage-pools-test, garbage-pools %% TODO: Documentation awaiting work. %%
+
+gbbopen-20110110-svn %% tutorial-example, timing-tests, test-harness, portable-threads-test, portable-sockets-test, os-interface-test, multinode, module-manager-user, module-manager, gbbopen-tools-test, gbbopen-test, gbbopen-modules, gbbopen, double-metaphone-test, cl-timing, agenda-shell-test, abort-ks-execution-example %% TODO: Documentation awaiting work. %%
+
+genhash_1.7 %% genhash %% TODO: Documentation awaiting work. %%
+
+getopt-20101006-git %% getopt-tests, getopt %% A command-line parser, much like Perl's Getopt::Long %%
+
+glaw-20110110-git %% glaw-sdl, glaw-imago, glaw-examples, glaw %% TODO: Documentation awaiting work. %%
+
+glop-20110110-git %% glop-test, glop %% TODO: Documentation awaiting work. %%
+
+graylex-20101006-git %% graylex-test, graylex-m4-example, graylex %% TODO: Documentation awaiting work. %%
+
+gsd-20101207-git %% grid-tests, grid, foreign-array-tests, foreign-array %% TODO: Documentation awaiting work. %%
+
+gsharp-20101006-git %% gsharp %% TODO: Documentation awaiting work. %%
+
+gsll-20101207-git %% gsll-tests, gsll %% TODO: Documentation awaiting work. %%
+
+gtfl_0.1.2 %% gtfl %% TODO: Documentation awaiting work. %%
+
+gzip-stream_0.2.8 %% gzip-stream %% TODO: Documentation awaiting work. %%
+
+hemlock-20110110-git %% hemlock.tty, hemlock.qt, hemlock.clx, hemlock.base %% TODO: Documentation awaiting work. %%
+
+ht-simple-ajax_0.3 %% ht-simple-ajax %% TODO: Documentation awaiting work. %%
+
+html-encode-1.2 %% html-encode %% TODO: Documentation awaiting work. %%
+
+html-template-0.9.1 %% html-template %% TODO: Documentation awaiting work. %%
+
+hu.dwim.asdf-20110110-darcs %% hu.dwim.asdf.documentation, hu.dwim.asdf %% TODO: Documentation awaiting work. %%
+
+hu.dwim.common-20101107-darcs %% hu.dwim.common.documentation, hu.dwim.common %% TODO: Documentation awaiting work. %%
+
+hu.dwim.common-lisp-20101107-darcs %% hu.dwim.common-lisp.documentation, hu.dwim.common-lisp %% TODO: Documentation awaiting work. %%
+
+hu.dwim.computed-class-20101107-darcs %% hu.dwim.computed-class.test, hu.dwim.computed-class.documentation, hu.dwim.computed-class+swank, hu.dwim.computed-class+hu.dwim.defclass-star, hu.dwim.computed-class %% TODO: Documentation awaiting work. %%
+
+hu.dwim.def-20110110-darcs %% hu.dwim.def.test, hu.dwim.def.namespace, hu.dwim.def.documentation, hu.dwim.def+swank, hu.dwim.def+hu.dwim.delico, hu.dwim.def+hu.dwim.common, hu.dwim.def+contextl, hu.dwim.def+cl-l10n, hu.dwim.def %% TODO: Documentation awaiting work. %%
+
+hu.dwim.defclass-star-20101107-darcs %% hu.dwim.defclass-star.test, hu.dwim.defclass-star.documentation, hu.dwim.defclass-star+swank, hu.dwim.defclass-star+hu.dwim.def+contextl, hu.dwim.defclass-star+hu.dwim.def, hu.dwim.defclass-star+contextl, hu.dwim.defclass-star %% TODO: Documentation awaiting work. %%
+
+hu.dwim.delico-20101107-darcs %% hu.dwim.delico.test, hu.dwim.delico.documentation, hu.dwim.delico %% TODO: Documentation awaiting work. %%
+
+hu.dwim.logger-20101107-darcs %% hu.dwim.logger.test, hu.dwim.logger.documentation, hu.dwim.logger+swank, hu.dwim.logger %% TODO: Documentation awaiting work. %%
+
+hu.dwim.partial-eval-20101107-darcs %% hu.dwim.partial-eval.test, hu.dwim.partial-eval.documentation, hu.dwim.partial-eval %% TODO: Documentation awaiting work. %%
+
+hu.dwim.perec-20101107-darcs %% hu.dwim.perec.test, hu.dwim.perec.sqlite.test, hu.dwim.perec.sqlite, hu.dwim.perec.postgresql.test, hu.dwim.perec.postgresql, hu.dwim.perec.oracle.test, hu.dwim.perec.oracle, hu.dwim.perec.all.test, hu.dwim.perec.all, hu.dwim.perec+swank, hu.dwim.perec+iolib, hu.dwim.perec+hu.dwim.quasi-quote.xml, hu.dwim.perec %% TODO: Documentation awaiting work. %%
+
+hu.dwim.quasi-quote-20101107-darcs %% hu.dwim.quasi-quote.xml+hu.dwim.quasi-quote.js, hu.dwim.quasi-quote.xml+cxml, hu.dwim.quasi-quote.xml, hu.dwim.quasi-quote.test, hu.dwim.quasi-quote.js, hu.dwim.quasi-quote.documentation, hu.dwim.quasi-quote.css, hu.dwim.quasi-quote %% TODO: Documentation awaiting work. %%
+
+hu.dwim.rdbms-20101107-darcs %% hu.dwim.rdbms.test, hu.dwim.rdbms.sqlite.test, hu.dwim.rdbms.sqlite, hu.dwim.rdbms.postgresql.test, hu.dwim.rdbms.postgresql, hu.dwim.rdbms.oracle.test, hu.dwim.rdbms.oracle, hu.dwim.rdbms.documentation, hu.dwim.rdbms.all.test, hu.dwim.rdbms.all, hu.dwim.rdbms %% TODO: Documentation awaiting work. %%
+
+hu.dwim.reiterate-20101107-darcs %% hu.dwim.reiterate.test, hu.dwim.reiterate.documentation, hu.dwim.reiterate %% TODO: Documentation awaiting work. %%
+
+hu.dwim.serializer-20101207-darcs %% hu.dwim.serializer.test, hu.dwim.serializer.documentation, hu.dwim.serializer %% TODO: Documentation awaiting work. %%
+
+hu.dwim.stefil-20101207-darcs %% hu.dwim.stefil.test, hu.dwim.stefil+swank, hu.dwim.stefil+hu.dwim.def+swank, hu.dwim.stefil+hu.dwim.def, hu.dwim.stefil %% TODO: Documentation awaiting work. %%
+
+hu.dwim.syntax-sugar-20101207-darcs %% hu.dwim.syntax-sugar.unicode, hu.dwim.syntax-sugar.test, hu.dwim.syntax-sugar.documentation, hu.dwim.syntax-sugar+hu.dwim.walker, hu.dwim.syntax-sugar %% TODO: Documentation awaiting work. %%
+
+hu.dwim.util-20101207-darcs %% hu.dwim.util.zlib, hu.dwim.util.worker-group, hu.dwim.util.threads, hu.dwim.util.test, hu.dwim.util.temporary-files, hu.dwim.util.standard-process, hu.dwim.util.source, hu.dwim.util.soap, hu.dwim.util.production+swank, hu.dwim.util.production, hu.dwim.util.mop, hu.dwim.util.i18n, hu.dwim.util.flexml, hu.dwim.util.finite-state-machine, hu.dwim.util.error-handling+swank, hu.dwim.util.error-handling, hu.dwim.util.documentation, hu.dwim.util.authorization, hu.dwim.util+iolib, hu.dwim.util %% TODO: Documentation awaiting work. %%
+
+hu.dwim.walker-20101107-darcs %% hu.dwim.walker.test, hu.dwim.walker.documentation, hu.dwim.walker %% TODO: Documentation awaiting work. %%
+
+hu.dwim.wui-20101107-darcs %% hu.dwim.wui.http.test, hu.dwim.wui.http, hu.dwim.wui.component, hu.dwim.wui.application.test, hu.dwim.wui.application, hu.dwim.wui+swank, hu.dwim.wui+stefil, hu.dwim.wui+cl-typesetting, hu.dwim.wui+cl-graph+cl-typesetting, hu.dwim.wui %% TODO: Documentation awaiting work. %%
+
+hunchentoot-1.1.1 %% hunchentoot-test, hunchentoot %% A Common Lisp webserver. One of the classic tools of a Common Lisp webapp%%
+
+hunchentoot-auth-20101107-git %% hunchentoot-auth %% TODO: Documentation awaiting work. %%
+
+hunchentoot-cgi-20101107-git %% hunchentoot-cgi %% TODO: Documentation awaiting work. %%
+
+hunchentoot-vhost-20101107-git %% hunchentoot-vhost %% TODO: Documentation awaiting work. %%
+
+hyperobject-20101006-git %% hyperobject-tests, hyperobject %% TODO: Documentation awaiting work. %%
+
+ie3fp-20101006-http %% ie3fp %% TODO: Documentation awaiting work. %%
+
+ieee-floats-20101006-darcs %% ieee-floats-tests, ieee-floats %% TODO: Documentation awaiting work. %%
+
+imago-20101006-cvs %% imago %% TODO: Documentation awaiting work. %%
+
+incf-cl-20101006-git %% incf-cl-test, incf-cl %% TODO: Documentation awaiting work. %%
+
+inotify-20101207-git %% inotify %% TODO: Documentation awaiting work. %%
+
+iolib-0.7.3 %% iolib.trivial-sockets, iolib.syscalls, iolib.streams, iolib.sockets, iolib.pathnames, iolib.os, iolib.multiplex, iolib.examples, iolib.base, iolib-tests, iolib %% TODO: Documentation awaiting work. %%
+
+irc-logger-20101006-git %% irc-logger %% TODO: Documentation awaiting work. %%
+
+ironclad_0.28 %% ironclad-tests, ironclad %% Encryption/Decryption routines. %%
+
+iterate-20101006-darcs %% iterate-tests, iterate-pg, iterate %% TODO: Documentation awaiting work. %%
+
+jpl-queues-0.1 %% jpl-queues %% TODO: Documentation awaiting work. %%
+
+js-v0.10.12-git %% cl-js %% TODO: Documentation awaiting work. %%
+
+jsown-20101006-git %% jsown-tests, jsown %% TODO: Documentation awaiting work. %%
+
+jwacs-20101006-darcs %% jwacs-tests, jwacs %% TODO: Documentation awaiting work. %%
+
+kmrcl-20101006-git %% kmrcl-tests, kmrcl %% TODO: Documentation awaiting work. %%
+
+l-math_0.3.2 %% l-math %% TODO: Documentation awaiting work. %%
+
+latex-table-20101207-git %% latex-table %% TODO: Documentation awaiting work. %%
+
+levenshtein-1.0 %% levenshtein %% TODO: Documentation awaiting work. %%
+
+lift-20101107-git %% lift-documentation, lift %% TODO: Documentation awaiting work. %%
+
+linedit-20101107-git %% terminfo, linedit %% TODO: Documentation awaiting work. %%
+
+lisp-magick-0.71 %% lisp-magick %% TODO: Documentation awaiting work. %%
+
+lisp-on-lines-20101006-darcs %% lisp-on-lines.test, lisp-on-lines-ucw, lisp-on-lines %% TODO: Documentation awaiting work. %%
+
+lisp-unit-20101006-git %% lisp-unit %% TODO: Documentation awaiting work. %%
+
+lispbuilder-20110110-svn %% lispbuilder-yacc, lispbuilder-windows, lispbuilder-sdl-vecto-examples, lispbuilder-sdl-vecto, lispbuilder-sdl-ttf-examples, lispbuilder-sdl-ttf-cffi, lispbuilder-sdl-ttf-binaries, lispbuilder-sdl-ttf, lispbuilder-sdl-mixer-examples, lispbuilder-sdl-mixer-cffi, lispbuilder-sdl-mixer-binaries, lispbuilder-sdl-mixer, lispbuilder-sdl-image-examples, lispbuilder-sdl-image-cffi, lispbuilder-sdl-image-binaries, lispbuilder-sdl-image, lispbuilder-sdl-gfx-examples, lispbuilder-sdl-gfx-cffi, lispbuilder-sdl-gfx-binaries, lispbuilder-sdl-gfx, lispbuilder-sdl-examples, lispbuilder-sdl-cl-vectors-examples, lispbuilder-sdl-cl-vectors, lispbuilder-sdl-cffi, lispbuilder-sdl-binaries, lispbuilder-sdl-base, lispbuilder-sdl-assets, lispbuilder-sdl, lispbuilder-regex, lispbuilder-opengl-examples, lispbuilder-opengl-1-1, lispbuilder-net-examples, lispbuilder-net-cffi, lispbuilder-net, lispbuilder-lexer, cocoahelper %% TODO: Documentation awaiting work. %%
+
+lla-20101107-git %% lla-unit-tests, lla %% TODO: Documentation awaiting work. %%
+
+lml-20101006-git %% lml-tests, lml %% TODO: Documentation awaiting work. %%
+
+lml2-20101006-git %% lml2-tests, lml2 %% TODO: Documentation awaiting work. %%
+
+local-time-20101006-darcs %% local-time.test, local-time, cl-postgres+local-time %% TODO: Documentation awaiting work. %%
+
+log5-20110110-git %% log5 %% TODO: Documentation awaiting work. %%
+
+loopless-20101207-git %% loopless %% A library for creating a better iteration facility in Common Lisp %%
+
+lredis-20110110-git %% lredis %% TODO: Documentation awaiting work. %%
+
+ltk-0.91 %% ltk-remote, ltk-mw, ltk %% Lisp bindings to Tcl/Tk for a GUI. Requires an external Tk library.%%
+
+lw-compat-20101006-darcs %% lw-compat %% TODO: Documentation awaiting work. %%
+
+magicffi-20101006-git %% magicffi-test, magicffi %% TODO: Documentation awaiting work. %%
+
+manardb-20101207-git %% manardb-test, manardb %% TODO: Documentation awaiting work. %%
+
+mcclim-20101006-cvs 
+%% mcclim-truetype, mcclim-tree-with-cross-edges, mcclim-tiff-bitmaps, mcclim-png-bitmaps, mcclim-jpeg-bitmaps, mcclim-gif-bitmaps, mcclim-freetype-cffi, mcclim-freetype, mcclim, goatee-core, functional-geometry, esa-mcclim, esa, drei-tests, drei-mcclim, conditional-commands, clouseau, clim-postscript, clim-null, clim-looks, clim-listener, clim-lisp, clim-gtkairo, clim-examples, clim-core, clim-clx, clim-basic, clim, automaton 
+%% A GUI toolkit derived from the Genera concepts. %%
+
+md5-20101006-git %% md5 %% TODO: Documentation awaiting work. %%
+
+mel-base-20110110-git %% mel-base %% TODO: Documentation awaiting work. %%
+
+meta-20101006-git %% meta %% TODO: Documentation awaiting work. %%
+
+meta-sexp-0.1.6 %% meta-sexp %% TODO: Documentation awaiting work. %%
+
+metabang-bind-20101006-git %% metabang-bind %% TODO: Documentation awaiting work. %%
+
+metacopy-20101006-darcs %% metacopy-with-contextl, metacopy-test-with-contextl, metacopy-test, metacopy %% TODO: Documentation awaiting work. %%
+
+metatilities-20101006-darcs %% metatilities-test, metatilities %% TODO: Documentation awaiting work. %%
+
+metatilities-base-20101006-darcs %% metatilities-base-test, metatilities-base %% TODO: Documentation awaiting work. %%
+
+mgl-20110110-git %% mgl-visuals, mgl-test, mgl-example, mgl %% TODO: Documentation awaiting work. %%
+
+micmac-0.0.2 %% micmac-test, micmac %% TODO: Documentation awaiting work. %%
+
+midi-20070618 %% midi %% TODO: Documentation awaiting work. %%
+
+mime4cl-20101006-http %% mime4cl %% TODO: Documentation awaiting work. %%
+
+misc-extensions-20101006-cvs %% misc-extensions %% TODO: Documentation awaiting work. %%
+
+mixalot-20101006-git %% vorbisfile-ffi, mpg123-ffi, mixalot-vorbis, mixalot-mp3, mixalot %% TODO: Documentation awaiting work. %%
+
+monkeylib-binary-data-20110110-git %% com.gigamonkeys.binary-data %% TODO: Documentation awaiting work. %%
+
+monkeylib-foo-20101207-git %% com.gigamonkeys.foo %% TODO: Documentation awaiting work. %%
+
+monkeylib-macro-utilities-20101207-git %% com.gigamonkeys.macro-utilities %% TODO: Documentation awaiting work. %%
+
+monkeylib-markup-20101207-git %% com.gigamonkeys.markup %% TODO: Documentation awaiting work. %%
+
+monkeylib-markup-html-20101207-git %% monkeylib-markup-html %% TODO: Documentation awaiting work. %%
+
+monkeylib-pathnames-20101207-git %% com.gigamonkeys.pathnames %% TODO: Documentation awaiting work. %%
+
+monkeylib-prose-diff-20101207-git %% com.gigamonkeys.prose-diff %% TODO: Documentation awaiting work. %%
+
+monkeylib-test-framework-20101207-git %% com.gigamonkeys.test-framework %% TODO: Documentation awaiting work. %%
+
+monkeylib-utilities-20101207-git %% com.gigamonkeys.utilities %% TODO: Documentation awaiting work. %%
+
+montezuma-20110110-svn %% montezuma-tests, montezuma-indexfiles, montezuma, lucene-in-action-tests %% TODO: Documentation awaiting work. %%
+
+moptilities-20110110-http %% moptilities-test, moptilities %% TODO: Documentation awaiting work. %%
+
+mt19937-1.1 %% mt19937 %% TODO: Documentation awaiting work. %%
+
+mtlisp-20110110-git %% mtlisp %% TODO: Documentation awaiting work. %%
+
+mw-equiv-0.1.3 %% mw-equiv %% TODO: Documentation awaiting work. %%
+
+named-readtables-20101006-darcs %% named-readtables-test, named-readtables %% TODO: Documentation awaiting work. %%
+
+net-telent-date_0.42 %% net-telent-date %% TODO: Documentation awaiting work. %%
+
+net4cl-20101006-http %% net4cl %% TODO: Documentation awaiting work. %%
+
+npg-20101006-http %% npg %% TODO: Documentation awaiting work. %%
+
+nst-3.0.1 %% nst, defdoc, asdf-nst %% TODO: Documentation awaiting work. %%
+
+nuclblog-20101107-git %% nuclblog %% TODO: Documentation awaiting work. %%
+
+oct-20101006-cvs %% oct %% TODO: Documentation awaiting work. %%
+
+odd-streams-0.1.1 %% odd-streams-test, odd-streams %% TODO: Documentation awaiting work. %%
+
+ods4cl-20101006-http %% ods4cl %% TODO: Documentation awaiting work. %%
+
+okra-20101006-git %% okra-common %% TODO: Documentation awaiting work. %%
+
+osc-20101006-darcs %% osc %% TODO: Documentation awaiting work. %%
+
+osicat-20101006-git %% osicat-tests, osicat %% TODO: Documentation awaiting work. %%
+
+parenscript-2.2 %% parenscript.test, parenscript %% TODO: Documentation awaiting work. %%
+
+parse-declarations-20101006-darcs %% parse-declarations-1.0 %% TODO: Documentation awaiting work. %%
+
+parse-js-20110110-git %% parse-js %% TODO: Documentation awaiting work. %%
+
+parse-number-1.0 %% parse-number %% TODO: Documentation awaiting work. %%
+
+patron-20101006-git %% patron %% TODO: Documentation awaiting work. %%
+
+pcall-0.3 %% pcall-tests, pcall-queue, pcall %% TODO: Documentation awaiting work. %%
+
+pg-20101006-cvs %% pg %% TODO: Documentation awaiting work. %%
+
+phemlock-20110110-cvs %% spell, hemlock %% TODO: Documentation awaiting work. %%
+
+pileup-20101207-git %% pileup-tests, pileup %% TODO: Documentation awaiting work. %%
+
+pipes-20101006-git %% pipes %% TODO: Documentation awaiting work. %%
+
+pithy-xml-20101006-git %% pithy-xml %% TODO: Documentation awaiting work. %%
+
+plain-odbc-20110110-svn %% plain-odbc-with-libs, plain-odbc %% TODO: Documentation awaiting work. %%
+
+plexippus-xpath-20101006-darcs %% xpath %% TODO: Documentation awaiting work. %%
+
+plokami-20110110-git %% plokami %% TODO: Documentation awaiting work. %%
+
+png-read-20101107-git %% png-read %% TODO: Documentation awaiting work. %%
+
+portable-threads-20101006-http %% portable-threads %% TODO: Documentation awaiting work. %%
+
+portableaserve-20101006-cvs %% webactions, htmlgen, aserve, acl-compat %% TODO: Documentation awaiting work. %%
+
+postmodern-20110110-git %% simple-date-tests, simple-date-postgres-glue, simple-date, s-sql, postmodern, cl-postgres-tests, cl-postgres %% TODO: Documentation awaiting work. %%
+
+postoffice-20101006-git %% postoffice %% TODO: Documentation awaiting work. %%
+
+prepl-20101207-git %% prepl %% TODO: Documentation awaiting work. %%
+
+protobuf-20110110-git %% protobuf %% TODO: Documentation awaiting work. %%
+
+proton-20101207-git %% proton %% TODO: Documentation awaiting work. %%
+
+psgraph-1.2 %% psgraph %% TODO: Documentation awaiting work. %%
+
+ptester-20101006-git %% ptester %% TODO: Documentation awaiting work. %%
+
+pubmed-20101006-git %% pubmed %% TODO: Documentation awaiting work. %%
+
+puri-20101006-git %% puri-tests, puri %% TODO: Documentation awaiting work. %%
+
+py-configparser-20101006-svn %% py-configparser %% TODO: Documentation awaiting work. %%
+
+py-configvalidator-20101006-git %% py-configvalidator %% TODO: Documentation awaiting work. %%
+
+quicklisp-slime-helper-20101107-git %% quicklisp-slime-helper %% TODO: Documentation awaiting work. %%
+
+quickproject-20101107-git %% quickproject %% Meta-info for QuickLisp %%
+
+rcl-20101006-http %% rcl %% TODO: Documentation awaiting work. %%
+
+regex-1 %% regex %% TODO: Documentation awaiting work. %%
+
+relational-objects-for-lisp-20110110-darcs %% rofl.test, rofl %% TODO: Documentation awaiting work. %%
+
+restas-20110110-git %% restas-doc, restas %% TODO: Documentation awaiting work. %%
+
+restas-directory-publisher-20110110-git %% restas-directory-publisher %% TODO: Documentation awaiting work. %%
+
+retrospectiff-20101006-git %% retrospectiff %% TODO: Documentation awaiting work. %%
+
+reversi-20101006-git %% reversi %% TODO: Documentation awaiting work. %%
+
+rfc2109-0.4.1 %% rfc2109 %% TODO: Documentation awaiting work. %%
+
+rfc2388-20101006-http %% rfc2388 %% TODO: Documentation awaiting work. %%
+
+rfc2388-binary-20101107-darcs %% rfc2388-binary %% TODO: Documentation awaiting work. %%
+
+rfc3339-timestamp-0.2.4 %% rfc3339-timestamp %% TODO: Documentation awaiting work. %%
+
+rlc-20101006-git %% rlc %% TODO: Documentation awaiting work. %%
+
+rpc4cl-0.3.1 %% rpc4cl-test, rpc4cl %% TODO: Documentation awaiting work. %%
+
+rt-20101006-git %% rt %% TODO: Documentation awaiting work. %%
+
+rucksack-20101006-cvs %% rucksack-test, rucksack %% TODO: Documentation awaiting work. %%
+
+rutils-20101006-git %% rutils %% TODO: Documentation awaiting work. %%
+
+s-base64-20101006-http %% s-base64 %% TODO: Documentation awaiting work. %%
+
+s-dot-1.2 %% s-dot %% TODO: Documentation awaiting work. %%
+
+s-http-client-20101006-http %% s-http-client %% TODO: Documentation awaiting work. %%
+
+s-protobuf-20101006-git %% s-protobuf %% TODO: Documentation awaiting work. %%
+
+s-sysdeps-20101006-http %% s-sysdeps %% TODO: Documentation awaiting work. %%
+
+s-utils-20101006-http %% s-utils %% TODO: Documentation awaiting work. %%
+
+s-xml-20101006-http %% s-xml %% TODO: Documentation awaiting work. %%
+
+s-xml-rpc-20101006-http %% s-xml-rpc %% TODO: Documentation awaiting work. %%
+
+salza2-2.0.7 %% salza2 %% TODO: Documentation awaiting work. %%
+
+sb-cga-20101107-git %% sb-cga %% TODO: Documentation awaiting work. %%
+
+sb-vector-io-20101207-git %% sb-vector-io %% TODO: Documentation awaiting work. %%
+
+sclf-20101006-http %% sclf %% TODO: Documentation awaiting work. %%
+
+screamer-20101207-git %% screamer-tests, screamer %% TODO: Documentation awaiting work. %%
+
+scribble-20101107-git %% scribble-test, scribble %% TODO: Documentation awaiting work. %%
+
+sequence-iterators-20101207-darcs %% sequence-iterators-test, sequence-iterators, extensible-sequences-test, extensible-sequences %% TODO: Documentation awaiting work. %%
+
+series-20101006-cvs %% series-tests, series %% TODO: Documentation awaiting work. %%
+
+sheeple-20101006-git %% sheeple-tests, sheeple %% TODO: Documentation awaiting work. %%
+
+shuffletron-20101107-git %% shuffletron %% TODO: Documentation awaiting work. %%
+
+simple-date-time-20110110-git %% simple-date-time %% TODO: Documentation awaiting work. %%
+
+simple-finalizer-20101006-git %% simple-finalizer %% TODO: Documentation awaiting work. %%
+
+simpsamp-0.1 %% simpsamp %% TODO: Documentation awaiting work. %%
+
+skippy-1.3.7 %% skippy %% TODO: Documentation awaiting work. %%
+
+slime-20110110-cvs %% swank %% The Lisp half of the Superior Lisp Interaction Mode for Emacs a.k.a SLIME%%
+
+smtp4cl-20101006-http %% smtp4cl %% TODO: Documentation awaiting work. %%
+
+snmp-5.19 %% snmp-test, snmp-server, snmp-base, snmp %% TODO: Documentation awaiting work. %%
+
+soundex-1.0 %% soundex %% TODO: Documentation awaiting work. %%
+
+spartns-1.4.3 %% spartns-test, spartns %% TODO: Documentation awaiting work. %%
+
+spatial-trees-20101006-darcs %% spatial-trees %% TODO: Documentation awaiting work. %%
+
+split-sequence-20101006-http %% split-sequence %% TODO: Documentation awaiting work. %%
+
+sqnc-20110110-git %% csound %% TODO: Documentation awaiting work. %%
+
+st-json-20101207-git %% st-json %% TODO: Documentation awaiting work. %%
+
+static-vectors-20101006-git %% static-vectors %% TODO: Documentation awaiting work. %%
+
+stefil-20101107-darcs %% stefil-test, stefil %% TODO: Documentation awaiting work. %%
+
+string-case-20101006-http %% string-case %% TODO: Documentation awaiting work. %%
+
+sw-db-20101006-git %% sw-db %% TODO: Documentation awaiting work. %%
+
+sw-http-20101006-git %% sw-http %% TODO: Documentation awaiting work. %%
+
+sw-mvc-20101207-git %% sw-mvc %% TODO: Documentation awaiting work. %%
+
+sw-stm-20101006-git %% sw-stm %% TODO: Documentation awaiting work. %%
+
+symbolicweb-20101207-git %% symbolicweb-jquery, symbolicweb-examples, symbolicweb %% TODO: Documentation awaiting work. %%
+
+tbnl-0.11.4 %% tbnl %% TODO: Documentation awaiting work. %%
+
+testbild-20101207-git %% testbild-test, testbild %% TODO: Documentation awaiting work. %%
+
+tilde-20101006-git %% tilde %% TODO: Documentation awaiting work. %%
+
+tinaa-20101006-darcs %% tinaa-test %% TODO: Documentation awaiting work. %%
+
+tpapp-utils-20101107-git %% tpapp-utils %% TODO: Documentation awaiting work. %%
+
+trees_0.11 %% trees %% TODO: Documentation awaiting work. %%
+
+trivial-backtrace-20101006-git %% trivial-backtrace-test, trivial-backtrace %% TODO: Documentation awaiting work. %%
+
+trivial-features-20101006-darcs %% trivial-features-tests, trivial-features %% TODO: Documentation awaiting work. %%
+
+trivial-garbage-20101006-darcs %% trivial-garbage-tests, trivial-garbage %% 
+
+trivial-garbage provides a portable API to finalizers, weak hash-tables and weak pointers.
+
+%%
+
+trivial-gray-streams-20101006-cvs %% trivial-gray-streams %% TODO: Documentation awaiting work. %%
+
+trivial-http-20101006-http %% trivial-http-test, trivial-http %% TODO: Documentation awaiting work. %%
+
+trivial-ldap-0.92 %% trivial-ldap %% TODO: Documentation awaiting work. %%
+
+trivial-shell-20101006-http %% trivial-shell-test, trivial-shell %% TODO: Documentation awaiting work. %%
+
+trivial-timeout-20101006-darcs %% trivial-timeout-test, trivial-timeout %% TODO: Documentation awaiting work. %%
+
+trivial-timers-20101006-http %% trivial-timers %% TODO: Documentation awaiting work. %%
+
+trivial-utf-8-20101006-darcs %% trivial-utf-8-tests, trivial-utf-8 %% TODO: Documentation awaiting work. %%
+
+ucw-20110110-darcs %% ucw.mod-lisp, ucw.manual-examples, ucw.iolib, ucw.httpd, ucw.examples, ucw-core.test, ucw-core, ucw %% TODO: Documentation awaiting work. %%
+
+uffi-20101107-git %% uffi %% TODO: Documentation awaiting work. %%
+
+umlisp-20101006-git %% umlisp-tests, umlisp %% TODO: Documentation awaiting work. %%
+
+umlisp-orf-20101006-git %% umlisp-orf %% TODO: Documentation awaiting work. %%
+
+unit-test-20101006-svn %% unit-test %% TODO: Documentation awaiting work. %%
+
+unix-options-20110110-git %% unix-options %% TODO: Documentation awaiting work. %%
+
+until-it-dies-20101006-git %% until-it-dies.sound, until-it-dies.graphics, until-it-dies.examples, until-it-dies.base, until-it-dies %% TODO: Documentation awaiting work. %%
+
+url-rewrite-0.1.1 %% url-rewrite %% TODO: Documentation awaiting work. %%
+
+usocket-20110110-svn %% usocket-test, usocket %% TODO: Documentation awaiting work. %%
+
+usocket-udp-2.6 %% usocket-udp %% TODO: Documentation awaiting work. %%
+
+utils-kt-20101006-git %% utils-kt %% TODO: Documentation awaiting work. %%
+
+uuid-20101006-http %% uuid %% TODO: Documentation awaiting work. %%
+
+vcs-tree-20101006-git %% vcs-tree %% TODO: Documentation awaiting work. %%
+
+vecto-1.4.3 %% vecto %% TODO: Documentation awaiting work. %%
+
+verrazano-20110110-darcs %% verrazano-runtime, verrazano %% TODO: Documentation awaiting work. %%
+
+weblocks-20110110-hg %% weblocks-yui, weblocks-yarek, weblocks-store-test, weblocks-scripts, weblocks-s11, weblocks-prevalence, weblocks-postmodern, weblocks-memory, weblocks-elephant-demo, weblocks-elephant, weblocks-demo-popover, weblocks-demo, weblocks, simple-blog %% TODO: Documentation awaiting work. %%
+
+wiki-parser-20101006-git %% wiki-parser-test, wiki-parser %% TODO: Documentation awaiting work. %%
+
+wuwei-20110110-git %% wuwei-examples, wuwei %% TODO: Documentation awaiting work. %%
+
+x.fdatatypes-20101006-git %% x.fdatatypes %% TODO: Documentation awaiting work. %%
+
+x.let-star-20101006-git %% x.let-star %% TODO: Documentation awaiting work. %%
+
+xarray-20101006-git %% xarray %% TODO: Documentation awaiting work. %%
+
+xhtmlgen-20110110-git %% xhtmlgen-test, xhtmlgen %% TODO: Documentation awaiting work. %%
+
+xlunit-20101006-git %% xlunit-tests, xlunit %% TODO: Documentation awaiting work. %%
+
+xmls-1.4 %% xmls %% TODO: Documentation awaiting work. %%
+
+xptest-20101006-git %% xptest %% TODO: Documentation awaiting work. %%
+
+xuriella-20101006-git %% xuriella %% TODO: Documentation awaiting work. %%
+
+yaclml-20101006-darcs %% yaclml.test, yaclml %% TODO: Documentation awaiting work. %%
+
+yason-20101107-git %% yason %% TODO: Documentation awaiting work. %%
+
+zcdb-1.0.1 %% zcdb %% TODO: Documentation awaiting work. %%
+
+zip-20101107-cvs %% zip %% TODO: Documentation awaiting work. %%
+
+zlib-20101006-cvs %% zlib %% TODO: Documentation awaiting work. %%
+
+zpb-exif-1.2.1 %% zpb-exif %% TODO: Documentation awaiting work. %%
+
+zpb-ttf-1.0 %% zpb-ttf %% TODO: Documentation awaiting work. %%
+
+zpng-1.2 %% zpng %% TODO: Documentation awaiting work. %%
+
+zs3-1.1.4 %% zs3 %% TODO: Documentation awaiting work. %%
+
